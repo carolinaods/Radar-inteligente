@@ -1,5 +1,3 @@
 # Radar Inteligente
 
-Portal de inteligência de mercado: SAP, Reforma Tributária e carteira de clientes.
-
-Em construção.
+SAP, Reforma Tributária e Inteligência de Clientes.
