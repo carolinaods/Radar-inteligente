@@ -1,0 +1,139 @@
+{
+ "runs": [
+  {
+   "started_at": "2026-10-16T15:21:34Z",
+   "finished_at": "2026-10-16T15:25:01Z",
+   "duration_s": 207.5,
+   "status": "parcial",
+   "first_run": true,
+   "sources_consulted": 8,
+   "items_found": 490,
+   "items_kept": 376,
+   "new": 358,
+   "duplicates": 18,
+   "updated": 0,
+   "sources": [
+    {
+     "id": "sap-news-center",
+     "name": "SAP News Center",
+     "kind": "rss",
+     "status": "ok",
+     "items": 30,
+     "error": null,
+     "note": "",
+     "duration_s": 1.0
+    },
+    {
+     "id": "sap-community-sap-brasil",
+     "name": "SAP Community (busca por tema)",
+     "kind": "manual",
+     "status": "manual",
+     "items": 0,
+     "error": null,
+     "note": "Sem feed confirmado. Incluir links relevantes manualmente em config/manual_items.yml.",
+     "duration_s": 0.0
+    },
+    {
+     "id": "sap-help-whatsnew",
+     "name": "SAP Help Portal",
+     "kind": "manual",
+     "status": "manual",
+     "items": 0,
+     "error": null,
+     "note": "Portal dinâmico; sem coleta automática confiável. Acompanhar manualmente 'What's New'.",
+     "duration_s": 0.0
+    },
+    {
+     "id": "receita-noticias",
+     "name": "Receita Federal — Notícias",
+     "kind": "html_links",
+     "status": "ok",
+     "items": 17,
+     "error": null,
+     "note": "",
+     "duration_s": 1.8
+    },
+    {
+     "id": "nfe-portal",
+     "name": "Portal Nacional da NF-e",
+     "kind": "html_links",
+     "status": "ok",
+     "items": 5,
+     "error": null,
+     "note": "",
+     "duration_s": 1.8
+    },
+    {
+     "id": "confaz",
+     "name": "CONFAZ",
+     "kind": "html_links",
+     "status": "erro",
+     "items": 0,
+     "error": "FetchError: ConnectTimeout: HTTPSConnectionPool(host='www.confaz.fazenda.gov.br', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.confaz.fazenda.gov.br', port após 3 tentativas",
+     "note": "",
+     "duration_s": 115.1
+    },
+    {
+     "id": "fazenda-reforma",
+     "name": "Ministério da Fazenda — Reforma Tributária",
+     "kind": "html_links",
+     "status": "ok",
+     "items": 0,
+     "error": null,
+     "note": "",
+     "duration_s": 0.9
+    },
+    {
+     "id": "dou",
+     "name": "Diário Oficial da União",
+     "kind": "manual",
+     "status": "manual",
+     "items": 0,
+     "error": null,
+     "note": "Busca dinâmica (JavaScript). Sem coleta automática; usar a busca do portal por 'CBS', 'IBS'.",
+     "duration_s": 0.0
+    },
+    {
+     "id": "comite-gestor-ibs",
+     "name": "Comitê Gestor do IBS",
+     "kind": "manual",
+     "status": "manual",
+     "items": 0,
+     "error": null,
+     "note": "Endereço oficial do Comitê Gestor a confirmar quando disponível; incluir quando houver feed/página.",
+     "duration_s": 0.0
+    },
+    {
+     "id": "gnews-sap-reforma",
+     "name": "Google Notícias — SAP e Reforma Tributária",
+     "kind": "google_news",
+     "status": "ok",
+     "items": 45,
+     "error": null,
+     "note": "",
+     "duration_s": 3.9
+    },
+    {
+     "id": "gnews-sap-mundo",
+     "name": "Google Notícias — Mundo SAP",
+     "kind": "google_news",
+     "status": "ok",
+     "items": 36,
+     "error": null,
+     "note": "",
+     "duration_s": 4.5
+    },
+    {
+     "id": "gnews-clientes",
+     "name": "Google Notícias — Carteira de clientes",
+     "kind": "google_news",
+     "status": "ok",
+     "items": 357,
+     "error": null,
+     "note": "",
+     "duration_s": 77.9
+    }
+   ]
+  }
+ ]
+}
