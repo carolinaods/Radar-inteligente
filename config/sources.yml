@@ -1,0 +1,152 @@
+# Cadastro de fontes. Adicione, edite ou desative (enabled: false) sem mexer no código.
+#
+# kind:
+#   rss          feed RSS/Atom
+#   html_links   página de notícias SEM feed: extrai links cujo texto passe em link_contains
+#   google_news  descoberta via feed de busca do Google Notícias (fonte SECUNDÁRIA/jornalística)
+#                queries: [...]   -> consultas de tema
+#                per_client: true -> uma consulta por cliente (config/clients.yml)
+#   manual       sem coleta automática (limitação registrada); use config/manual_items.yml
+#
+# authority: official | specialist | journalistic
+# category:  sap | reforma_tributaria | clientes | mercado | seguranca
+# verified:  false = URL ainda NÃO confirmada em execução real. Depois da primeira
+#            coleta, veja docs/data/runs.json (ou a seção de status do site):
+#            fontes com erro aparecem lá com o motivo.
+
+defaults:
+  max_age_days: 60              # RSS/HTML: ignora publicações mais antigas que isso
+  first_run_lookback_days: 60   # Google Notícias, primeira execução
+  weekly_lookback_days: 14      # Google Notícias, execuções seguintes
+  retention_days: 0             # 0 = nunca apagar. >0 remove só Média/Informativa mais antigas
+  per_source_limit: 40
+  request_timeout: 25
+  retries: 3
+  delay_between_requests: 1.5
+  user_agent: "RadarInteligenteBot/0.1 (+https://github.com/carolinaods/Radar-inteligente)"
+
+sources:
+  # ---------- SAP ----------
+  - id: sap-news-center
+    name: SAP News Center
+    kind: rss
+    url: https://news.sap.com/feed/
+    authority: official
+    category: sap
+    enabled: true
+    verified: false
+
+  - id: sap-community-sap-brasil
+    name: SAP Community (busca por tema)
+    kind: manual
+    url: https://community.sap.com/
+    authority: official
+    category: sap
+    enabled: true
+    verified: false
+    note: "Sem feed confirmado. Incluir links relevantes manualmente em config/manual_items.yml."
+
+  - id: sap-help-whatsnew
+    name: SAP Help Portal
+    kind: manual
+    url: https://help.sap.com/
+    authority: official
+    category: sap
+    enabled: true
+    verified: false
+    note: "Portal dinâmico; sem coleta automática confiável. Acompanhar manualmente 'What's New'."
+
+  # ---------- Reforma Tributária (oficiais) ----------
+  - id: receita-noticias
+    name: Receita Federal — Notícias
+    kind: html_links
+    url: https://www.gov.br/receitafederal/pt-br/assuntos/noticias
+    link_contains: ["reforma tributária", "CBS", "IBS", "NF-e", "nota fiscal", "imposto seletivo", "split payment"]
+    authority: official
+    category: reforma_tributaria
+    enabled: true
+    verified: false
+
+  - id: nfe-portal
+    name: Portal Nacional da NF-e
+    kind: html_links
+    url: https://www.nfe.fazenda.gov.br/portal/principal.aspx
+    link_contains: ["nota técnica", "NT 20", "informe", "CBS", "IBS", "reforma", "leiaute", "prazo"]
+    authority: official
+    category: reforma_tributaria
+    enabled: true
+    verified: false
+
+  - id: confaz
+    name: CONFAZ
+    kind: html_links
+    url: https://www.confaz.fazenda.gov.br/
+    link_contains: ["convênio", "ajuste sinief", "ato cotepe", "reforma", "IBS", "CBS", "NF-e"]
+    authority: official
+    category: reforma_tributaria
+    enabled: true
+    verified: false
+
+  - id: fazenda-reforma
+    name: Ministério da Fazenda — Reforma Tributária
+    kind: html_links
+    url: https://www.gov.br/fazenda/pt-br/assuntos/reforma-tributaria
+    link_contains: ["reforma tributária", "CBS", "IBS", "regulament", "imposto seletivo", "comitê gestor"]
+    authority: official
+    category: reforma_tributaria
+    enabled: true
+    verified: false
+
+  - id: dou
+    name: Diário Oficial da União
+    kind: manual
+    url: https://www.in.gov.br/
+    authority: official
+    category: reforma_tributaria
+    enabled: true
+    verified: false
+    note: "Busca dinâmica (JavaScript). Sem coleta automática; usar a busca do portal por 'CBS', 'IBS'."
+
+  - id: comite-gestor-ibs
+    name: Comitê Gestor do IBS
+    kind: manual
+    url: https://www.gov.br/fazenda/pt-br
+    authority: official
+    category: reforma_tributaria
+    enabled: true
+    verified: false
+    note: "Endereço oficial do Comitê Gestor a confirmar quando disponível; incluir quando houver feed/página."
+
+  # ---------- Descoberta secundária (jornalismo/mercado) ----------
+  - id: gnews-sap-reforma
+    name: Google Notícias — SAP e Reforma Tributária
+    kind: google_news
+    queries:
+      - '"reforma tributária" SAP'
+      - '"reforma tributária" (IBS OR CBS) "nota técnica"'
+      - '"reforma tributária" NF-e leiaute'
+    authority: journalistic
+    category: reforma_tributaria
+    enabled: true
+    verified: false
+
+  - id: gnews-sap-mundo
+    name: Google Notícias — Mundo SAP
+    kind: google_news
+    queries:
+      - '"SAP S/4HANA"'
+      - '"SAP Brasil"'
+      - '"SAP Activate" OR "SAP BTP" OR "SAP Joule"'
+    authority: journalistic
+    category: sap
+    enabled: true
+    verified: false
+
+  - id: gnews-clientes
+    name: Google Notícias — Carteira de clientes
+    kind: google_news
+    per_client: true
+    authority: journalistic
+    category: clientes
+    enabled: true
+    verified: false

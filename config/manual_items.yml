@@ -1,0 +1,13 @@
+# Inclusão manual de publicações (fontes que não podem ser coletadas automaticamente,
+# como SAP Community, SAP Help e Diário Oficial). Preencha só com publicações reais.
+# Campos obrigatórios: title, url. Opcionais: published (AAAA-MM-DD), summary,
+# source_name, authority (official|specialist|journalistic), category (sap|reforma_tributaria|mercado).
+items: []
+# Exemplo (remova o '#' e preencha com dados reais):
+# items:
+#   - title: "Título original da publicação"
+#     url: "https://..."
+#     published: "2026-10-01"
+#     source_name: "Diário Oficial da União"
+#     authority: official
+#     category: reforma_tributaria

@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Radar Inteligente</title>
+<meta name="description" content="SAP, Reforma Tributária e Inteligência de Clientes">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div class="top-inner">
+    <div class="brand">
+      <div class="logo" aria-hidden="true">
+        <svg viewBox="0 0 32 32" width="32" height="32"><circle cx="16" cy="16" r="13" fill="none" stroke="currentColor" stroke-width="2"/><circle cx="16" cy="16" r="7" fill="none" stroke="currentColor" stroke-width="2" opacity=".6"/><path d="M16 16 L26 9" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/><circle cx="16" cy="16" r="2" fill="currentColor"/></svg>
+      </div>
+      <div>
+        <h1>Radar Inteligente</h1>
+        <p class="sub">SAP, Reforma Tributária e Inteligência de Clientes</p>
+      </div>
+    </div>
+    <div class="status" id="statusBox" aria-live="polite">
+      <div><span class="lbl">Última atualização bem-sucedida</span><strong id="lastUpdate">—</strong></div>
+      <div><span class="lbl">Próxima atualização programada</span><strong id="nextUpdate">—</strong></div>
+      <div><span class="lbl">Status da coleta</span><span id="runStatus" class="pill">—</span></div>
+    </div>
+  </div>
+</header>
+
+<main>
+  <noscript>Este painel precisa de JavaScript habilitado.</noscript>
+  <div id="banner" class="banner" hidden></div>
+
+  <section class="kpis" id="kpis" aria-label="Indicadores"></section>
+
+  <section class="filters" aria-label="Filtros">
+    <div class="row search-row">
+      <input id="q" type="search" placeholder="Pesquisar por título, resumo, empresa ou palavra-chave" aria-label="Pesquisar">
+      <select id="sort" aria-label="Ordenação">
+        <option value="relevance">Ordenar: relevância</option>
+        <option value="date">Ordenar: data (mais recentes)</option>
+      </select>
+      <div class="seg" role="group" aria-label="Visualização">
+        <button type="button" id="viewCards" class="on">Cards</button>
+        <button type="button" id="viewList">Lista</button>
+      </div>
+    </div>
+    <div class="row grid">
+      <label>Categoria
+        <select id="fCategory">
+          <option value="">Todas as categorias</option>
+          <option value="sap">SAP</option>
+          <option value="reforma_tributaria">Reforma Tributária</option>
+          <option value="clientes">Clientes</option>
+          <option value="mercado">Mercado e tendências</option>
+          <option value="seguranca">Segurança e tecnologia</option>
+        </select>
+      </label>
+      <label>Módulo / assunto SAP
+        <select id="fModule"><option value="">Todos</option></select>
+      </label>
+      <div class="field">
+        <span class="lbl2">Cliente</span>
+        <details class="ms" id="clientMs">
+          <summary id="clientSummary">Todos os clientes</summary>
+          <div class="ms-panel">
+            <input id="clientSearch" type="search" placeholder="Buscar cliente" aria-label="Buscar cliente">
+            <label class="chk all"><input type="checkbox" id="clientAll" checked> Todos os clientes</label>
+            <div id="clientList"></div>
+          </div>
+        </details>
+      </div>
+      <label>Fonte
+        <select id="fSource"><option value="">Todas</option></select>
+      </label>
+      <label>Período
+        <select id="fPeriod">
+          <option value="all">Todo o histórico</option>
+          <option value="1">Últimas 24 horas</option>
+          <option value="7">Últimos 7 dias</option>
+          <option value="30" selected>Últimos 30 dias</option>
+          <option value="custom">Intervalo personalizado</option>
+        </select>
+      </label>
+      <label>Natureza da informação
+        <select id="fNature"><option value="">Todas</option></select>
+      </label>
+      <label>Ação necessária
+        <select id="fAction">
+          <option value="">Todas</option>
+          <option>Exige avaliação imediata</option>
+          <option>Recomenda análise técnica</option>
+          <option>Apenas acompanhamento</option>
+          <option>Informativo</option>
+        </select>
+      </label>
+      <div class="field" id="customDates" hidden>
+        <span class="lbl2">Intervalo</span>
+        <div class="dates"><input type="date" id="dFrom" aria-label="De"><input type="date" id="dTo" aria-label="Até"></div>
+      </div>
+    </div>
+    <div class="row relrow">
+      <span class="lbl2">Relevância</span>
+      <div id="relChips" class="chips"></div>
+      <button type="button" id="clear" class="ghost">Limpar filtros</button>
+    </div>
+    <div class="row meta-row">
+      <strong id="count" aria-live="polite"></strong>
+      <div id="active" class="active"></div>
+    </div>
+  </section>
+
+  <nav class="jump" aria-label="Seções">
+    <a href="#sec-destaques">Destaques</a><a href="#sec-criticos">Alertas críticos</a><a href="#sec-rt">Reforma Tributária</a>
+    <a href="#sec-sap">SAP em foco</a><a href="#sec-clientes">Radar dos clientes</a><a href="#sec-prazos">Agenda de prazos</a>
+    <a href="#sec-tendencias">Tendências</a><a href="#sec-historico">Histórico</a><a href="#sec-status">Status da coleta</a>
+  </nav>
+
+  <div id="sections"></div>
+</main>
+
+<footer>
+  <p>Classificações, impactos e ações são <strong>recomendações automáticas por regras</strong>, não determinações oficiais da fonte.
+  Resumos são trechos fiéis da publicação; consulte sempre o link original. Informações públicas coletadas de fontes permitidas.</p>
+</footer>
+<script src="app.js"></script>
+</body>
+</html>

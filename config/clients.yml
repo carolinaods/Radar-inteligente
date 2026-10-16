@@ -1,0 +1,68 @@
+# Cadastro de clientes monitorados (lista oficial inicial, grafia preservada).
+#
+# Campos:
+#   name      grafia exibida na interface (não alterar sem necessidade)
+#   aliases   variações de nome, razão social e marcas usadas na busca
+#   context   palavras que ajudam a CONFIRMAR a identidade da empresa em um texto
+#   ambiguous true  = o nome é curto/genérico. Só confirma a associação se alguma
+#                     palavra de "context" aparecer junto. Sem "context", a notícia
+#                     vira "Associação não confirmada".
+#   query     (opcional) termo usado na busca de notícias; padrão = name
+#
+# IMPORTANTE: os campos "context" e "aliases" abaixo são um ponto de partida
+# genérico. Revise cada um com o que você sabe do cliente (site oficial, razão
+# social, setor). Quanto melhor o "context", menos falsos positivos.
+
+clients:
+  - {name: "CIMED", aliases: ["Cimed Indústria", "Cimed Group", "Grupo Cimed"], context: ["farmac", "medicamento", "genéric", "Pouso Alegre"], ambiguous: false}
+  - {name: "SANTA IZABEL", aliases: ["Santa Izabel"], context: [], ambiguous: true}
+  - {name: "NARDINI", aliases: ["Nardini"], context: ["máquina", "agrícola", "Vargem Grande do Sul", "indústria"], ambiguous: true}
+  - {name: "DR.REDDYS", aliases: ["Dr. Reddy's", "Dr Reddys", "Dr. Reddys"], context: ["farmac", "pharma", "Brasil"], ambiguous: false}
+  - {name: "GRUPO NC - EMS", aliases: ["EMS Pharma", "EMS Farmacêutica", "Grupo NC", "Laboratório EMS"], query: "EMS farmacêutica", context: ["farmac", "medicamento", "Hortolândia", "Nortec"], ambiguous: true}
+  - {name: "NUTRIEN", aliases: ["Nutrien Ag Solutions", "Nutrien Soluções Agrícolas"], context: ["agr", "fertiliz", "Brasil"], ambiguous: false}
+  - {name: "ARTABAS", aliases: ["Artabas"], context: [], ambiguous: true}
+  - {name: "BREJEIRO", aliases: ["Brejeiro"], context: [], ambiguous: true}
+  - {name: "SÃO MARTINHO", aliases: ["Usina São Martinho", "São Martinho S.A.", "SMTO3"], context: ["açúcar", "etanol", "usina", "cana", "SMTO3", "Pradópolis"], ambiguous: false}
+  - {name: "CROMEX", aliases: ["Cromex"], context: ["indústria", "tinta", "pigment", "química"], ambiguous: true}
+  - {name: "ROGE SOLUCOES", aliases: ["Roge Soluções", "Roge Soluções Industriais"], context: [], ambiguous: false}
+  - {name: "PRENSAS SCHULER", aliases: ["Schuler Prensas", "Prensas Schuler", "Schuler do Brasil"], context: [], ambiguous: false}
+  - {name: "LEO MADEIRAS", aliases: ["Leo Madeiras"], context: [], ambiguous: false}
+  - {name: "SOFTYS", aliases: ["Softys Brasil", "Softys Chile"], context: ["papel", "tissue", "fralda", "higiene", "CMPC"], ambiguous: true}
+  - {name: "BRAMETAL", aliases: ["Brametal"], context: [], ambiguous: false}
+  - {name: "TEMPO PARTICIPACOES", aliases: ["Tempo Participações"], context: [], ambiguous: false}
+  - {name: "ARMAC", aliases: ["Armac Locação", "Armac Locação, Logística e Serviços"], context: ["locação", "equipamento", "ARMC3", "Belo Horizonte"], ambiguous: true}
+  - {name: "TEREOS", aliases: ["Tereos Açúcar e Energia", "Tereos Brasil"], context: ["açúcar", "etanol", "usina", "cana", "Brasil"], ambiguous: false}
+  - {name: "MYRALIS", aliases: ["Myralis"], context: [], ambiguous: true}
+  - {name: "METALURGICA SCHADEK", aliases: ["Metalúrgica Schadek", "Schadek"], context: [], ambiguous: false}
+  - {name: "GEOLAB", aliases: ["Geolab Indústria Farmacêutica", "Laboratório Geolab"], context: ["farmac", "medicamento", "Anápolis", "genéric"], ambiguous: true}
+  - {name: "GLOBALFOOD", aliases: ["Global Food", "GlobalFood"], context: ["aliment", "indústria"], ambiguous: true}
+  - {name: "ZIM", aliases: ["ZIM"], context: [], ambiguous: true}
+  - {name: "SANTA VITORIA", aliases: ["Santa Vitória", "Usina Santa Vitória"], context: ["usina", "açúcar", "etanol", "cana"], ambiguous: true}
+  - {name: "MORLAN", aliases: ["Morlan S.A.", "Morlan"], context: ["indústria", "metal", "Morlan S.A"], ambiguous: true}
+  - {name: "INTERCOS", aliases: ["Intercos Group", "Intercos Brasil"], context: ["cosmétic", "beleza", "maquiagem"], ambiguous: false}
+  - {name: "MECALUX", aliases: ["Mecalux Brasil"], context: ["armazen", "logíst", "estante", "warehouse"], ambiguous: false}
+  - {name: "ARNO", aliases: ["Arno S.A.", "Arno eletrodomésticos"], context: ["eletrodom", "SEB", "liquidificador", "batedeira"], ambiguous: true}
+  - {name: "ALTHAIA", aliases: ["Althaia S.A.", "Althaia Indústria Farmacêutica"], context: ["farmac", "Atibaia", "medicamento", "nutracêutic"], ambiguous: false}
+  - {name: "HTB", aliases: ["HTB"], context: [], ambiguous: true}
+  - {name: "VIVARA", aliases: ["Vivara Participações", "VIVA3"], context: ["joia", "joalheria", "VIVA3", "Life by Vivara"], ambiguous: false}
+  - {name: "NIEHOFF-HERBORN", aliases: ["Niehoff Herborn", "Niehoff", "Herborn"], context: ["trefila", "máquina", "fio", "Maschinenbau"], ambiguous: false}
+  - {name: "METRO", aliases: ["Metro Cash & Carry", "Metro Atacadista", "Makro Metro"], context: ["atacad", "atacarejo", "Metro Cash", "Metro AG"], ambiguous: true}
+  - {name: "FOXCONN", aliases: ["Foxconn Brasil", "Hon Hai"], context: ["Brasil", "eletrônic", "fábrica", "Jundiaí", "Hon Hai"], ambiguous: false}
+  - {name: "HSI", aliases: ["HSI"], context: [], ambiguous: true}
+  - {name: "BRUDDEN", aliases: ["Brudden Equipamentos", "Brudden"], context: [], ambiguous: false}
+  - {name: "Nexans", aliases: ["Nexans Brasil"], context: ["cabo", "energia", "Brasil", "fio"], ambiguous: false}
+  - {name: "VIARONDON", aliases: ["Via Rondon", "ViaRondon"], context: ["rodovia", "concessão", "pedágio", "Rondon"], ambiguous: true}
+  - {name: "VERALLIA", aliases: ["Verallia Brasil"], context: ["vidro", "embalagem", "garrafa"], ambiguous: false}
+  - {name: "CLIPTECH", aliases: ["Cliptech"], context: [], ambiguous: true}
+  - {name: "COFCO", aliases: ["COFCO International", "COFCO Brasil"], context: ["grão", "commodit", "agr", "açúcar", "Brasil"], ambiguous: true}
+  - {name: "COLORMAQ", aliases: ["Colormaq"], context: ["lavadora", "eletrodom", "Colormaq"], ambiguous: false}
+  - {name: "COPLACANA", aliases: ["Cooperativa Coplacana"], context: ["cooperativa", "cana", "Piracicaba"], ambiguous: false}
+  - {name: "DACARTO", aliases: ["Dacarto Benvic", "Dacarto"], context: ["PVC", "compost", "plástic"], ambiguous: false}
+  - {name: "JACTO", aliases: ["Máquinas Agrícolas Jacto", "Grupo Jacto"], context: ["agrícola", "pulveriz", "Pompeia", "máquina"], ambiguous: false}
+  - {name: "LEVEROS", aliases: ["Leveros"], context: [], ambiguous: true}
+  - {name: "RODOBENS", aliases: ["Rodobens Negócios Imobiliários", "Grupo Rodobens", "Rodobens"], context: ["consórcio", "imobili", "concession", "caminh"], ambiguous: false}
+  - {name: "USINA GUAIRA", aliases: ["Usina Guaíra", "Usina Guaira"], context: ["açúcar", "etanol", "cana", "Guaíra"], ambiguous: false}
+  - {name: "USINA SÃO JOÃO", aliases: ["Usina São João"], context: ["açúcar", "etanol", "cana", "Araras"], ambiguous: true}
+  - {name: "BLAU FARMA", aliases: ["Blau Farmacêutica", "Blau"], context: ["farmac", "medicamento", "hospitalar", "Cotia"], ambiguous: false}
+  - {name: "MIDEA", aliases: ["Midea Carrier", "Midea Group", "Springer Midea"], context: ["ar-condicionado", "eletrodom", "Carrier", "Brasil", "Canoas"], ambiguous: true}
+  - {name: "ICE FRESCH", aliases: ["Ice Fresch", "Ice Fresh"], context: [], ambiguous: true}

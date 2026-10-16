@@ -1,0 +1,346 @@
+{
+ "clients": [
+  {
+   "name": "CIMED",
+   "reviewed": false
+  },
+  {
+   "name": "SANTA IZABEL",
+   "reviewed": false
+  },
+  {
+   "name": "NARDINI",
+   "reviewed": false
+  },
+  {
+   "name": "DR.REDDYS",
+   "reviewed": false
+  },
+  {
+   "name": "GRUPO NC - EMS",
+   "reviewed": false
+  },
+  {
+   "name": "NUTRIEN",
+   "reviewed": false
+  },
+  {
+   "name": "ARTABAS",
+   "reviewed": false
+  },
+  {
+   "name": "BREJEIRO",
+   "reviewed": false
+  },
+  {
+   "name": "SÃO MARTINHO",
+   "reviewed": false
+  },
+  {
+   "name": "CROMEX",
+   "reviewed": false
+  },
+  {
+   "name": "ROGE SOLUCOES",
+   "reviewed": false
+  },
+  {
+   "name": "PRENSAS SCHULER",
+   "reviewed": false
+  },
+  {
+   "name": "LEO MADEIRAS",
+   "reviewed": false
+  },
+  {
+   "name": "SOFTYS",
+   "reviewed": false
+  },
+  {
+   "name": "BRAMETAL",
+   "reviewed": false
+  },
+  {
+   "name": "TEMPO PARTICIPACOES",
+   "reviewed": false
+  },
+  {
+   "name": "ARMAC",
+   "reviewed": false
+  },
+  {
+   "name": "TEREOS",
+   "reviewed": false
+  },
+  {
+   "name": "MYRALIS",
+   "reviewed": false
+  },
+  {
+   "name": "METALURGICA SCHADEK",
+   "reviewed": false
+  },
+  {
+   "name": "GEOLAB",
+   "reviewed": false
+  },
+  {
+   "name": "GLOBALFOOD",
+   "reviewed": false
+  },
+  {
+   "name": "ZIM",
+   "reviewed": false
+  },
+  {
+   "name": "SANTA VITORIA",
+   "reviewed": false
+  },
+  {
+   "name": "MORLAN",
+   "reviewed": false
+  },
+  {
+   "name": "INTERCOS",
+   "reviewed": false
+  },
+  {
+   "name": "MECALUX",
+   "reviewed": false
+  },
+  {
+   "name": "ARNO",
+   "reviewed": false
+  },
+  {
+   "name": "ALTHAIA",
+   "reviewed": false
+  },
+  {
+   "name": "HTB",
+   "reviewed": false
+  },
+  {
+   "name": "VIVARA",
+   "reviewed": false
+  },
+  {
+   "name": "NIEHOFF-HERBORN",
+   "reviewed": false
+  },
+  {
+   "name": "METRO",
+   "reviewed": false
+  },
+  {
+   "name": "FOXCONN",
+   "reviewed": false
+  },
+  {
+   "name": "HSI",
+   "reviewed": false
+  },
+  {
+   "name": "BRUDDEN",
+   "reviewed": false
+  },
+  {
+   "name": "Nexans",
+   "reviewed": false
+  },
+  {
+   "name": "VIARONDON",
+   "reviewed": false
+  },
+  {
+   "name": "VERALLIA",
+   "reviewed": false
+  },
+  {
+   "name": "CLIPTECH",
+   "reviewed": false
+  },
+  {
+   "name": "COFCO",
+   "reviewed": false
+  },
+  {
+   "name": "COLORMAQ",
+   "reviewed": false
+  },
+  {
+   "name": "COPLACANA",
+   "reviewed": false
+  },
+  {
+   "name": "DACARTO",
+   "reviewed": false
+  },
+  {
+   "name": "JACTO",
+   "reviewed": false
+  },
+  {
+   "name": "LEVEROS",
+   "reviewed": false
+  },
+  {
+   "name": "RODOBENS",
+   "reviewed": false
+  },
+  {
+   "name": "USINA GUAIRA",
+   "reviewed": false
+  },
+  {
+   "name": "USINA SÃO JOÃO",
+   "reviewed": false
+  },
+  {
+   "name": "BLAU FARMA",
+   "reviewed": false
+  },
+  {
+   "name": "MIDEA",
+   "reviewed": false
+  },
+  {
+   "name": "ICE FRESCH",
+   "reviewed": false
+  }
+ ],
+ "sap_modules": [
+  "FI/CO",
+  "SD",
+  "MM",
+  "EWM/IM",
+  "PS",
+  "BTP/CPI/Integration Suite",
+  "S/4HANA",
+  "SAP Activate",
+  "SAP Cloud ALM/Solution Manager",
+  "SAP AI/Joule",
+  "Localização Brasil",
+  "SAP Notes e KBAs"
+ ],
+ "nature": [
+  "Obrigação ou mudança oficial",
+  "Atualização técnica",
+  "Prazo ou cronograma",
+  "Risco ou limitação",
+  "Oportunidade de negócio",
+  "Notícia corporativa",
+  "Tendência de mercado",
+  "Análise de especialista"
+ ],
+ "sources": [
+  {
+   "id": "sap-news-center",
+   "name": "SAP News Center",
+   "kind": "rss",
+   "enabled": true,
+   "authority": "official",
+   "verified": false,
+   "note": ""
+  },
+  {
+   "id": "sap-community-sap-brasil",
+   "name": "SAP Community (busca por tema)",
+   "kind": "manual",
+   "enabled": true,
+   "authority": "official",
+   "verified": false,
+   "note": "Sem feed confirmado. Incluir links relevantes manualmente em config/manual_items.yml."
+  },
+  {
+   "id": "sap-help-whatsnew",
+   "name": "SAP Help Portal",
+   "kind": "manual",
+   "enabled": true,
+   "authority": "official",
+   "verified": false,
+   "note": "Portal dinâmico; sem coleta automática confiável. Acompanhar manualmente 'What's New'."
+  },
+  {
+   "id": "receita-noticias",
+   "name": "Receita Federal — Notícias",
+   "kind": "html_links",
+   "enabled": true,
+   "authority": "official",
+   "verified": false,
+   "note": ""
+  },
+  {
+   "id": "nfe-portal",
+   "name": "Portal Nacional da NF-e",
+   "kind": "html_links",
+   "enabled": true,
+   "authority": "official",
+   "verified": false,
+   "note": ""
+  },
+  {
+   "id": "confaz",
+   "name": "CONFAZ",
+   "kind": "html_links",
+   "enabled": true,
+   "authority": "official",
+   "verified": false,
+   "note": ""
+  },
+  {
+   "id": "fazenda-reforma",
+   "name": "Ministério da Fazenda — Reforma Tributária",
+   "kind": "html_links",
+   "enabled": true,
+   "authority": "official",
+   "verified": false,
+   "note": ""
+  },
+  {
+   "id": "dou",
+   "name": "Diário Oficial da União",
+   "kind": "manual",
+   "enabled": true,
+   "authority": "official",
+   "verified": false,
+   "note": "Busca dinâmica (JavaScript). Sem coleta automática; usar a busca do portal por 'CBS', 'IBS'."
+  },
+  {
+   "id": "comite-gestor-ibs",
+   "name": "Comitê Gestor do IBS",
+   "kind": "manual",
+   "enabled": true,
+   "authority": "official",
+   "verified": false,
+   "note": "Endereço oficial do Comitê Gestor a confirmar quando disponível; incluir quando houver feed/página."
+  },
+  {
+   "id": "gnews-sap-reforma",
+   "name": "Google Notícias — SAP e Reforma Tributária",
+   "kind": "google_news",
+   "enabled": true,
+   "authority": "journalistic",
+   "verified": false,
+   "note": ""
+  },
+  {
+   "id": "gnews-sap-mundo",
+   "name": "Google Notícias — Mundo SAP",
+   "kind": "google_news",
+   "enabled": true,
+   "authority": "journalistic",
+   "verified": false,
+   "note": ""
+  },
+  {
+   "id": "gnews-clientes",
+   "name": "Google Notícias — Carteira de clientes",
+   "kind": "google_news",
+   "enabled": true,
+   "authority": "journalistic",
+   "verified": false,
+   "note": ""
+  }
+ ]
+}

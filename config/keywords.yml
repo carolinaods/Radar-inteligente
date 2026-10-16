@@ -1,0 +1,109 @@
+# Regras de classificação (sem IA paga). Tudo editável.
+# Os termos são comparados sem diferença de maiúsculas/acentos.
+
+scoring:
+  reliability_points: {official: 30, specialist: 20, journalistic: 15}
+  recency:            # (dias desde a publicação) -> pontos
+    - {max_days: 2,  points: 15}
+    - {max_days: 7,  points: 12}
+    - {max_days: 14, points: 8}
+    - {max_days: 30, points: 4}
+  topic_points_per_hit: 5
+  topic_points_cap: 25
+  urgency_points_per_hit: 5
+  urgency_points_cap: 15
+  client_confirmed_points: 15
+  deadline_bonus: {within_days: 45, points: 10}   # prazo futuro próximo citado na publicação
+  levels: {critical: 80, high: 60, medium: 40}
+  # Crítica exige TAMBÉM: fonte oficial + termo de obrigação/prazo + data de publicação confirmada.
+
+categories:
+  sap:
+    - "S/4HANA"
+    - "SAP ECC"
+    - "SAP Activate"
+    - "SAP BTP"
+    - "Integration Suite"
+    - "SAP Fiori"
+    - "SAP Build"
+    - "Joule"
+    - "Cloud ALM"
+    - "Solution Manager"
+    - "SAP Business One"
+    - "SAP Note"
+    - "SAP"
+  reforma_tributaria:
+    - "reforma tributária"
+    - "CBS"
+    - "IBS"
+    - "imposto seletivo"
+    - "nota técnica"
+    - "NF-e"
+    - "NFC-e"
+    - "CT-e"
+    - "leiaute"
+    - "layout xml"
+    - "comitê gestor"
+    - "split payment"
+    - "LC 214"
+    - "cClassTrib"
+  mercado:
+    - "tendência"
+    - "mercado"
+    - "investimento"
+    - "inteligência artificial"
+  seguranca:
+    - "ciberataque"
+    - "vulnerabilidade"
+    - "ransomware"
+    - "vazamento"
+    - "segurança da informação"
+
+sap_modules:
+  "FI/CO": ["SAP FI", "SAP CO", "financeiro", "contabil", "controladoria", "FI/CO"]
+  "SD": ["SAP SD", "faturamento", "vendas", "sales and distribution"]
+  "MM": ["SAP MM", "compras", "materials management", "recebimento fiscal"]
+  "EWM/IM": ["EWM", "extended warehouse", "gestão de estoque", "inventory management"]
+  "PS": ["SAP PS", "project system", "gestão de projetos"]
+  "BTP/CPI/Integration Suite": ["SAP BTP", "Integration Suite", "CPI", "Cloud Integration", "business technology platform"]
+  "S/4HANA": ["S/4HANA", "S4HANA"]
+  "SAP Activate": ["SAP Activate"]
+  "SAP Cloud ALM/Solution Manager": ["Cloud ALM", "Solution Manager", "SolMan"]
+  "SAP AI/Joule": ["Joule", "SAP AI", "SAP Business AI"]
+  "Localização Brasil": ["localização brasil", "NF-e", "nota fiscal", "SPED", "documento fiscal", "NFS-e"]
+  "SAP Notes e KBAs": ["SAP Note", "KBA", "support package"]
+
+nature:                  # natureza da informação
+  "Obrigação ou mudança oficial": ["lei complementar", "regulamenta", "instrução normativa", "portaria", "decreto", "resolução", "publicad", "obrigatóri"]
+  "Atualização técnica": ["nota técnica", "leiaute", "layout", "schema", "versão", "release", "support package", "patch", "atualização"]
+  "Prazo ou cronograma": ["prazo", "cronograma", "a partir de", "até o dia", "homologação", "produção", "vigência", "entra em vigor"]
+  "Risco ou limitação": ["risco", "limitação", "descontinu", "fim de suporte", "end of maintenance", "vulnerabilidade", "falha", "incidente", "ataque"]
+  "Oportunidade de negócio": ["expansão", "investimento", "nova fábrica", "novo centro", "moderniza", "transformação digital", "automação"]
+  "Notícia corporativa": ["aquisição", "fusão", "resultado", "balanço", "lucro", "receita", "nomeia", "anuncia"]
+  "Tendência de mercado": ["tendência", "pesquisa mostra", "mercado de", "previsão"]
+  "Análise de especialista": ["análise", "opinião", "artigo", "entenda", "o que muda", "especialista"]
+
+urgency_terms:           # termos de obrigação/prazo (sinais de urgência)
+  - "obrigatóri"
+  - "prazo"
+  - "a partir de"
+  - "entra em vigor"
+  - "vigência"
+  - "homologação"
+  - "fim de suporte"
+  - "end of maintenance"
+  - "descontinu"
+  - "até o dia"
+  - "deadline"
+
+recommended_actions:     # texto gerado por regras (rótulo: análise automática)
+  critical: "Avaliar imediatamente com o consultor responsável e confirmar aplicabilidade ao projeto."
+  high: "Recomenda análise técnica/funcional e verificação de aplicabilidade à versão e ao ambiente."
+  medium: "Acompanhar e considerar no planejamento."
+  info: "Informativo; sem ação aparente no momento."
+
+action_labels:
+  critical: "Exige avaliação imediata"
+  high: "Recomenda análise técnica"
+  medium: "Apenas acompanhamento"
+  info: "Informativo"
