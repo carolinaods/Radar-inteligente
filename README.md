@@ -6,7 +6,7 @@ SAP, Reforma Tributária e Inteligência de Clientes — portal de inteligência
 
 | Peça | Onde |
 |---|---|
-| Coleta semanal | GitHub Actions, toda sexta 12h (Brasília) — `.github/workflows/coleta-semanal.yml` |
+| Coleta diária | GitHub Actions, todos os dias às 12h (Brasília) — `.github/workflows/coleta-diaria.yml` |
 | Dados | JSON versionado em `docs/data/` (`news.json`, `runs.json`, `config.json`) |
 | Site | GitHub Pages, publicado a partir de `docs/` |
 | Configuração | `config/sources.yml`, `config/clients.yml`, `config/keywords.yml`, `config/manual_items.yml` |
@@ -17,7 +17,7 @@ Princípios: nunca inventar notícia, data ou link; uma fonte com erro não derr
 ## Primeira publicação (uma vez)
 
 1. **Settings → Pages → Build and deployment → Source: GitHub Actions.**
-2. **Actions → "Coleta semanal e publicação" → Run workflow** (execução manual).
+2. **Actions → "Coleta diária e publicação" → Run workflow** (execução manual).
 3. Abra a aba da execução e leia o log: fontes com erro aparecem com o motivo.
 4. O site fica em `https://carolinaods.github.io/Radar-inteligente/` depois do primeiro deploy.
 

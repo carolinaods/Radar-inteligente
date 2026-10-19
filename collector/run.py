@@ -1,4 +1,4 @@
-"""Orquestrador da coleta semanal.
+"""Orquestrador da coleta diária.
 
 Uso:
     python -m collector.run                 # coleta completa
@@ -72,7 +72,7 @@ def run(only: str | None = None, export_only: bool = False) -> int:
     existing = load_json(news_path, {"items": []})["items"]
     runs = load_json(runs_path, {"runs": []})["runs"]
     first_run = not existing
-    days = defaults["first_run_lookback_days"] if first_run else defaults["weekly_lookback_days"]
+    days = defaults["first_run_lookback_days"] if first_run else defaults["incremental_lookback_days"]
 
     fetcher = S.Fetcher(defaults)
     raw_items: list[dict] = []

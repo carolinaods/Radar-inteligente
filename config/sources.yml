@@ -17,7 +17,7 @@
 defaults:
   max_age_days: 60              # RSS/HTML: ignora publicações mais antigas que isso
   first_run_lookback_days: 60   # Google Notícias, primeira execução
-  weekly_lookback_days: 14      # Google Notícias, execuções seguintes
+  incremental_lookback_days: 3  # Google Notícias, execuções seguintes (margem p/ dias perdidos)
   retention_days: 0             # 0 = nunca apagar. >0 remove só Média/Informativa mais antigas
   per_source_limit: 40
   request_timeout: 25

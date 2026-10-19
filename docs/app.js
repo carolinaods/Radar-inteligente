@@ -17,12 +17,12 @@
   const fmtDay = (ymd) => ymd.split('-').reverse().join('/');
   const refDate = (i) => i.published || i.first_seen;
 
-  function nextFriday12() {
-    // 12h em Brasília (UTC-3, sem horário de verão) = 15:00 UTC
+  function nextRun12() {
+    // coleta diária às 12h em Brasília (UTC-3, sem horário de verão) = 15:00 UTC
     const now = new Date();
-    for (let d = 0; d < 8; d++) {
+    for (let d = 0; d < 3; d++) {
       const t = new Date(Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate() + d, 15, 0, 0));
-      if (t.getUTCDay() === 5 && t > now) return t;
+      if (t > now) return t;
     }
     return null;
   }
@@ -146,7 +146,7 @@
 
     const sec = [];
     if (!state.items.length) {
-      $('sections').innerHTML = block('sec-historico', 'Histórico', '', empty('Nenhuma notícia coletada ainda. A primeira coleta ocorre ao executar o workflow (manualmente ou na próxima sexta-feira, 12h).')) + statusBlock();
+      $('sections').innerHTML = block('sec-historico', 'Histórico', '', empty('Nenhuma notícia coletada ainda. A primeira coleta ocorre ao executar o workflow (manualmente ou na próxima coleta diária, às 12h).')) + statusBlock();
       return;
     }
     const top = (list, n = 6) => list.slice(0, n);
@@ -230,14 +230,14 @@
   function renderHeader() {
     const ok = [...state.runs].reverse().find((r) => r.status === 'concluida' || r.status === 'parcial');
     $('lastUpdate').textContent = ok ? fmtDateTime(ok.finished_at) : 'Nenhuma coleta concluída ainda';
-    const nf = nextFriday12();
+    const nf = nextRun12();
     $('nextUpdate').textContent = nf ? nf.toLocaleString('pt-BR', { timeZone: TZ, dateStyle: 'short', timeStyle: 'short' }) + ' (Brasília)' : '—';
     const last = state.runs[state.runs.length - 1];
     const map = { concluida: ['Concluída', 'ok'], parcial: ['Parcial', 'partial'], falha: ['Com falha', 'fail'] };
     const [txt, cls] = last ? (map[last.status] || [last.status, '']) : ['Sem coleta ainda', ''];
     $('runStatus').textContent = txt; $('runStatus').className = 'pill ' + cls;
     const b = $('banner');
-    if (!last) { b.hidden = false; b.textContent = 'Nenhuma coleta foi executada ainda. Rode o workflow "Coleta semanal" no GitHub para preencher o radar com notícias reais.'; }
+    if (!last) { b.hidden = false; b.textContent = 'Nenhuma coleta foi executada ainda. Rode o workflow "Coleta diária" no GitHub para preencher o radar com notícias reais.'; }
     else if (last.status === 'falha') { b.hidden = false; b.className = 'banner warn'; b.textContent = 'A última coleta falhou; exibindo a última base válida. Veja detalhes em "Status da coleta e fontes".'; }
     else if (last.status === 'parcial') { b.hidden = false; b.className = 'banner warn'; b.textContent = 'A última coleta foi parcial: algumas fontes falharam ou exigem acompanhamento manual. Veja "Status da coleta e fontes".'; }
     else b.hidden = true;

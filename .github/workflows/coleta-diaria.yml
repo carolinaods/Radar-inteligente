@@ -1,11 +1,11 @@
-name: Coleta semanal e publicação
+name: Coleta diária e publicação
 
 on:
   schedule:
-    # Sexta-feira 12:00 em Brasília (America/Sao_Paulo, UTC-3 fixo, sem horário de verão) = 15:00 UTC.
+    # Todos os dias, 12:00 em Brasília (America/Sao_Paulo, UTC-3 fixo, sem horário de verão) = 15:00 UTC.
     # O GitHub agenda em UTC. Se o Brasil voltar ao horário de verão, ajuste para 14:00 UTC.
     # Execuções agendadas podem atrasar alguns minutos em horários de pico.
-    - cron: "0 15 * * 5"
+    - cron: "0 15 * * *"
   workflow_dispatch:
     inputs:
       only:
@@ -14,7 +14,7 @@ on:
         default: ""
   push:
     branches: [main]
-    paths: ["docs/**", "config/**", "collector/**", ".github/workflows/coleta-semanal.yml"]
+    paths: ["docs/**", "config/**", "collector/**", ".github/workflows/coleta-diaria.yml"]
 
 concurrency:
   group: radar
