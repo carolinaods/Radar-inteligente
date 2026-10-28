@@ -1,6 +1,1795 @@
 {
- "generated_at": "2026-10-27T15:38:39Z",
+ "generated_at": "2026-10-28T15:41:23Z",
  "items": [
+  {
+   "title": "Reforma tributária: TCU propõe alíquota de 11,3% para CBS em 2027 - ConvergenciaDigital",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSk1TV2sxQnM4YUhUdzhEMWdhYjhJcjBMc0s1TVZPMG1FaFVxcEd2MTN2dlk2MVVmTkpQYktEQ1hUelI0QjRIQmFra2N4Q0VhTy1mRl9RMTNPUUY4OWtvZTk0c2d3c1RFVjlaOFJrclltNXFGbEEtb09CUnhSRUhWYUF0T24zZmJNcEZKNlZXTDdlZTZ5YWxSQmtSSmtUYk9wQzZlRENOUFJrZw?oc=5",
+   "published": "2026-10-28T15:19:06Z",
+   "published_confirmed": true,
+   "source_id": "gnews-sap-reforma",
+   "source_name": "Google Notícias — SAP e Reforma Tributária",
+   "source_authority": "journalistic",
+   "source_category": "reforma_tributaria",
+   "collected_at": "2026-10-28T15:39:57Z",
+   "publisher": "ConvergenciaDigital",
+   "clients": [],
+   "clients_unconfirmed": [],
+   "categories": [
+    "reforma_tributaria"
+   ],
+   "tags": [
+    "CBS",
+    "reforma tributária"
+   ],
+   "sap_modules": [],
+   "nature": [],
+   "deadlines": [],
+   "relevance": {
+    "score": 40,
+    "level": "Média",
+    "justification": "Pontuação automática 40/100 (fonte 15, recência 15, tema 10)."
+   },
+   "action_level": "Apenas acompanhamento",
+   "action_ai": "Acompanhar e considerar no planejamento.",
+   "impact_ai": "Evidências insuficientes para estimar impacto nos projetos.",
+   "content_kind": "Notícia jornalística",
+   "rt_status": "Análise ou interpretação de terceiros",
+   "confidence": "Média",
+   "analysis_origin": "Análise gerada automaticamente por regras; não é determinação da fonte.",
+   "id": "63ce018a8019586b",
+   "canonical_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSk1TV2sxQnM4YUhUdzhEMWdhYjhJcjBMc0s1TVZPMG1FaFVxcEd2MTN2dlk2MVVmTkpQYktEQ1hUelI0QjRIQmFra2N4Q0VhTy1mRl9RMTNPUUY4OWtvZTk0c2d3c1RFVjlaOFJrclltNXFGbEEtb09CUnhSRUhWYUF0T24zZmJNcEZKNlZXTDdlZTZ5YWxSQmtSSmtUYk9wQzZlRENOUFJrZw?oc=5",
+   "content_hash": "baf739b8ada3",
+   "first_seen": "2026-10-28T15:41:23Z",
+   "last_seen": "2026-10-28T15:41:23Z",
+   "updated_at": null,
+   "also_in": [],
+   "history": []
+  },
+  {
+   "title": "São Martinho (SMTO3): lucro deve cair no 2T27, mas Citi vê melhora no horizonte e eleva preço-alvo - Money Times",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeGNLR3lGUzNHVE5yS3BzbDVoLWZaTTdubGQ2cnB0clM5Z2ktcXNkOFFCX2w4RHFkbXY0SEttWXVHSVptaHFQTHNXWGM3N1dCandJY0Rfc0c4S1VPd1l6RGVUYWlfQzd5U2xscFc2TkE1Z1ZQU3NMQnN3RUxhbUxGUHMxTkNZcEJHQ28zVjFfSDNkY0ZsckItc3JYV28tTVlzandmVGRXQ3B5ZHQzQ0VORXJR?oc=5",
+   "published": "2026-10-28T14:58:00Z",
+   "published_confirmed": true,
+   "source_id": "gnews-clientes",
+   "source_name": "Google Notícias — Carteira de clientes",
+   "source_authority": "journalistic",
+   "source_category": "clientes",
+   "collected_at": "2026-10-28T15:40:19Z",
+   "publisher": "Money Times",
+   "client_hint": "SÃO MARTINHO",
+   "per_client_source": true,
+   "clients": [
+    "SÃO MARTINHO"
+   ],
+   "clients_unconfirmed": [],
+   "categories": [
+    "clientes"
+   ],
+   "tags": [],
+   "sap_modules": [],
+   "nature": [
+    "Notícia corporativa"
+   ],
+   "deadlines": [],
+   "relevance": {
+    "score": 45,
+    "level": "Média",
+    "justification": "Pontuação automática 45/100 (fonte 15, recência 15, cliente 15)."
+   },
+   "action_level": "Apenas acompanhamento",
+   "action_ai": "Acompanhar e considerar no planejamento.",
+   "impact_ai": "Natureza provável: Notícia corporativa. O impacto real depende da versão, do ambiente e do escopo de cada projeto.",
+   "content_kind": "Notícia jornalística",
+   "rt_status": null,
+   "confidence": "Média",
+   "analysis_origin": "Análise gerada automaticamente por regras; não é determinação da fonte.",
+   "id": "2a6d5e1f4182c012",
+   "canonical_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeGNLR3lGUzNHVE5yS3BzbDVoLWZaTTdubGQ2cnB0clM5Z2ktcXNkOFFCX2w4RHFkbXY0SEttWXVHSVptaHFQTHNXWGM3N1dCandJY0Rfc0c4S1VPd1l6RGVUYWlfQzd5U2xscFc2TkE1Z1ZQU3NMQnN3RUxhbUxGUHMxTkNZcEJHQ28zVjFfSDNkY0ZsckItc3JYV28tTVlzandmVGRXQ3B5ZHQzQ0VORXJR?oc=5",
+   "content_hash": "d8cdfb85c5a0",
+   "first_seen": "2026-10-28T15:41:23Z",
+   "last_seen": "2026-10-28T15:41:23Z",
+   "updated_at": null,
+   "also_in": [],
+   "history": []
+  },
+  {
+   "title": "Draco prende homem por tráfico de drogas no Santa Vitória - GAZ",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaTVvdWRIMUF2R2NfSV9Rc19CaERMRlBZQXczYWpyeTZWLV84Y3p2TTJ6N2I5T0c3cC1uX0d2c2tEMldpd0hteDlONXNvZzUwNjN6YXN2Q0pvdzBYN3VHYVh6c2pOWmhqNXY2Q1h6Q0k4M2FTdVlXbkdHeThIRnlIU0tlY1MxOFI2?oc=5",
+   "published": "2026-10-28T13:25:00Z",
+   "published_confirmed": true,
+   "source_id": "gnews-clientes",
+   "source_name": "Google Notícias — Carteira de clientes",
+   "source_authority": "journalistic",
+   "source_category": "clientes",
+   "collected_at": "2026-10-28T15:40:41Z",
+   "publisher": "GAZ",
+   "client_hint": "SANTA VITORIA",
+   "per_client_source": true,
+   "clients": [],
+   "clients_unconfirmed": [
+    "SANTA VITORIA"
+   ],
+   "categories": [
+    "clientes"
+   ],
+   "tags": [],
+   "sap_modules": [],
+   "nature": [],
+   "deadlines": [],
+   "relevance": {
+    "score": 30,
+    "level": "Informativa",
+    "justification": "Pontuação automática 30/100 (fonte 15, recência 15)."
+   },
+   "action_level": "Informativo",
+   "action_ai": "Informativo; sem ação aparente no momento.",
+   "impact_ai": "Evidências insuficientes para estimar impacto nos projetos.",
+   "content_kind": "Notícia jornalística",
+   "rt_status": null,
+   "confidence": "Baixa",
+   "analysis_origin": "Análise gerada automaticamente por regras; não é determinação da fonte.",
+   "id": "e2bbba0b1ff4cfdb",
+   "canonical_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaTVvdWRIMUF2R2NfSV9Rc19CaERMRlBZQXczYWpyeTZWLV84Y3p2TTJ6N2I5T0c3cC1uX0d2c2tEMldpd0hteDlONXNvZzUwNjN6YXN2Q0pvdzBYN3VHYVh6c2pOWmhqNXY2Q1h6Q0k4M2FTdVlXbkdHeThIRnlIU0tlY1MxOFI2?oc=5",
+   "content_hash": "b87877d9d0b6",
+   "first_seen": "2026-10-28T15:41:23Z",
+   "last_seen": "2026-10-28T15:41:23Z",
+   "updated_at": null,
+   "also_in": [],
+   "history": []
+  },
+  {
+   "title": "Gilvan Ferreira comemora avanço da implantação do Metrô em Santo André - ABC Repórter",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVW0yVHMwV2NIUmJkaTMtMi1kOThjWGhUemVyQl9zSFpwNWVia19Jd0tGY0hhQ2xwOHFQTV9mZlZMY0ZrUWx1cFRVVWJWaFNPMDBlLTVXS1pEWFBFdDFpLUluSUxiV082SUwxTkgwaEtqa0dsNUFlbmwyMVNLX0l5LWVVVEE4Wko3SEVHd0pVOGxqM3NWUXFBSGd3aVA5UTVQbVhaNENvU3Izem1hNFE?oc=5",
+   "published": "2026-10-28T13:05:56Z",
+   "published_confirmed": true,
+   "source_id": "gnews-clientes",
+   "source_name": "Google Notícias — Carteira de clientes",
+   "source_authority": "journalistic",
+   "source_category": "clientes",
+   "collected_at": "2026-10-28T15:40:55Z",
+   "publisher": "ABC Repórter",
+   "client_hint": "METRO",
+   "per_client_source": true,
+   "clients": [],
+   "clients_unconfirmed": [
+    "METRO"
+   ],
+   "categories": [
+    "clientes"
+   ],
+   "tags": [],
+   "sap_modules": [],
+   "nature": [],
+   "deadlines": [],
+   "relevance": {
+    "score": 30,
+    "level": "Informativa",
+    "justification": "Pontuação automática 30/100 (fonte 15, recência 15)."
+   },
+   "action_level": "Informativo",
+   "action_ai": "Informativo; sem ação aparente no momento.",
+   "impact_ai": "Evidências insuficientes para estimar impacto nos projetos.",
+   "content_kind": "Notícia jornalística",
+   "rt_status": null,
+   "confidence": "Baixa",
+   "analysis_origin": "Análise gerada automaticamente por regras; não é determinação da fonte.",
+   "id": "e51c3b76475695c6",
+   "canonical_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVW0yVHMwV2NIUmJkaTMtMi1kOThjWGhUemVyQl9zSFpwNWVia19Jd0tGY0hhQ2xwOHFQTV9mZlZMY0ZrUWx1cFRVVWJWaFNPMDBlLTVXS1pEWFBFdDFpLUluSUxiV082SUwxTkgwaEtqa0dsNUFlbmwyMVNLX0l5LWVVVEE4Wko3SEVHd0pVOGxqM3NWUXFBSGd3aVA5UTVQbVhaNENvU3Izem1hNFE?oc=5",
+   "content_hash": "bad8c648c7ad",
+   "first_seen": "2026-10-28T15:41:23Z",
+   "last_seen": "2026-10-28T15:41:23Z",
+   "updated_at": null,
+   "also_in": [],
+   "history": []
+  },
+  {
+   "title": "Metrô de São Paulo avança com projeto pra construção de linha com quase 30km - BNamericas",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcWh5dUFyWXJyb3VlX1FrVXRrUDhKall3RFQ1aWpFTnV4R1JCdmNxdUpPbHM0ejVkZi1TaWY4anlqN3J0LTM5bUJlQXZPS1V1OUpDS3l6Q0dacXFiR2ZTUDd4YUlqUl85ZEx5Qjh6WWdFT1VUdTdBM1ZaVGlmUHZNWXlpWkdCUVdmanlmTGRFNFJpcnZWSlBIUWVLcGJIUUFIdk9YVG1jVjNKd3p1b01GT2JHMHFIdw?oc=5",
+   "published": "2026-10-28T12:54:44Z",
+   "published_confirmed": true,
+   "source_id": "gnews-clientes",
+   "source_name": "Google Notícias — Carteira de clientes",
+   "source_authority": "journalistic",
+   "source_category": "clientes",
+   "collected_at": "2026-10-28T15:40:55Z",
+   "publisher": "BNamericas",
+   "client_hint": "METRO",
+   "per_client_source": true,
+   "clients": [],
+   "clients_unconfirmed": [
+    "METRO"
+   ],
+   "categories": [
+    "clientes"
+   ],
+   "tags": [],
+   "sap_modules": [],
+   "nature": [],
+   "deadlines": [],
+   "relevance": {
+    "score": 30,
+    "level": "Informativa",
+    "justification": "Pontuação automática 30/100 (fonte 15, recência 15)."
+   },
+   "action_level": "Informativo",
+   "action_ai": "Informativo; sem ação aparente no momento.",
+   "impact_ai": "Evidências insuficientes para estimar impacto nos projetos.",
+   "content_kind": "Notícia jornalística",
+   "rt_status": null,
+   "confidence": "Baixa",
+   "analysis_origin": "Análise gerada automaticamente por regras; não é determinação da fonte.",
+   "id": "df635076bf5c137f",
+   "canonical_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcWh5dUFyWXJyb3VlX1FrVXRrUDhKall3RFQ1aWpFTnV4R1JCdmNxdUpPbHM0ejVkZi1TaWY4anlqN3J0LTM5bUJlQXZPS1V1OUpDS3l6Q0dacXFiR2ZTUDd4YUlqUl85ZEx5Qjh6WWdFT1VUdTdBM1ZaVGlmUHZNWXlpWkdCUVdmanlmTGRFNFJpcnZWSlBIUWVLcGJIUUFIdk9YVG1jVjNKd3p1b01GT2JHMHFIdw?oc=5",
+   "content_hash": "405312fbefb5",
+   "first_seen": "2026-10-28T15:41:23Z",
+   "last_seen": "2026-10-28T15:41:23Z",
+   "updated_at": null,
+   "also_in": [],
+   "history": []
+  },
+  {
+   "title": "Apontado como olheiro do tráfico, Bergamota é detido pela BM no Santa Vitória - Portal Arauto",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeGxjWTRNYmhERzNMQ0ZCZjAweFVUOVIyMDB4em5rR0RGN1FOWDVibnRZczdLM1NsZ1R5YVZHM2lFZmt6TVduWHpqSEZLdHM0cmZ2d0JmOUdKN0lqZ3IycnVTaUJVa2FDMEdyaFdJbFBnc3JNWUx1Tng0c2I1V2pYdS1ETTR6aDNTS0Z3Tzk0bGhfekE0NHphUnJnWkNZVTNRYjQzQWRUMHZ0bjUxRW1FZUJyQmlHdlk?oc=5",
+   "published": "2026-10-28T12:49:00Z",
+   "published_confirmed": true,
+   "source_id": "gnews-clientes",
+   "source_name": "Google Notícias — Carteira de clientes",
+   "source_authority": "journalistic",
+   "source_category": "clientes",
+   "collected_at": "2026-10-28T15:40:41Z",
+   "publisher": "Portal Arauto",
+   "client_hint": "SANTA VITORIA",
+   "per_client_source": true,
+   "clients": [],
+   "clients_unconfirmed": [
+    "SANTA VITORIA"
+   ],
+   "categories": [
+    "clientes"
+   ],
+   "tags": [],
+   "sap_modules": [],
+   "nature": [],
+   "deadlines": [],
+   "relevance": {
+    "score": 30,
+    "level": "Informativa",
+    "justification": "Pontuação automática 30/100 (fonte 15, recência 15)."
+   },
+   "action_level": "Informativo",
+   "action_ai": "Informativo; sem ação aparente no momento.",
+   "impact_ai": "Evidências insuficientes para estimar impacto nos projetos.",
+   "content_kind": "Notícia jornalística",
+   "rt_status": null,
+   "confidence": "Baixa",
+   "analysis_origin": "Análise gerada automaticamente por regras; não é determinação da fonte.",
+   "id": "174f53b47f9c85fc",
+   "canonical_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeGxjWTRNYmhERzNMQ0ZCZjAweFVUOVIyMDB4em5rR0RGN1FOWDVibnRZczdLM1NsZ1R5YVZHM2lFZmt6TVduWHpqSEZLdHM0cmZ2d0JmOUdKN0lqZ3IycnVTaUJVa2FDMEdyaFdJbFBnc3JNWUx1Tng0c2I1V2pYdS1ETTR6aDNTS0Z3Tzk0bGhfekE0NHphUnJnWkNZVTNRYjQzQWRUMHZ0bjUxRW1FZUJyQmlHdlk?oc=5",
+   "content_hash": "d87e76b3296e",
+   "first_seen": "2026-10-28T15:41:23Z",
+   "last_seen": "2026-10-28T15:41:23Z",
+   "updated_at": null,
+   "also_in": [],
+   "history": []
+  },
+  {
+   "title": "Horários das missas do Dia de Finados em Santa Vitória são divulgados - correiosantavitoria.com.br",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUHZFY0lwTTB2ZktMNnRjeXQ1bHgzS2ZlbmZ1TC0xWUtFWDdWem9kTm5NV1BTZ2tqUHRnTWkwSUZMZm01YnQ1S0RlRTF3eEhtU3BBY1BUVWJaZE91ZDEtcVVUNFF2b0dEcGpIN1VtZU0tYXhMOXVWMDJ5eWFJWl9RbWd5NkZ0MzQwNTVaY3NEZkczd2N0QW1Pd1BTU0NQdDY5R24xX2Z4UTFrbzBDcW5JXzVVdklLU0E?oc=5",
+   "published": "2026-10-28T12:37:49Z",
+   "published_confirmed": true,
+   "source_id": "gnews-clientes",
+   "source_name": "Google Notícias — Carteira de clientes",
+   "source_authority": "journalistic",
+   "source_category": "clientes",
+   "collected_at": "2026-10-28T15:40:41Z",
+   "publisher": "correiosantavitoria.com.br",
+   "client_hint": "SANTA VITORIA",
+   "per_client_source": true,
+   "clients": [],
+   "clients_unconfirmed": [
+    "SANTA VITORIA"
+   ],
+   "categories": [
+    "clientes"
+   ],
+   "tags": [],
+   "sap_modules": [],
+   "nature": [],
+   "deadlines": [],
+   "relevance": {
+    "score": 30,
+    "level": "Informativa",
+    "justification": "Pontuação automática 30/100 (fonte 15, recência 15)."
+   },
+   "action_level": "Informativo",
+   "action_ai": "Informativo; sem ação aparente no momento.",
+   "impact_ai": "Evidências insuficientes para estimar impacto nos projetos.",
+   "content_kind": "Notícia jornalística",
+   "rt_status": null,
+   "confidence": "Baixa",
+   "analysis_origin": "Análise gerada automaticamente por regras; não é determinação da fonte.",
+   "id": "e08ae82968763d7e",
+   "canonical_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUHZFY0lwTTB2ZktMNnRjeXQ1bHgzS2ZlbmZ1TC0xWUtFWDdWem9kTm5NV1BTZ2tqUHRnTWkwSUZMZm01YnQ1S0RlRTF3eEhtU3BBY1BUVWJaZE91ZDEtcVVUNFF2b0dEcGpIN1VtZU0tYXhMOXVWMDJ5eWFJWl9RbWd5NkZ0MzQwNTVaY3NEZkczd2N0QW1Pd1BTU0NQdDY5R24xX2Z4UTFrbzBDcW5JXzVVdklLU0E?oc=5",
+   "content_hash": "6bf5c62c3e90",
+   "first_seen": "2026-10-28T15:41:23Z",
+   "last_seen": "2026-10-28T15:41:23Z",
+   "updated_at": null,
+   "also_in": [],
+   "history": []
+  },
+  {
+   "title": "Draco prende homem por tráfico de drogas no Santa Vitória - Portal Arauto",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQczF6YlFSYUdxN3N1bWdRTDFLUFBHTTVQamZsM052MV9LcHRJMnFZcFZfX1FpVDIwLUk4ZnkxUmlVTVlKRzlQRS04UDJIaEJZT0pzdFVaSmEwZDhES2FxaXNmYjVEZjdidzJFanZ0YWFCZEZFYUM1Vk9TOEhBY01nVngxS0pJbUVUbHNBOFk5WDhXbkJqTE9DNzhTemduZw?oc=5",
+   "published": "2026-10-28T12:30:00Z",
+   "published_confirmed": true,
+   "source_id": "gnews-clientes",
+   "source_name": "Google Notícias — Carteira de clientes",
+   "source_authority": "journalistic",
+   "source_category": "clientes",
+   "collected_at": "2026-10-28T15:40:41Z",
+   "publisher": "Portal Arauto",
+   "client_hint": "SANTA VITORIA",
+   "per_client_source": true,
+   "clients": [],
+   "clients_unconfirmed": [
+    "SANTA VITORIA"
+   ],
+   "categories": [
+    "clientes"
+   ],
+   "tags": [],
+   "sap_modules": [],
+   "nature": [],
+   "deadlines": [],
+   "relevance": {
+    "score": 30,
+    "level": "Informativa",
+    "justification": "Pontuação automática 30/100 (fonte 15, recência 15)."
+   },
+   "action_level": "Informativo",
+   "action_ai": "Informativo; sem ação aparente no momento.",
+   "impact_ai": "Evidências insuficientes para estimar impacto nos projetos.",
+   "content_kind": "Notícia jornalística",
+   "rt_status": null,
+   "confidence": "Baixa",
+   "analysis_origin": "Análise gerada automaticamente por regras; não é determinação da fonte.",
+   "id": "1c6d5ef4d20a5c9b",
+   "canonical_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQczF6YlFSYUdxN3N1bWdRTDFLUFBHTTVQamZsM052MV9LcHRJMnFZcFZfX1FpVDIwLUk4ZnkxUmlVTVlKRzlQRS04UDJIaEJZT0pzdFVaSmEwZDhES2FxaXNmYjVEZjdidzJFanZ0YWFCZEZFYUM1Vk9TOEhBY01nVngxS0pJbUVUbHNBOFk5WDhXbkJqTE9DNzhTemduZw?oc=5",
+   "content_hash": "7fd8efbc97c3",
+   "first_seen": "2026-10-28T15:41:23Z",
+   "last_seen": "2026-10-28T15:41:23Z",
+   "updated_at": null,
+   "also_in": [],
+   "history": []
+  },
+  {
+   "title": "O Mar Morto recua cerca de 1 metro por ano e revela nascentes de água doce escondidas sob suas margens salgadas - Revista Oeste",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOGJCazlzYUhiTHF3dEMzc0VselBQYnJLNEVrRkRhck9iODJHSDdyanNLRFFhOWxvZ3I5X3c3MUdHM1NaUDdremZ3dF9PdTdjdzhGYk4yQjhqNW0wTDh4NjMybUotcEFyTlAxZGlGNkl3WEdzazc1NzBMNDZNaHFKcktaOW9BU0pnV1JaanVZeWc3cmxyWHdrQmsxV1pWeFpBcWRWNFpvTkFFa24ydkNkV0VQRUZxY0pfVmxWLU9PLWk5ZkI1eDZWYlo0LW5yWWs4TE1MX0JjakstS1BWV2d1aUx5WDE2cXNadnVwMkRqQ0g?oc=5",
+   "published": "2026-10-28T12:05:00Z",
+   "published_confirmed": true,
+   "source_id": "gnews-clientes",
+   "source_name": "Google Notícias — Carteira de clientes",
+   "source_authority": "journalistic",
+   "source_category": "clientes",
+   "collected_at": "2026-10-28T15:40:55Z",
+   "publisher": "Revista Oeste",
+   "client_hint": "METRO",
+   "per_client_source": true,
+   "clients": [],
+   "clients_unconfirmed": [
+    "METRO"
+   ],
+   "categories": [
+    "clientes"
+   ],
+   "tags": [],
+   "sap_modules": [],
+   "nature": [],
+   "deadlines": [],
+   "relevance": {
+    "score": 30,
+    "level": "Informativa",
+    "justification": "Pontuação automática 30/100 (fonte 15, recência 15)."
+   },
+   "action_level": "Informativo",
+   "action_ai": "Informativo; sem ação aparente no momento.",
+   "impact_ai": "Evidências insuficientes para estimar impacto nos projetos.",
+   "content_kind": "Notícia jornalística",
+   "rt_status": null,
+   "confidence": "Baixa",
+   "analysis_origin": "Análise gerada automaticamente por regras; não é determinação da fonte.",
+   "id": "9a4f3d4db993f80c",
+   "canonical_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOGJCazlzYUhiTHF3dEMzc0VselBQYnJLNEVrRkRhck9iODJHSDdyanNLRFFhOWxvZ3I5X3c3MUdHM1NaUDdremZ3dF9PdTdjdzhGYk4yQjhqNW0wTDh4NjMybUotcEFyTlAxZGlGNkl3WEdzazc1NzBMNDZNaHFKcktaOW9BU0pnV1JaanVZeWc3cmxyWHdrQmsxV1pWeFpBcWRWNFpvTkFFa24ydkNkV0VQRUZxY0pfVmxWLU9PLWk5ZkI1eDZWYlo0LW5yWWs4TE1MX0JjakstS1BWV2d1aUx5WDE2cXNadnVwMkRqQ0g?oc=5",
+   "content_hash": "af6be352a292",
+   "first_seen": "2026-10-28T15:41:23Z",
+   "last_seen": "2026-10-28T15:41:23Z",
+   "updated_at": null,
+   "also_in": [],
+   "history": []
+  },
+  {
+   "title": "Conta de água e esgoto: ANA orienta ajuste na reforma tributária - Campo Grande News",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdUpCQlYzdFlxV3pMdTRHUm9vMU9maWlBQmc3aVBVcGE3V3R3T0dXRUZ1TzdRVnczdlBLMmpFLTk1YUNETXhRM0QzS3p5NjIyTXJpQWpWWTZsejJNYlpEU0J4TmcyRXhmR1hSQTZRdG9sRzdocVlQd1pHTGxjUDNJQS03dmdYY1ppQjdlc1Z5S0dKcHRmV1dPZU9QQ2hDOXFKeGtidVY0S2V4NU1BdWfSAa4BQVVfeXFMUDBET2NobUZ4ZXhkWG9nSTlQMURTVlVneFNzMmhuclBPemMwaktlUjdSUWJjNmFUMk1XYlJlaWVwX3EzXzVWeU95MkJIUEtsZXhlVFpJTmQwclZkSWR5NFU3RWxua1ltdHJleXBBUTdaMTRkaEtWOHc2TVlVSmlUSk43NFo1UkZRQkJxYVZkUVlUalpqTnlQZEhJa0gyVlQ3Z0xCRDNxTFJfb1NWZnJn?oc=5",
+   "published": "2026-10-28T11:25:00Z",
+   "published_confirmed": true,
+   "source_id": "gnews-sap-reforma",
+   "source_name": "Google Notícias — SAP e Reforma Tributária",
+   "source_authority": "journalistic",
+   "source_category": "reforma_tributaria",
+   "collected_at": "2026-10-28T15:39:59Z",
+   "publisher": "Campo Grande News",
+   "clients": [],
+   "clients_unconfirmed": [],
+   "categories": [
+    "reforma_tributaria"
+   ],
+   "tags": [
+    "reforma tributária"
+   ],
+   "sap_modules": [],
+   "nature": [],
+   "deadlines": [],
+   "relevance": {
+    "score": 35,
+    "level": "Informativa",
+    "justification": "Pontuação automática 35/100 (fonte 15, recência 15, tema 5)."
+   },
+   "action_level": "Informativo",
+   "action_ai": "Informativo; sem ação aparente no momento.",
+   "impact_ai": "Evidências insuficientes para estimar impacto nos projetos.",
+   "content_kind": "Notícia jornalística",
+   "rt_status": "Análise ou interpretação de terceiros",
+   "confidence": "Média",
+   "analysis_origin": "Análise gerada automaticamente por regras; não é determinação da fonte.",
+   "id": "d2dfcb5ed8a00541",
+   "canonical_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdUpCQlYzdFlxV3pMdTRHUm9vMU9maWlBQmc3aVBVcGE3V3R3T0dXRUZ1TzdRVnczdlBLMmpFLTk1YUNETXhRM0QzS3p5NjIyTXJpQWpWWTZsejJNYlpEU0J4TmcyRXhmR1hSQTZRdG9sRzdocVlQd1pHTGxjUDNJQS03dmdYY1ppQjdlc1Z5S0dKcHRmV1dPZU9QQ2hDOXFKeGtidVY0S2V4NU1BdWfSAa4BQVVfeXFMUDBET2NobUZ4ZXhkWG9nSTlQMURTVlVneFNzMmhuclBPemMwaktlUjdSUWJjNmFUMk1XYlJlaWVwX3EzXzVWeU95MkJIUEtsZXhlVFpJTmQwclZkSWR5NFU3RWxua1ltdHJleXBBUTdaMTRkaEtWOHc2TVlVSmlUSk43NFo1UkZRQkJxYVZkUVlUalpqTnlQZEhJa0gyVlQ3Z0xCRDNxTFJfb1NWZnJn?oc=5",
+   "content_hash": "c1000c6d13e4",
+   "first_seen": "2026-10-28T15:41:23Z",
+   "last_seen": "2026-10-28T15:41:23Z",
+   "updated_at": null,
+   "also_in": [],
+   "history": []
+  },
+  {
+   "title": "Mulher passou de carro a menos de 1,5 metro de um ciclista numa avenida, levou multa de R$ 130,16 e recebeu 4 pontos na carteira - Midiamax",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOSkRwT19lVVNjaU1hWWg0NVktRk5yWVZkeWFwX1lsT2tVSjl2NjBUVkptVGwtNWdWblRDTzRIcHN4SlFDSzFOc2pCeFo0enJ6R1ZhZFRVT010M0NYQW1kanRrZGVGREJzYUlwcXdJTHZTV0hudVpqLVNjTVFYMzdsV1JxVW9PRXVtbzNvaFdxSkJvQ0NZQ19oejk3anN3T092VXZHSWxKT0xwTlQ5OUNpRGFoUF9qOWloby1jdEFndGNoWk1NQXRzTVJpWlRkZHloTnZvOWF0bmRzc1hjd3JIS1BDWVRyX3RpbEhDTXY0cTZIa0U3OS00SDVuVQ?oc=5",
+   "published": "2026-10-28T11:15:00Z",
+   "published_confirmed": true,
+   "source_id": "gnews-clientes",
+   "source_name": "Google Notícias — Carteira de clientes",
+   "source_authority": "journalistic",
+   "source_category": "clientes",
+   "collected_at": "2026-10-28T15:40:55Z",
+   "publisher": "Midiamax",
+   "client_hint": "METRO",
+   "per_client_source": true,
+   "clients": [],
+   "clients_unconfirmed": [
+    "METRO"
+   ],
+   "categories": [
+    "clientes"
+   ],
+   "tags": [],
+   "sap_modules": [],
+   "nature": [],
+   "deadlines": [],
+   "relevance": {
+    "score": 30,
+    "level": "Informativa",
+    "justification": "Pontuação automática 30/100 (fonte 15, recência 15)."
+   },
+   "action_level": "Informativo",
+   "action_ai": "Informativo; sem ação aparente no momento.",
+   "impact_ai": "Evidências insuficientes para estimar impacto nos projetos.",
+   "content_kind": "Notícia jornalística",
+   "rt_status": null,
+   "confidence": "Baixa",
+   "analysis_origin": "Análise gerada automaticamente por regras; não é determinação da fonte.",
+   "id": "2e6ccaad0ee47c1a",
+   "canonical_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOSkRwT19lVVNjaU1hWWg0NVktRk5yWVZkeWFwX1lsT2tVSjl2NjBUVkptVGwtNWdWblRDTzRIcHN4SlFDSzFOc2pCeFo0enJ6R1ZhZFRVT010M0NYQW1kanRrZGVGREJzYUlwcXdJTHZTV0hudVpqLVNjTVFYMzdsV1JxVW9PRXVtbzNvaFdxSkJvQ0NZQ19oejk3anN3T092VXZHSWxKT0xwTlQ5OUNpRGFoUF9qOWloby1jdEFndGNoWk1NQXRzTVJpWlRkZHloTnZvOWF0bmRzc1hjd3JIS1BDWVRyX3RpbEhDTXY0cTZIa0U3OS00SDVuVQ?oc=5",
+   "content_hash": "846cd4350a8f",
+   "first_seen": "2026-10-28T15:41:23Z",
+   "last_seen": "2026-10-28T15:41:23Z",
+   "updated_at": null,
+   "also_in": [],
+   "history": []
+  },
+  {
+   "title": "Família aumenta muro em mais de um metro e vizinho diz que janela da cozinha perdeu praticamente toda iluminação natural - Correio Braziliense",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOemZ6LXdsa3JsV0xRbmU1TGZVTTl3U0Z5T3FkRi1vSUF3UzFzeWpkSGdESUNkOVNsWlpYS1NxRzVTMGVhU2dHS010Vlg2SGNGX1pPNkQ1WDUwTXkzYXY0azRZaXhGaUQ1bDZxOXpmbk5yMGxZUVpWZXoyWFN1QkJWbm9VRlMzY2g0T2pF?oc=5",
+   "published": "2026-10-28T11:10:00Z",
+   "published_confirmed": true,
+   "source_id": "gnews-clientes",
+   "source_name": "Google Notícias — Carteira de clientes",
+   "source_authority": "journalistic",
+   "source_category": "clientes",
+   "collected_at": "2026-10-28T15:40:55Z",
+   "publisher": "Correio Braziliense",
+   "client_hint": "METRO",
+   "per_client_source": true,
+   "clients": [],
+   "clients_unconfirmed": [
+    "METRO"
+   ],
+   "categories": [
+    "clientes"
+   ],
+   "tags": [],
+   "sap_modules": [],
+   "nature": [],
+   "deadlines": [],
+   "relevance": {
+    "score": 30,
+    "level": "Informativa",
+    "justification": "Pontuação automática 30/100 (fonte 15, recência 15)."
+   },
+   "action_level": "Informativo",
+   "action_ai": "Informativo; sem ação aparente no momento.",
+   "impact_ai": "Evidências insuficientes para estimar impacto nos projetos.",
+   "content_kind": "Notícia jornalística",
+   "rt_status": null,
+   "confidence": "Baixa",
+   "analysis_origin": "Análise gerada automaticamente por regras; não é determinação da fonte.",
+   "id": "ba7453a369ca50c0",
+   "canonical_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOemZ6LXdsa3JsV0xRbmU1TGZVTTl3U0Z5T3FkRi1vSUF3UzFzeWpkSGdESUNkOVNsWlpYS1NxRzVTMGVhU2dHS010Vlg2SGNGX1pPNkQ1WDUwTXkzYXY0azRZaXhGaUQ1bDZxOXpmbk5yMGxZUVpWZXoyWFN1QkJWbm9VRlMzY2g0T2pF?oc=5",
+   "content_hash": "58e8bd8469b6",
+   "first_seen": "2026-10-28T15:41:23Z",
+   "last_seen": "2026-10-28T15:41:23Z",
+   "updated_at": null,
+   "also_in": [],
+   "history": []
+  },
+  {
+   "title": "SAP Brings Migration and Modernization Assistants to Customers’ Cloud ERP Transformations",
+   "summary": "Organizations can simplify transformation activities, accelerate project execution, improve decision-making, and increase readiness.",
+   "url": "https://news.sap.com/2026/10/migration-and-modernization-assistants-sap-customer-cloud-erp-transformations/",
+   "published": "2026-10-28T11:00:00Z",
+   "published_confirmed": true,
+   "source_id": "sap-news-center",
+   "source_name": "SAP News Center",
+   "source_authority": "official",
+   "source_category": "sap",
+   "collected_at": "2026-10-28T15:37:58Z",
+   "publisher": null,
+   "clients": [],
+   "clients_unconfirmed": [],
+   "categories": [
+    "sap"
+   ],
+   "tags": [
+    "SAP"
+   ],
+   "sap_modules": [],
+   "nature": [
+    "Oportunidade de negócio"
+   ],
+   "deadlines": [],
+   "relevance": {
+    "score": 50,
+    "level": "Média",
+    "justification": "Pontuação automática 50/100 (fonte 30, recência 15, tema 5)."
+   },
+   "action_level": "Apenas acompanhamento",
+   "action_ai": "Acompanhar e considerar no planejamento.",
+   "impact_ai": "Natureza provável: Oportunidade de negócio. O impacto real depende da versão, do ambiente e do escopo de cada projeto.",
+   "content_kind": "Conteúdo oficial",
+   "rt_status": null,
+   "confidence": "Média",
+   "analysis_origin": "Análise gerada automaticamente por regras; não é determinação da fonte.",
+   "id": "4129d839ee320bce",
+   "canonical_url": "https://news.sap.com/2026/10/migration-and-modernization-assistants-sap-customer-cloud-erp-transformations",
+   "content_hash": "26295c1d95b7",
+   "first_seen": "2026-10-28T15:41:23Z",
+   "last_seen": "2026-10-28T15:41:23Z",
+   "updated_at": null,
+   "also_in": [],
+   "history": []
+  },
+  {
+   "title": "Metrô e trens estão funcionando? Veja o status das linhas nesta quarta-feira (28) - VEJA SÃO PAULO",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNT2F0bzFQeGctcndDcGl1dDdIWFZ3cW81cGZBTkx1ejRUR19BQ1dzeTdPaU9kQnd4WFY5azFIaHhmdXlJX1FQbU9Yc1FRVkI5TkRBN1VSX0d3bUpDenE5UHl5VUNNTmNWWXJZeGRCRXdEZjZGbkxBWmdneTE2dUw4YUtCX28?oc=5",
+   "published": "2026-10-28T10:08:46Z",
+   "published_confirmed": true,
+   "source_id": "gnews-clientes",
+   "source_name": "Google Notícias — Carteira de clientes",
+   "source_authority": "journalistic",
+   "source_category": "clientes",
+   "collected_at": "2026-10-28T15:40:55Z",
+   "publisher": "VEJA SÃO PAULO",
+   "client_hint": "METRO",
+   "per_client_source": true,
+   "clients": [],
+   "clients_unconfirmed": [
+    "METRO"
+   ],
+   "categories": [
+    "clientes"
+   ],
+   "tags": [],
+   "sap_modules": [],
+   "nature": [],
+   "deadlines": [],
+   "relevance": {
+    "score": 30,
+    "level": "Informativa",
+    "justification": "Pontuação automática 30/100 (fonte 15, recência 15)."
+   },
+   "action_level": "Informativo",
+   "action_ai": "Informativo; sem ação aparente no momento.",
+   "impact_ai": "Evidências insuficientes para estimar impacto nos projetos.",
+   "content_kind": "Notícia jornalística",
+   "rt_status": null,
+   "confidence": "Baixa",
+   "analysis_origin": "Análise gerada automaticamente por regras; não é determinação da fonte.",
+   "id": "05b7a1db74418328",
+   "canonical_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNT2F0bzFQeGctcndDcGl1dDdIWFZ3cW81cGZBTkx1ejRUR19BQ1dzeTdPaU9kQnd4WFY5azFIaHhmdXlJX1FQbU9Yc1FRVkI5TkRBN1VSX0d3bUpDenE5UHl5VUNNTmNWWXJZeGRCRXdEZjZGbkxBWmdneTE2dUw4YUtCX28?oc=5",
+   "content_hash": "2557b97ae2b2",
+   "first_seen": "2026-10-28T15:41:23Z",
+   "last_seen": "2026-10-28T15:41:23Z",
+   "updated_at": null,
+   "also_in": [],
+   "history": []
+  },
+  {
+   "title": "Previsão do tempo para Santa Vitória nesta quarta (28) - correiosantavitoria.com.br",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOV09fTmhtUXU1eDRSLWU4VVRNajZpNFI2RWtFRzllQ0tGVDZwUzVHaEM4VldXQ3UtZmRlbEpJd2pvMExTd3M1RkRLZ2h0bzYwa2Z0OVNScjdMcjdxSGk2bWtzTk1UamZ2OVJpb0hCSHYwUm81V19rSTJnV01IWXhqRWdwM3ZPUHF6eGVOT2dBdVEtd0dmNXVPUFp4MkZ2Y2NM?oc=5",
+   "published": "2026-10-28T09:41:46Z",
+   "published_confirmed": true,
+   "source_id": "gnews-clientes",
+   "source_name": "Google Notícias — Carteira de clientes",
+   "source_authority": "journalistic",
+   "source_category": "clientes",
+   "collected_at": "2026-10-28T15:40:41Z",
+   "publisher": "correiosantavitoria.com.br",
+   "client_hint": "SANTA VITORIA",
+   "per_client_source": true,
+   "clients": [],
+   "clients_unconfirmed": [
+    "SANTA VITORIA"
+   ],
+   "categories": [
+    "clientes"
+   ],
+   "tags": [],
+   "sap_modules": [],
+   "nature": [
+    "Tendência de mercado"
+   ],
+   "deadlines": [],
+   "relevance": {
+    "score": 30,
+    "level": "Informativa",
+    "justification": "Pontuação automática 30/100 (fonte 15, recência 15)."
+   },
+   "action_level": "Informativo",
+   "action_ai": "Informativo; sem ação aparente no momento.",
+   "impact_ai": "Natureza provável: Tendência de mercado. O impacto real depende da versão, do ambiente e do escopo de cada projeto.",
+   "content_kind": "Notícia jornalística",
+   "rt_status": null,
+   "confidence": "Baixa",
+   "analysis_origin": "Análise gerada automaticamente por regras; não é determinação da fonte.",
+   "id": "03f12ff7a6820207",
+   "canonical_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOV09fTmhtUXU1eDRSLWU4VVRNajZpNFI2RWtFRzllQ0tGVDZwUzVHaEM4VldXQ3UtZmRlbEpJd2pvMExTd3M1RkRLZ2h0bzYwa2Z0OVNScjdMcjdxSGk2bWtzTk1UamZ2OVJpb0hCSHYwUm81V19rSTJnV01IWXhqRWdwM3ZPUHF6eGVOT2dBdVEtd0dmNXVPUFp4MkZ2Y2NM?oc=5",
+   "content_hash": "ca6fdeb56d62",
+   "first_seen": "2026-10-28T15:41:23Z",
+   "last_seen": "2026-10-28T15:41:23Z",
+   "updated_at": null,
+   "also_in": [],
+   "history": []
+  },
+  {
+   "title": "Bolsonaro fugiu para a Argentina e apanhou jacto para o Equador - Público",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdDR3eW9jSzlMYzdTWmJEOXhQam1UV1hPaTkwQVNtekE2UHZ1M18tNFd3bDI2RXZmTjdJSkZ5Njc5Yk51SVE5U19LMDdRdS1HVlk1VDVkcWFDcXp6T3hiem0xeFZwX1l4OHhDY3NUal9DS1BPUFpjUVl3MXNwT1NNOGw1UV9FTWwtUmV1LUZBV1hvTlV1UnI4TEFSWlZOUXYzendtYzhWWks0YzdEVUZJWW9NS2N2bTUzWENYaVlSN2U?oc=5",
+   "published": "2026-10-28T08:25:16Z",
+   "published_confirmed": true,
+   "source_id": "gnews-clientes",
+   "source_name": "Google Notícias — Carteira de clientes",
+   "source_authority": "journalistic",
+   "source_category": "clientes",
+   "collected_at": "2026-10-28T15:41:12Z",
+   "publisher": "Público",
+   "client_hint": "JACTO",
+   "per_client_source": true,
+   "clients": [
+    "JACTO"
+   ],
+   "clients_unconfirmed": [],
+   "categories": [
+    "clientes"
+   ],
+   "tags": [],
+   "sap_modules": [],
+   "nature": [],
+   "deadlines": [],
+   "relevance": {
+    "score": 45,
+    "level": "Média",
+    "justification": "Pontuação automática 45/100 (fonte 15, recência 15, cliente 15)."
+   },
+   "action_level": "Apenas acompanhamento",
+   "action_ai": "Acompanhar e considerar no planejamento.",
+   "impact_ai": "Evidências insuficientes para estimar impacto nos projetos.",
+   "content_kind": "Notícia jornalística",
+   "rt_status": null,
+   "confidence": "Média",
+   "analysis_origin": "Análise gerada automaticamente por regras; não é determinação da fonte.",
+   "id": "9ea25a8fa4b0ae33",
+   "canonical_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdDR3eW9jSzlMYzdTWmJEOXhQam1UV1hPaTkwQVNtekE2UHZ1M18tNFd3bDI2RXZmTjdJSkZ5Njc5Yk51SVE5U19LMDdRdS1HVlk1VDVkcWFDcXp6T3hiem0xeFZwX1l4OHhDY3NUal9DS1BPUFpjUVl3MXNwT1NNOGw1UV9FTWwtUmV1LUZBV1hvTlV1UnI4TEFSWlZOUXYzendtYzhWWks0YzdEVUZJWW9NS2N2bTUzWENYaVlSN2U?oc=5",
+   "content_hash": "deccbd2dd5d3",
+   "first_seen": "2026-10-28T15:41:23Z",
+   "last_seen": "2026-10-28T15:41:23Z",
+   "updated_at": null,
+   "also_in": [],
+   "history": []
+  },
+  {
+   "title": "SUPER CARAVANA! A mobilização da torcida do Palmeiras para a final da Copa Libertadores ganhou um novo capítulo e João Adibe, presidente da farmacêutica Cimed e torcedor declarado do Verdão, anunciou uma parceria com a Mancha Verde para org - Facebook",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVUc1ZUVWWUs2RndvS3JBZmJRREYyWXRDVFd5TTlvbmJxaUJkUDIxcHd2aFJvT1AtcDBjTkFhZThuZHhhekk2VzZZb0lxU2FaamQtdUhvUUt5NFdpd2pRVWpPQjNRcGV0ZmRUVkx4OUltaVU2Vl83Q2ZRWHpUdVR2YWowRktfZnNXN3ZvdHIwRWRJTTJYZGN3cDRRNXNLeEdnV1NiUjBWRkk5U29CQVh2cHp1ZnpFdzZ2dGFKcUJYYzA4NU1lU3BocERST0d0Y0VacTdfb1M0NEdQbDdQZ0VvYVRMODRSWndNWjQ4?oc=5",
+   "published": "2026-10-28T08:19:34Z",
+   "published_confirmed": true,
+   "source_id": "gnews-clientes",
+   "source_name": "Google Notícias — Carteira de clientes",
+   "source_authority": "journalistic",
+   "source_category": "clientes",
+   "collected_at": "2026-10-28T15:40:06Z",
+   "publisher": "Facebook",
+   "client_hint": "CIMED",
+   "per_client_source": true,
+   "clients": [
+    "CIMED"
+   ],
+   "clients_unconfirmed": [],
+   "categories": [
+    "clientes"
+   ],
+   "tags": [],
+   "sap_modules": [],
+   "nature": [],
+   "deadlines": [],
+   "relevance": {
+    "score": 45,
+    "level": "Média",
+    "justification": "Pontuação automática 45/100 (fonte 15, recência 15, cliente 15)."
+   },
+   "action_level": "Apenas acompanhamento",
+   "action_ai": "Acompanhar e considerar no planejamento.",
+   "impact_ai": "Evidências insuficientes para estimar impacto nos projetos.",
+   "content_kind": "Notícia jornalística",
+   "rt_status": null,
+   "confidence": "Média",
+   "analysis_origin": "Análise gerada automaticamente por regras; não é determinação da fonte.",
+   "id": "058639cb43ec216b",
+   "canonical_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVUc1ZUVWWUs2RndvS3JBZmJRREYyWXRDVFd5TTlvbmJxaUJkUDIxcHd2aFJvT1AtcDBjTkFhZThuZHhhekk2VzZZb0lxU2FaamQtdUhvUUt5NFdpd2pRVWpPQjNRcGV0ZmRUVkx4OUltaVU2Vl83Q2ZRWHpUdVR2YWowRktfZnNXN3ZvdHIwRWRJTTJYZGN3cDRRNXNLeEdnV1NiUjBWRkk5U29CQVh2cHp1ZnpFdzZ2dGFKcUJYYzA4NU1lU3BocERST0d0Y0VacTdfb1M0NEdQbDdQZ0VvYVRMODRSWndNWjQ4?oc=5",
+   "content_hash": "330454fbb148",
+   "first_seen": "2026-10-28T15:41:23Z",
+   "last_seen": "2026-10-28T15:41:23Z",
+   "updated_at": null,
+   "also_in": [],
+   "history": []
+  },
+  {
+   "title": "SAP and NTT to Cooperate on Delivering Trusted Sovereign Cloud and SAP Business AI Capabilities",
+   "summary": "TOKYO — The companies share the ambition to advance secure, resilient and sovereign digital transformation for regulated industries.",
+   "url": "https://news.sap.com/2026/10/sap-ntt-to-cooperate-deliver-trusted-sovereign-cloud-sap-business-ai-capabilities/",
+   "published": "2026-10-28T08:00:00Z",
+   "published_confirmed": true,
+   "source_id": "sap-news-center",
+   "source_name": "SAP News Center",
+   "source_authority": "official",
+   "source_category": "sap",
+   "collected_at": "2026-10-28T15:37:58Z",
+   "publisher": null,
+   "clients": [],
+   "clients_unconfirmed": [],
+   "categories": [
+    "sap"
+   ],
+   "tags": [
+    "SAP"
+   ],
+   "sap_modules": [
+    "SAP AI/Joule"
+   ],
+   "nature": [],
+   "deadlines": [],
+   "relevance": {
+    "score": 50,
+    "level": "Média",
+    "justification": "Pontuação automática 50/100 (fonte 30, recência 15, tema 5)."
+   },
+   "action_level": "Apenas acompanhamento",
+   "action_ai": "Acompanhar e considerar no planejamento.",
+   "impact_ai": "Possível relação com SAP AI/Joule. O impacto real depende da versão, do ambiente e do escopo de cada projeto.",
+   "content_kind": "Conteúdo oficial",
+   "rt_status": null,
+   "confidence": "Média",
+   "analysis_origin": "Análise gerada automaticamente por regras; não é determinação da fonte.",
+   "id": "8f4c290c7695eb24",
+   "canonical_url": "https://news.sap.com/2026/10/sap-ntt-to-cooperate-deliver-trusted-sovereign-cloud-sap-business-ai-capabilities",
+   "content_hash": "1496059df804",
+   "first_seen": "2026-10-28T15:41:23Z",
+   "last_seen": "2026-10-28T15:41:23Z",
+   "updated_at": null,
+   "also_in": [],
+   "history": []
+  },
+  {
+   "title": "Reforma tributária amplia o desafio dos rollouts globais de softwares de gestão - Jornal do Comércio",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNYWV3MGJqLWVaREt0U3pXQmJZYTVKclZYOU9oWGZHOWhXaHNNVVVZWjFLaGw5NFRSSTlGRk1YOWs1VHB0eVRvUUxPeGJGeWo5cjEzZ1hROHRGcGxzM0hpYWxVWFpDMm5fOHJmRmxiVFJRS0ZEZ2hSNjdPSWhEdDN3bDVhblk5c3NRUTdJSXJ2TG5NX2x2QVFIWmxKZEJZZVU0Y3NUOG1EMkhJdEJWMjlybW0xQzNvS1NVU2U4ajM3dkhJYkMxZS1LUGhoR2Q2TktXOXdEclBhY0lYd0t2aVFaT1FrS0JnbEh5c3ZXOTk4RUQ?oc=5",
+   "published": "2026-10-28T05:39:34Z",
+   "published_confirmed": true,
+   "source_id": "gnews-sap-reforma",
+   "source_name": "Google Notícias — SAP e Reforma Tributária",
+   "source_authority": "journalistic",
+   "source_category": "reforma_tributaria",
+   "collected_at": "2026-10-28T15:39:57Z",
+   "publisher": "Jornal do Comércio",
+   "clients": [],
+   "clients_unconfirmed": [],
+   "categories": [
+    "reforma_tributaria"
+   ],
+   "tags": [
+    "reforma tributária"
+   ],
+   "sap_modules": [],
+   "nature": [],
+   "deadlines": [],
+   "relevance": {
+    "score": 35,
+    "level": "Informativa",
+    "justification": "Pontuação automática 35/100 (fonte 15, recência 15, tema 5)."
+   },
+   "action_level": "Informativo",
+   "action_ai": "Informativo; sem ação aparente no momento.",
+   "impact_ai": "Evidências insuficientes para estimar impacto nos projetos.",
+   "content_kind": "Notícia jornalística",
+   "rt_status": "Análise ou interpretação de terceiros",
+   "confidence": "Média",
+   "analysis_origin": "Análise gerada automaticamente por regras; não é determinação da fonte.",
+   "id": "4e36bad28e3ae75c",
+   "canonical_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNYWV3MGJqLWVaREt0U3pXQmJZYTVKclZYOU9oWGZHOWhXaHNNVVVZWjFLaGw5NFRSSTlGRk1YOWs1VHB0eVRvUUxPeGJGeWo5cjEzZ1hROHRGcGxzM0hpYWxVWFpDMm5fOHJmRmxiVFJRS0ZEZ2hSNjdPSWhEdDN3bDVhblk5c3NRUTdJSXJ2TG5NX2x2QVFIWmxKZEJZZVU0Y3NUOG1EMkhJdEJWMjlybW0xQzNvS1NVU2U4ajM3dkhJYkMxZS1LUGhoR2Q2TktXOXdEclBhY0lYd0t2aVFaT1FrS0JnbEh5c3ZXOTk4RUQ?oc=5",
+   "content_hash": "4a009d324996",
+   "first_seen": "2026-10-28T15:41:23Z",
+   "last_seen": "2026-10-28T15:41:23Z",
+   "updated_at": null,
+   "also_in": [],
+   "history": []
+  },
+  {
+   "title": "PAULINHO FERREIRA, Vereador 2024 em São Martinho - CBN Amazônia",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNVF2dU5udERiWWZsQ2NzTlJMbzFQZ0tkcXdPTzVqYXh1cTF1X2I2T1ZnUTJiVHp3WUU5ZnhjNWUyOW9nZ3FDaE8yXzhGcXhqOVU5OVo4M3ZFWHJDZjRhc1RzSnpUa1BWZktXRjM2NFMzbU9IUkthZU5ZcUFjOXRXQQ?oc=5",
+   "published": "2026-10-28T05:18:08Z",
+   "published_confirmed": true,
+   "source_id": "gnews-clientes",
+   "source_name": "Google Notícias — Carteira de clientes",
+   "source_authority": "journalistic",
+   "source_category": "clientes",
+   "collected_at": "2026-10-28T15:40:19Z",
+   "publisher": "CBN Amazônia",
+   "client_hint": "SÃO MARTINHO",
+   "per_client_source": true,
+   "clients": [
+    "SÃO MARTINHO"
+   ],
+   "clients_unconfirmed": [],
+   "categories": [
+    "clientes"
+   ],
+   "tags": [],
+   "sap_modules": [],
+   "nature": [],
+   "deadlines": [],
+   "relevance": {
+    "score": 45,
+    "level": "Média",
+    "justification": "Pontuação automática 45/100 (fonte 15, recência 15, cliente 15)."
+   },
+   "action_level": "Apenas acompanhamento",
+   "action_ai": "Acompanhar e considerar no planejamento.",
+   "impact_ai": "Evidências insuficientes para estimar impacto nos projetos.",
+   "content_kind": "Notícia jornalística",
+   "rt_status": null,
+   "confidence": "Média",
+   "analysis_origin": "Análise gerada automaticamente por regras; não é determinação da fonte.",
+   "id": "d87a5debefaab076",
+   "canonical_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNVF2dU5udERiWWZsQ2NzTlJMbzFQZ0tkcXdPTzVqYXh1cTF1X2I2T1ZnUTJiVHp3WUU5ZnhjNWUyOW9nZ3FDaE8yXzhGcXhqOVU5OVo4M3ZFWHJDZjRhc1RzSnpUa1BWZktXRjM2NFMzbU9IUkthZU5ZcUFjOXRXQQ?oc=5",
+   "content_hash": "6bb44b761335",
+   "first_seen": "2026-10-28T15:41:23Z",
+   "last_seen": "2026-10-28T15:41:23Z",
+   "updated_at": null,
+   "also_in": [],
+   "history": []
+  },
+  {
+   "title": "ANA divulga orientações para reguladores retirarem PIS/Cofins das tarifas de água e esgoto antes da CBS - atlaspublico.com.br",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQd0xnMEljZTkxS2FLbHluS0N3QllQQ2lVRmpYRkhYR3hPMlJNb2xRRWRNcDBlZk1aY0ZUN0RIQzFILVY5U0VERkRPbFJGb1psTldSUkhjTVFtSGcwdUdQZWNiU01kZ0VhRzVYYjczQ3NKMnF3eHVOUXFhbzdNNnloekt5czRFdWR4SnAzY2htWGVIYUJYUEFNUHZZY0lQUQ?oc=5",
+   "published": "2026-10-28T05:06:25Z",
+   "published_confirmed": true,
+   "source_id": "gnews-sap-reforma",
+   "source_name": "Google Notícias — SAP e Reforma Tributária",
+   "source_authority": "journalistic",
+   "source_category": "reforma_tributaria",
+   "collected_at": "2026-10-28T15:39:59Z",
+   "publisher": "atlaspublico.com.br",
+   "clients": [],
+   "clients_unconfirmed": [],
+   "categories": [
+    "reforma_tributaria"
+   ],
+   "tags": [
+    "CBS"
+   ],
+   "sap_modules": [],
+   "nature": [],
+   "deadlines": [],
+   "relevance": {
+    "score": 35,
+    "level": "Informativa",
+    "justification": "Pontuação automática 35/100 (fonte 15, recência 15, tema 5)."
+   },
+   "action_level": "Informativo",
+   "action_ai": "Informativo; sem ação aparente no momento.",
+   "impact_ai": "Evidências insuficientes para estimar impacto nos projetos.",
+   "content_kind": "Notícia jornalística",
+   "rt_status": "Análise ou interpretação de terceiros",
+   "confidence": "Média",
+   "analysis_origin": "Análise gerada automaticamente por regras; não é determinação da fonte.",
+   "id": "782f92df9e897653",
+   "canonical_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQd0xnMEljZTkxS2FLbHluS0N3QllQQ2lVRmpYRkhYR3hPMlJNb2xRRWRNcDBlZk1aY0ZUN0RIQzFILVY5U0VERkRPbFJGb1psTldSUkhjTVFtSGcwdUdQZWNiU01kZ0VhRzVYYjczQ3NKMnF3eHVOUXFhbzdNNnloekt5czRFdWR4SnAzY2htWGVIYUJYUEFNUHZZY0lQUQ?oc=5",
+   "content_hash": "5fd2c138407a",
+   "first_seen": "2026-10-28T15:41:23Z",
+   "last_seen": "2026-10-28T15:41:23Z",
+   "updated_at": null,
+   "also_in": [],
+   "history": []
+  },
+  {
+   "title": "Brasil: TCP recibe primera escala del nuevo servicio semanal ZIM Falcon - Jornal Portuário",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdmVWN0VzS3p2NjRvUkt1QWh0bHU5UUJzSzNDeE9jM290b3NxRnpybm9EYUg1UWNFUEdqcTA2SUhmbkpUa3BqSm52U3RFLVVjdUZGa1J4eFFvNHZGNlJjU0ZNdXc3WnNDS0tmMW5jSW81VTBFQlFzc0hLajRjOE42dWRpYld0c2YwczQ0cHRCeE9yS2RBZ0VFSkRiUzBEMlBqRmw5QkhDQnY4MWFUb0kw?oc=5",
+   "published": "2026-10-28T04:01:01Z",
+   "published_confirmed": true,
+   "source_id": "gnews-clientes",
+   "source_name": "Google Notícias — Carteira de clientes",
+   "source_authority": "journalistic",
+   "source_category": "clientes",
+   "collected_at": "2026-10-28T15:40:39Z",
+   "publisher": "Jornal Portuário",
+   "client_hint": "ZIM",
+   "per_client_source": true,
+   "clients": [],
+   "clients_unconfirmed": [
+    "ZIM"
+   ],
+   "categories": [
+    "clientes"
+   ],
+   "tags": [],
+   "sap_modules": [],
+   "nature": [],
+   "deadlines": [],
+   "relevance": {
+    "score": 30,
+    "level": "Informativa",
+    "justification": "Pontuação automática 30/100 (fonte 15, recência 15)."
+   },
+   "action_level": "Informativo",
+   "action_ai": "Informativo; sem ação aparente no momento.",
+   "impact_ai": "Evidências insuficientes para estimar impacto nos projetos.",
+   "content_kind": "Notícia jornalística",
+   "rt_status": null,
+   "confidence": "Baixa",
+   "analysis_origin": "Análise gerada automaticamente por regras; não é determinação da fonte.",
+   "id": "5db3e1ee75f37756",
+   "canonical_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdmVWN0VzS3p2NjRvUkt1QWh0bHU5UUJzSzNDeE9jM290b3NxRnpybm9EYUg1UWNFUEdqcTA2SUhmbkpUa3BqSm52U3RFLVVjdUZGa1J4eFFvNHZGNlJjU0ZNdXc3WnNDS0tmMW5jSW81VTBFQlFzc0hLajRjOE42dWRpYld0c2YwczQ0cHRCeE9yS2RBZ0VFSkRiUzBEMlBqRmw5QkhDQnY4MWFUb0kw?oc=5",
+   "content_hash": "df746797062e",
+   "first_seen": "2026-10-28T15:41:23Z",
+   "last_seen": "2026-10-28T15:41:23Z",
+   "updated_at": null,
+   "also_in": [],
+   "history": []
+  },
+  {
+   "title": "Paranaguá: TCP recebe primeira escala do novo serviço semanal ZIM Falcon - Jornal Portuário",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYXFvQTNoYlRlMVVJQWp0YmNCSmVrZ0hjUGlsZDlwOWV3bFZ2NVlRUXhxN3FzWERRMUZFMGt5TXhma1NpS2ExajNtNWFsaW9MaXY2ZG1MNGxZZkZ4UmgzU29XOE1ONm56NWVXTk5xbVFBMjdNaWZkX3lmTW16Y2NhZGlaZmV6c2R2b2VrTFp2N0NsZ1B4cGZRVXZQMGtQdE1sRmppZWJfdVExOHhlc2tPNQ?oc=5",
+   "published": "2026-10-28T04:01:01Z",
+   "published_confirmed": true,
+   "source_id": "gnews-clientes",
+   "source_name": "Google Notícias — Carteira de clientes",
+   "source_authority": "journalistic",
+   "source_category": "clientes",
+   "collected_at": "2026-10-28T15:40:39Z",
+   "publisher": "Jornal Portuário",
+   "client_hint": "ZIM",
+   "per_client_source": true,
+   "clients": [],
+   "clients_unconfirmed": [
+    "ZIM"
+   ],
+   "categories": [
+    "clientes"
+   ],
+   "tags": [],
+   "sap_modules": [],
+   "nature": [],
+   "deadlines": [],
+   "relevance": {
+    "score": 30,
+    "level": "Informativa",
+    "justification": "Pontuação automática 30/100 (fonte 15, recência 15)."
+   },
+   "action_level": "Informativo",
+   "action_ai": "Informativo; sem ação aparente no momento.",
+   "impact_ai": "Evidências insuficientes para estimar impacto nos projetos.",
+   "content_kind": "Notícia jornalística",
+   "rt_status": null,
+   "confidence": "Baixa",
+   "analysis_origin": "Análise gerada automaticamente por regras; não é determinação da fonte.",
+   "id": "f9803a28eb827789",
+   "canonical_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYXFvQTNoYlRlMVVJQWp0YmNCSmVrZ0hjUGlsZDlwOWV3bFZ2NVlRUXhxN3FzWERRMUZFMGt5TXhma1NpS2ExajNtNWFsaW9MaXY2ZG1MNGxZZkZ4UmgzU29XOE1ONm56NWVXTk5xbVFBMjdNaWZkX3lmTW16Y2NhZGlaZmV6c2R2b2VrTFp2N0NsZ1B4cGZRVXZQMGtQdE1sRmppZWJfdVExOHhlc2tPNQ?oc=5",
+   "content_hash": "569ae5f08a98",
+   "first_seen": "2026-10-28T15:41:23Z",
+   "last_seen": "2026-10-28T15:41:23Z",
+   "updated_at": null,
+   "also_in": [],
+   "history": []
+  },
+  {
+   "title": "Ferro Arno Duo Power: modelo 2 em 1 facilita a rotina de casa; testamos - TechTudo",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORjg3ZEFDMlpxcTg2SnNKZXYwYjV1VC0xbFJrck5RY3A1S3UyQ1pROU8zR2lGS3dsUjhrS3AydUV4OTluSzhjMHFlM0FwOHhzZUJoc2g0R004djNWN0RXd0s1WlUxVUFnWWdIZl9ubkNIWkZQcDdKcUJ2QllraW5MWkxBMk1IWEhwSXJicWhNSERIRGVkaldoQkI5NUN4dW4zNFlWbW94Y2RiMGh4QlV0NGxPaWYzSlI3SG1qT2VB?oc=5",
+   "published": "2026-10-28T03:00:01Z",
+   "published_confirmed": true,
+   "source_id": "gnews-clientes",
+   "source_name": "Google Notícias — Carteira de clientes",
+   "source_authority": "journalistic",
+   "source_category": "clientes",
+   "collected_at": "2026-10-28T15:40:47Z",
+   "publisher": "TechTudo",
+   "client_hint": "ARNO",
+   "per_client_source": true,
+   "clients": [],
+   "clients_unconfirmed": [
+    "ARNO"
+   ],
+   "categories": [
+    "clientes"
+   ],
+   "tags": [],
+   "sap_modules": [],
+   "nature": [],
+   "deadlines": [],
+   "relevance": {
+    "score": 30,
+    "level": "Informativa",
+    "justification": "Pontuação automática 30/100 (fonte 15, recência 15)."
+   },
+   "action_level": "Informativo",
+   "action_ai": "Informativo; sem ação aparente no momento.",
+   "impact_ai": "Evidências insuficientes para estimar impacto nos projetos.",
+   "content_kind": "Notícia jornalística",
+   "rt_status": null,
+   "confidence": "Baixa",
+   "analysis_origin": "Análise gerada automaticamente por regras; não é determinação da fonte.",
+   "id": "dc178cc747a45a76",
+   "canonical_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORjg3ZEFDMlpxcTg2SnNKZXYwYjV1VC0xbFJrck5RY3A1S3UyQ1pROU8zR2lGS3dsUjhrS3AydUV4OTluSzhjMHFlM0FwOHhzZUJoc2g0R004djNWN0RXd0s1WlUxVUFnWWdIZl9ubkNIWkZQcDdKcUJ2QllraW5MWkxBMk1IWEhwSXJicWhNSERIRGVkaldoQkI5NUN4dW4zNFlWbW94Y2RiMGh4QlV0NGxPaWYzSlI3SG1qT2VB?oc=5",
+   "content_hash": "445b36a4b5ec",
+   "first_seen": "2026-10-28T15:41:23Z",
+   "last_seen": "2026-10-28T15:41:23Z",
+   "updated_at": null,
+   "also_in": [],
+   "history": []
+  },
+  {
+   "title": "Cimed e Medley dividem o pódio no Top Medicamento Genérico - Repórter PB",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVERuVTBLTE9PWXdab2pJYUdmUms2M3dGNTU2ZmtHWkhQdlVNbENQcmF3UjBMQ05MaTJWYVVubVI5RHJQVDV6cGRrOFQwZTBkd2pfQUVjeGxYOE80dkM4LTN2aUZqYi1YVldkLUVKQW9zN3U1Y3p4aDlkVWpmMFJEU09VWGxGQ294ZzF0NlpWMlc4LXlZTGNpSEFra29nNGRzd1VnZmlRUzJta3JzNDlNb0ozdVJQNFQ5UlZOYVQyaTNmTzQ?oc=5",
+   "published": "2026-10-28T00:00:00Z",
+   "published_confirmed": true,
+   "source_id": "gnews-clientes",
+   "source_name": "Google Notícias — Carteira de clientes",
+   "source_authority": "journalistic",
+   "source_category": "clientes",
+   "collected_at": "2026-10-28T15:40:06Z",
+   "publisher": "Repórter PB",
+   "client_hint": "CIMED",
+   "per_client_source": true,
+   "clients": [
+    "CIMED"
+   ],
+   "clients_unconfirmed": [],
+   "categories": [
+    "clientes"
+   ],
+   "tags": [],
+   "sap_modules": [],
+   "nature": [],
+   "deadlines": [],
+   "relevance": {
+    "score": 45,
+    "level": "Média",
+    "justification": "Pontuação automática 45/100 (fonte 15, recência 15, cliente 15)."
+   },
+   "action_level": "Apenas acompanhamento",
+   "action_ai": "Acompanhar e considerar no planejamento.",
+   "impact_ai": "Evidências insuficientes para estimar impacto nos projetos.",
+   "content_kind": "Notícia jornalística",
+   "rt_status": null,
+   "confidence": "Média",
+   "analysis_origin": "Análise gerada automaticamente por regras; não é determinação da fonte.",
+   "id": "a2351e3cfd680a98",
+   "canonical_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVERuVTBLTE9PWXdab2pJYUdmUms2M3dGNTU2ZmtHWkhQdlVNbENQcmF3UjBMQ05MaTJWYVVubVI5RHJQVDV6cGRrOFQwZTBkd2pfQUVjeGxYOE80dkM4LTN2aUZqYi1YVldkLUVKQW9zN3U1Y3p4aDlkVWpmMFJEU09VWGxGQ294ZzF0NlpWMlc4LXlZTGNpSEFra29nNGRzd1VnZmlRUzJta3JzNDlNb0ozdVJQNFQ5UlZOYVQyaTNmTzQ?oc=5",
+   "content_hash": "e198329a89f4",
+   "first_seen": "2026-10-28T15:41:23Z",
+   "last_seen": "2026-10-28T15:41:23Z",
+   "updated_at": null,
+   "also_in": [],
+   "history": []
+  },
+  {
+   "title": "ZIM inclui Porto de Houston no serviço Venezuela Line - DatamarNews",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPS3BsVWpkSnJ2aUJqWGE1YlU3SjN1UzhrLW1ReW9yU3VnZ1JsaTA3SUV2bWlUQVl3d2lNdHU5MjE5ZXVWOEI1M2YzeWR5dXA1V0lyQ2FnSGlSRy1KUE5UbDRNS1Z4WkdvdmN2OS1yWVc5VWE1WWtQY0ZsWnpiaWlsal9nbHZYOVR5a0QzU284SEdkTTVt?oc=5",
+   "published": "2026-10-27T23:49:31Z",
+   "published_confirmed": true,
+   "source_id": "gnews-clientes",
+   "source_name": "Google Notícias — Carteira de clientes",
+   "source_authority": "journalistic",
+   "source_category": "clientes",
+   "collected_at": "2026-10-28T15:40:39Z",
+   "publisher": "DatamarNews",
+   "client_hint": "ZIM",
+   "per_client_source": true,
+   "clients": [],
+   "clients_unconfirmed": [
+    "ZIM"
+   ],
+   "categories": [
+    "clientes"
+   ],
+   "tags": [],
+   "sap_modules": [],
+   "nature": [],
+   "deadlines": [],
+   "relevance": {
+    "score": 30,
+    "level": "Informativa",
+    "justification": "Pontuação automática 30/100 (fonte 15, recência 15)."
+   },
+   "action_level": "Informativo",
+   "action_ai": "Informativo; sem ação aparente no momento.",
+   "impact_ai": "Evidências insuficientes para estimar impacto nos projetos.",
+   "content_kind": "Notícia jornalística",
+   "rt_status": null,
+   "confidence": "Baixa",
+   "analysis_origin": "Análise gerada automaticamente por regras; não é determinação da fonte.",
+   "id": "1d2b59aab99a2bd5",
+   "canonical_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPS3BsVWpkSnJ2aUJqWGE1YlU3SjN1UzhrLW1ReW9yU3VnZ1JsaTA3SUV2bWlUQVl3d2lNdHU5MjE5ZXVWOEI1M2YzeWR5dXA1V0lyQ2FnSGlSRy1KUE5UbDRNS1Z4WkdvdmN2OS1yWVc5VWE1WWtQY0ZsWnpiaWlsal9nbHZYOVR5a0QzU284SEdkTTVt?oc=5",
+   "content_hash": "10fe0a07144b",
+   "first_seen": "2026-10-28T15:41:23Z",
+   "last_seen": "2026-10-28T15:41:23Z",
+   "updated_at": null,
+   "also_in": [],
+   "history": []
+  },
+  {
+   "title": "São Martinho investe R$ 1,1 bilhão na Unidade Boa Vista para expandir etanol de milho em Goiás - Andravirtual",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNVpkaG5HYW1JalZWcGpWUHhlS1NFLWVyaDV4T0lQTnFESVo3MXpoaXl1WkFBRUZvdVJvWWZhZ21hUlVGbHNvQXg2NzFvUFVCbGJXRElzZHZpYmxLSHZteUpidTJmWGtTa0R2TlFEQ1RZUS1KNjBBUFdMYm9hT1JCaDY0c1FfNHdHYjBYSjRGSm1GcVZ6N1liMDFhSHlseERaYnBEWTgyQllFZFdPYlRHeG40UXRhRHhXQkhlejVLVG5ubWRlV2Y3TjdqbTVNTlh2?oc=5",
+   "published": "2026-10-27T23:35:00Z",
+   "published_confirmed": true,
+   "source_id": "gnews-clientes",
+   "source_name": "Google Notícias — Carteira de clientes",
+   "source_authority": "journalistic",
+   "source_category": "clientes",
+   "collected_at": "2026-10-28T15:40:19Z",
+   "publisher": "Andravirtual",
+   "client_hint": "SÃO MARTINHO",
+   "per_client_source": true,
+   "clients": [
+    "SÃO MARTINHO"
+   ],
+   "clients_unconfirmed": [],
+   "categories": [
+    "clientes"
+   ],
+   "tags": [],
+   "sap_modules": [],
+   "nature": [],
+   "deadlines": [],
+   "relevance": {
+    "score": 45,
+    "level": "Média",
+    "justification": "Pontuação automática 45/100 (fonte 15, recência 15, cliente 15)."
+   },
+   "action_level": "Apenas acompanhamento",
+   "action_ai": "Acompanhar e considerar no planejamento.",
+   "impact_ai": "Evidências insuficientes para estimar impacto nos projetos.",
+   "content_kind": "Notícia jornalística",
+   "rt_status": null,
+   "confidence": "Média",
+   "analysis_origin": "Análise gerada automaticamente por regras; não é determinação da fonte.",
+   "id": "56b8f58e6553108d",
+   "canonical_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNVpkaG5HYW1JalZWcGpWUHhlS1NFLWVyaDV4T0lQTnFESVo3MXpoaXl1WkFBRUZvdVJvWWZhZ21hUlVGbHNvQXg2NzFvUFVCbGJXRElzZHZpYmxLSHZteUpidTJmWGtTa0R2TlFEQ1RZUS1KNjBBUFdMYm9hT1JCaDY0c1FfNHdHYjBYSjRGSm1GcVZ6N1liMDFhSHlseERaYnBEWTgyQllFZFdPYlRHeG40UXRhRHhXQkhlejVLVG5ubWRlV2Y3TjdqbTVNTlh2?oc=5",
+   "content_hash": "080116d38460",
+   "first_seen": "2026-10-28T15:41:23Z",
+   "last_seen": "2026-10-28T15:41:23Z",
+   "updated_at": null,
+   "also_in": [],
+   "history": []
+  },
+  {
+   "title": "Adafruit Metro ESP32-P4 Hydra: Placa de desenvolvimento acessível oferece compatibilidade com casas inteligentes - Notebookcheck.info",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOekhsbW8xOF82X3RuN1hzRm9BdW5wQnRBV1RIQlJfckdBWjRPeXc5dTBpOENReEtGU0ZFenBvWHZPYnZTcnFuM2dXZW1tWkQ0TnpLUFRaWGZUYW9qaFA1RE1POExfSFFXOU9ZWlQwUTFON19qb0NEaVN3N3Z4V3E4UE9sR2hNNWFCV1NDOFNlcTd4d0ZaMjJjUkRsT3JvQ1Qxai1oSy1XQzRIczlCUHNQS2ttUE40NnhHWHZpZjUzS1d5dzRtbDA0OGNMdlRJSlF5YnRSNmdBaHIySFBLWnJ2VllRQzBOdjJjRXhhcGt3?oc=5",
+   "published": "2026-10-27T23:31:00Z",
+   "published_confirmed": true,
+   "source_id": "gnews-clientes",
+   "source_name": "Google Notícias — Carteira de clientes",
+   "source_authority": "journalistic",
+   "source_category": "clientes",
+   "collected_at": "2026-10-28T15:40:55Z",
+   "publisher": "Notebookcheck.info",
+   "client_hint": "METRO",
+   "per_client_source": true,
+   "clients": [],
+   "clients_unconfirmed": [
+    "METRO"
+   ],
+   "categories": [
+    "clientes"
+   ],
+   "tags": [],
+   "sap_modules": [],
+   "nature": [],
+   "deadlines": [],
+   "relevance": {
+    "score": 30,
+    "level": "Informativa",
+    "justification": "Pontuação automática 30/100 (fonte 15, recência 15)."
+   },
+   "action_level": "Informativo",
+   "action_ai": "Informativo; sem ação aparente no momento.",
+   "impact_ai": "Evidências insuficientes para estimar impacto nos projetos.",
+   "content_kind": "Notícia jornalística",
+   "rt_status": null,
+   "confidence": "Baixa",
+   "analysis_origin": "Análise gerada automaticamente por regras; não é determinação da fonte.",
+   "id": "59c8dd66b34626bd",
+   "canonical_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOekhsbW8xOF82X3RuN1hzRm9BdW5wQnRBV1RIQlJfckdBWjRPeXc5dTBpOENReEtGU0ZFenBvWHZPYnZTcnFuM2dXZW1tWkQ0TnpLUFRaWGZUYW9qaFA1RE1POExfSFFXOU9ZWlQwUTFON19qb0NEaVN3N3Z4V3E4UE9sR2hNNWFCV1NDOFNlcTd4d0ZaMjJjUkRsT3JvQ1Qxai1oSy1XQzRIczlCUHNQS2ttUE40NnhHWHZpZjUzS1d5dzRtbDA0OGNMdlRJSlF5YnRSNmdBaHIySFBLWnJ2VllRQzBOdjJjRXhhcGt3?oc=5",
+   "content_hash": "c49479974074",
+   "first_seen": "2026-10-28T15:41:23Z",
+   "last_seen": "2026-10-28T15:41:23Z",
+   "updated_at": null,
+   "also_in": [],
+   "history": []
+  },
+  {
+   "title": "Paranaguá: TCP recebe primeira escala do novo serviço semanal ZIM Falcon - PortalPortuario",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVHJMSU5HTndPZDJvNlJpbHlVUFYzQktxb3B2SUI2bm9FeEphanpwZldJaHh0ZUtDVTBGaklfRmZSelo5aE1keVZ4OEUxSDJFYU9pZEQyOWk4dlVJbHVWT3RuWjhMRXRlb1g1X18zZktwcUthZ1lUcWlXX3B4QWRHR1pPRURKUTNEWk1NYWl6WXRJVklZazVVZ3c4TWNzUnJo?oc=5",
+   "published": "2026-10-27T23:14:15Z",
+   "published_confirmed": true,
+   "source_id": "gnews-clientes",
+   "source_name": "Google Notícias — Carteira de clientes",
+   "source_authority": "journalistic",
+   "source_category": "clientes",
+   "collected_at": "2026-10-28T15:40:39Z",
+   "publisher": "PortalPortuario",
+   "client_hint": "ZIM",
+   "per_client_source": true,
+   "clients": [],
+   "clients_unconfirmed": [
+    "ZIM"
+   ],
+   "categories": [
+    "clientes"
+   ],
+   "tags": [],
+   "sap_modules": [],
+   "nature": [],
+   "deadlines": [],
+   "relevance": {
+    "score": 30,
+    "level": "Informativa",
+    "justification": "Pontuação automática 30/100 (fonte 15, recência 15)."
+   },
+   "action_level": "Informativo",
+   "action_ai": "Informativo; sem ação aparente no momento.",
+   "impact_ai": "Evidências insuficientes para estimar impacto nos projetos.",
+   "content_kind": "Notícia jornalística",
+   "rt_status": null,
+   "confidence": "Baixa",
+   "analysis_origin": "Análise gerada automaticamente por regras; não é determinação da fonte.",
+   "id": "dd8e314a44e190db",
+   "canonical_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVHJMSU5HTndPZDJvNlJpbHlVUFYzQktxb3B2SUI2bm9FeEphanpwZldJaHh0ZUtDVTBGaklfRmZSelo5aE1keVZ4OEUxSDJFYU9pZEQyOWk4dlVJbHVWT3RuWjhMRXRlb1g1X18zZktwcUthZ1lUcWlXX3B4QWRHR1pPRURKUTNEWk1NYWl6WXRJVklZazVVZ3c4TWNzUnJo?oc=5",
+   "content_hash": "6298288076be",
+   "first_seen": "2026-10-28T15:41:23Z",
+   "last_seen": "2026-10-28T15:41:23Z",
+   "updated_at": null,
+   "also_in": [],
+   "history": []
+  },
+  {
+   "title": "Prefeitura e Usina São João realizam processo seletivo no dia 5 - Notícias de Araras",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS3RtbHFlbnZMd0VzUDNhWFVUMGRrZnBqcm5KQXVsblR2S1RkQzI5N1M3eXB6RlZVNVRKeGI2Slo0U1BESGgwZHYwMDhZTmdhYTlCNjBtYzlGRVdlSHgxSnVkbW1aRndVOWlEcjJ2elpDY3RRQjZURTlCY2NhZzRuOHoyZ3c4WldQb0t2SXctUU5uMnNZeGtUZHB1OXVNYVlQeGV1a0JB?oc=5",
+   "published": "2026-10-27T22:31:17Z",
+   "published_confirmed": true,
+   "source_id": "gnews-clientes",
+   "source_name": "Google Notícias — Carteira de clientes",
+   "source_authority": "journalistic",
+   "source_category": "clientes",
+   "collected_at": "2026-10-28T15:41:18Z",
+   "publisher": "Notícias de Araras",
+   "client_hint": "USINA SÃO JOÃO",
+   "per_client_source": true,
+   "clients": [
+    "USINA SÃO JOÃO"
+   ],
+   "clients_unconfirmed": [],
+   "categories": [
+    "clientes"
+   ],
+   "tags": [],
+   "sap_modules": [],
+   "nature": [],
+   "deadlines": [],
+   "relevance": {
+    "score": 45,
+    "level": "Média",
+    "justification": "Pontuação automática 45/100 (fonte 15, recência 15, cliente 15)."
+   },
+   "action_level": "Apenas acompanhamento",
+   "action_ai": "Acompanhar e considerar no planejamento.",
+   "impact_ai": "Evidências insuficientes para estimar impacto nos projetos.",
+   "content_kind": "Notícia jornalística",
+   "rt_status": null,
+   "confidence": "Média",
+   "analysis_origin": "Análise gerada automaticamente por regras; não é determinação da fonte.",
+   "id": "495170169e3b3fb0",
+   "canonical_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS3RtbHFlbnZMd0VzUDNhWFVUMGRrZnBqcm5KQXVsblR2S1RkQzI5N1M3eXB6RlZVNVRKeGI2Slo0U1BESGgwZHYwMDhZTmdhYTlCNjBtYzlGRVdlSHgxSnVkbW1aRndVOWlEcjJ2elpDY3RRQjZURTlCY2NhZzRuOHoyZ3c4WldQb0t2SXctUU5uMnNZeGtUZHB1OXVNYVlQeGV1a0JB?oc=5",
+   "content_hash": "c3a735e57356",
+   "first_seen": "2026-10-28T15:41:23Z",
+   "last_seen": "2026-10-28T15:41:23Z",
+   "updated_at": null,
+   "also_in": [],
+   "history": []
+  },
+  {
+   "title": "Mastologista do Santa Izabel afirma que pacientes com risco elevado de câncer de mama devem fazer ressonância - Rádio Metrópole",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPVmVPcm9vcFZEcDdIdDFxRHE2S0QxLVg2OTgydnV5TS1uZmJDTVZEOHFpelVBeXgxZ2FPbmhDWGRwX2E2d01hVy1BNWdSU1BCN0ZCNEsyN1I4NWpWdURyYlBLTDJqTHJzWEFBSEJDdHZKM3NlV2ZjcHNYT2NLQlJ6eVlyNzN6eFF1VjVpcV8tcFFILXhqdkZkOU9HUlpYZzJGVjNaZjZwUEVwZ29ndklKSE1zYllFSTMwUEZMeEpZUVdOLWplT3RzNFdZOExUb3g2UHdfYjFwNjVaR25DYzJETEVKTXZLT2ZEWldvOWpfWndVeHBWdE1kUjdHVQ?oc=5",
+   "published": "2026-10-27T21:54:00Z",
+   "published_confirmed": true,
+   "source_id": "gnews-clientes",
+   "source_name": "Google Notícias — Carteira de clientes",
+   "source_authority": "journalistic",
+   "source_category": "clientes",
+   "collected_at": "2026-10-28T15:40:08Z",
+   "publisher": "Rádio Metrópole",
+   "client_hint": "SANTA IZABEL",
+   "per_client_source": true,
+   "clients": [],
+   "clients_unconfirmed": [
+    "SANTA IZABEL"
+   ],
+   "categories": [
+    "clientes"
+   ],
+   "tags": [],
+   "sap_modules": [],
+   "nature": [
+    "Risco ou limitação"
+   ],
+   "deadlines": [],
+   "relevance": {
+    "score": 30,
+    "level": "Informativa",
+    "justification": "Pontuação automática 30/100 (fonte 15, recência 15)."
+   },
+   "action_level": "Informativo",
+   "action_ai": "Informativo; sem ação aparente no momento.",
+   "impact_ai": "Natureza provável: Risco ou limitação. O impacto real depende da versão, do ambiente e do escopo de cada projeto.",
+   "content_kind": "Notícia jornalística",
+   "rt_status": null,
+   "confidence": "Baixa",
+   "analysis_origin": "Análise gerada automaticamente por regras; não é determinação da fonte.",
+   "id": "3e8819d0be7c0bd3",
+   "canonical_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPVmVPcm9vcFZEcDdIdDFxRHE2S0QxLVg2OTgydnV5TS1uZmJDTVZEOHFpelVBeXgxZ2FPbmhDWGRwX2E2d01hVy1BNWdSU1BCN0ZCNEsyN1I4NWpWdURyYlBLTDJqTHJzWEFBSEJDdHZKM3NlV2ZjcHNYT2NLQlJ6eVlyNzN6eFF1VjVpcV8tcFFILXhqdkZkOU9HUlpYZzJGVjNaZjZwUEVwZ29ndklKSE1zYllFSTMwUEZMeEpZUVdOLWplT3RzNFdZOExUb3g2UHdfYjFwNjVaR25DYzJETEVKTXZLT2ZEWldvOWpfWndVeHBWdE1kUjdHVQ?oc=5",
+   "content_hash": "556a1c15a093",
+   "first_seen": "2026-10-28T15:41:23Z",
+   "last_seen": "2026-10-28T15:41:23Z",
+   "updated_at": null,
+   "also_in": [],
+   "history": []
+  },
+  {
+   "title": "SUPER CARAVANA! A mobilização da torcida do Palmeiras para a final da Copa Libertadores ganhou um novo capítulo e João Adibe, presidente da farmacêutica Cimed e torcedor declarado do Verdão, anunciou uma parceria com a Mancha Verde para org - Instagram",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TaFJoRzRIYUVtVWE2TGUta2J4ZXdob0YtNW9mMUNmMEVWM2pyQ3VsOXhTT3pYXy1QbEVqRXRQVFVFeFpfY21ubkN2YlBrc2dOOVE?oc=5",
+   "published": "2026-10-27T20:23:18Z",
+   "published_confirmed": true,
+   "source_id": "gnews-clientes",
+   "source_name": "Google Notícias — Carteira de clientes",
+   "source_authority": "journalistic",
+   "source_category": "clientes",
+   "collected_at": "2026-10-28T15:40:06Z",
+   "publisher": "Instagram",
+   "client_hint": "CIMED",
+   "per_client_source": true,
+   "clients": [
+    "CIMED"
+   ],
+   "clients_unconfirmed": [],
+   "categories": [
+    "clientes"
+   ],
+   "tags": [],
+   "sap_modules": [],
+   "nature": [],
+   "deadlines": [],
+   "relevance": {
+    "score": 45,
+    "level": "Média",
+    "justification": "Pontuação automática 45/100 (fonte 15, recência 15, cliente 15)."
+   },
+   "action_level": "Apenas acompanhamento",
+   "action_ai": "Acompanhar e considerar no planejamento.",
+   "impact_ai": "Evidências insuficientes para estimar impacto nos projetos.",
+   "content_kind": "Notícia jornalística",
+   "rt_status": null,
+   "confidence": "Média",
+   "analysis_origin": "Análise gerada automaticamente por regras; não é determinação da fonte.",
+   "id": "fc4540a00f8670a6",
+   "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TaFJoRzRIYUVtVWE2TGUta2J4ZXdob0YtNW9mMUNmMEVWM2pyQ3VsOXhTT3pYXy1QbEVqRXRQVFVFeFpfY21ubkN2YlBrc2dOOVE?oc=5",
+   "content_hash": "e53b803ed823",
+   "first_seen": "2026-10-28T15:41:23Z",
+   "last_seen": "2026-10-28T15:41:23Z",
+   "updated_at": null,
+   "also_in": [],
+   "history": []
+  },
+  {
+   "title": "Life by Vivara comemora 15 anos da coleção Moments com novidades - Terra",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNTTQtbGdTeU1CYXN5SjluWmFVQzl2VFhhbmd6N3drdThlaEI5QzFxUzczRTFHcEZNX0hJNXZYOW15dEVXVDNlN3dkOUJjN2VMZzBWakwwdzFzSHNPSkZPWTd0Ri1vXzlkRmJjWF85bFRYUWsyTi1YSUt4b3Zfa3l5bW1JdDlwUEZTWVFqMlg4V1JVZzVLY09sQ1pxV3lOZE5oTDNUYmdRektfb3F6Nnk2SEdUVk5RRVhZLVI2RDEzWFdKbXJLX19xVVhZdGx6RFdaVnVqYUQwX1RPZm9fZ2R4dUVDRGZQaHl6OGx4a3hXdWVUTnlkOG1ObW5R?oc=5",
+   "published": "2026-10-27T19:34:00Z",
+   "published_confirmed": true,
+   "source_id": "gnews-clientes",
+   "source_name": "Google Notícias — Carteira de clientes",
+   "source_authority": "journalistic",
+   "source_category": "clientes",
+   "collected_at": "2026-10-28T15:40:51Z",
+   "publisher": "Terra",
+   "client_hint": "VIVARA",
+   "per_client_source": true,
+   "clients": [
+    "VIVARA"
+   ],
+   "clients_unconfirmed": [],
+   "categories": [
+    "clientes"
+   ],
+   "tags": [],
+   "sap_modules": [],
+   "nature": [],
+   "deadlines": [],
+   "relevance": {
+    "score": 45,
+    "level": "Média",
+    "justification": "Pontuação automática 45/100 (fonte 15, recência 15, cliente 15)."
+   },
+   "action_level": "Apenas acompanhamento",
+   "action_ai": "Acompanhar e considerar no planejamento.",
+   "impact_ai": "Evidências insuficientes para estimar impacto nos projetos.",
+   "content_kind": "Notícia jornalística",
+   "rt_status": null,
+   "confidence": "Média",
+   "analysis_origin": "Análise gerada automaticamente por regras; não é determinação da fonte.",
+   "id": "267aff60c59785ed",
+   "canonical_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNTTQtbGdTeU1CYXN5SjluWmFVQzl2VFhhbmd6N3drdThlaEI5QzFxUzczRTFHcEZNX0hJNXZYOW15dEVXVDNlN3dkOUJjN2VMZzBWakwwdzFzSHNPSkZPWTd0Ri1vXzlkRmJjWF85bFRYUWsyTi1YSUt4b3Zfa3l5bW1JdDlwUEZTWVFqMlg4V1JVZzVLY09sQ1pxV3lOZE5oTDNUYmdRektfb3F6Nnk2SEdUVk5RRVhZLVI2RDEzWFdKbXJLX19xVVhZdGx6RFdaVnVqYUQwX1RPZm9fZ2R4dUVDRGZQaHl6OGx4a3hXdWVUTnlkOG1ObW5R?oc=5",
+   "content_hash": "8efe6ef30cc1",
+   "first_seen": "2026-10-28T15:41:23Z",
+   "last_seen": "2026-10-28T15:41:23Z",
+   "updated_at": null,
+   "also_in": [],
+   "history": []
+  },
+  {
+   "title": "Líderes! Retirem a Reforma Tributária do isolamento dos departamentos Fiscal ou de TI - ConvergenciaDigital",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSjhpeHMzek8ybEFIQmF5VnpMTU1BR3RiTnJQZmpKRWhna1h0Z3pSRE0telNlaTJvZmJVS3JUbDBkYmZSalNHdkNhWVB3dUZydDFIek81V2MyQS05UVpLY2RLcXdHS21WV3pITmhnM0pKd2YyXzB2VzhMVWZsaUxCMkxRWFU1ZXJzVkZfNEw4dWYzT3NkeFlBMk1XUFVRc09oZ0hHT1lDakdsVnpZOVlRZ3pkY1d3VGxIbmZRTXlDbzBZT3dhMng0?oc=5",
+   "published": "2026-10-27T19:27:12Z",
+   "published_confirmed": true,
+   "source_id": "gnews-sap-reforma",
+   "source_name": "Google Notícias — SAP e Reforma Tributária",
+   "source_authority": "journalistic",
+   "source_category": "reforma_tributaria",
+   "collected_at": "2026-10-28T15:39:57Z",
+   "publisher": "ConvergenciaDigital",
+   "clients": [],
+   "clients_unconfirmed": [],
+   "categories": [
+    "reforma_tributaria"
+   ],
+   "tags": [
+    "reforma tributária"
+   ],
+   "sap_modules": [],
+   "nature": [],
+   "deadlines": [],
+   "relevance": {
+    "score": 35,
+    "level": "Informativa",
+    "justification": "Pontuação automática 35/100 (fonte 15, recência 15, tema 5)."
+   },
+   "action_level": "Informativo",
+   "action_ai": "Informativo; sem ação aparente no momento.",
+   "impact_ai": "Evidências insuficientes para estimar impacto nos projetos.",
+   "content_kind": "Notícia jornalística",
+   "rt_status": "Análise ou interpretação de terceiros",
+   "confidence": "Média",
+   "analysis_origin": "Análise gerada automaticamente por regras; não é determinação da fonte.",
+   "id": "e35e4c2cba0ea3fa",
+   "canonical_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSjhpeHMzek8ybEFIQmF5VnpMTU1BR3RiTnJQZmpKRWhna1h0Z3pSRE0telNlaTJvZmJVS3JUbDBkYmZSalNHdkNhWVB3dUZydDFIek81V2MyQS05UVpLY2RLcXdHS21WV3pITmhnM0pKd2YyXzB2VzhMVWZsaUxCMkxRWFU1ZXJzVkZfNEw4dWYzT3NkeFlBMk1XUFVRc09oZ0hHT1lDakdsVnpZOVlRZ3pkY1d3VGxIbmZRTXlDbzBZT3dhMng0?oc=5",
+   "content_hash": "2f0552c9a048",
+   "first_seen": "2026-10-28T15:41:23Z",
+   "last_seen": "2026-10-28T15:41:23Z",
+   "updated_at": null,
+   "also_in": [],
+   "history": []
+  },
+  {
+   "title": "NFS-e/São Paulo: Nova versão do Manual de Utilização do Webservice de NFS-e - LegisWeb",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9nSHNSMjc0T3kzcXk4NUNlVnhETXVjaDZuMnZTanI1c1FleVdKU0ZPMGZfTGpMOEtkWGpidmRCdUdKc1puRHhZYl8tUlZRTnAtVlp3TWwzaVQ?oc=5",
+   "published": "2026-10-27T18:44:31Z",
+   "published_confirmed": true,
+   "source_id": "gnews-sap-reforma",
+   "source_name": "Google Notícias — SAP e Reforma Tributária",
+   "source_authority": "journalistic",
+   "source_category": "reforma_tributaria",
+   "collected_at": "2026-10-28T15:39:59Z",
+   "publisher": "LegisWeb",
+   "clients": [],
+   "clients_unconfirmed": [],
+   "categories": [
+    "reforma_tributaria"
+   ],
+   "tags": [],
+   "sap_modules": [
+    "Localização Brasil"
+   ],
+   "nature": [
+    "Atualização técnica"
+   ],
+   "deadlines": [],
+   "relevance": {
+    "score": 30,
+    "level": "Informativa",
+    "justification": "Pontuação automática 30/100 (fonte 15, recência 15)."
+   },
+   "action_level": "Informativo",
+   "action_ai": "Informativo; sem ação aparente no momento.",
+   "impact_ai": "Possível relação com Localização Brasil. Natureza provável: Atualização técnica. O impacto real depende da versão, do ambiente e do escopo de cada projeto.",
+   "content_kind": "Notícia jornalística",
+   "rt_status": "Análise ou interpretação de terceiros",
+   "confidence": "Média",
+   "analysis_origin": "Análise gerada automaticamente por regras; não é determinação da fonte.",
+   "id": "4c4eeb0abd79fe5d",
+   "canonical_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9nSHNSMjc0T3kzcXk4NUNlVnhETXVjaDZuMnZTanI1c1FleVdKU0ZPMGZfTGpMOEtkWGpidmRCdUdKc1puRHhZYl8tUlZRTnAtVlp3TWwzaVQ?oc=5",
+   "content_hash": "74645c9c0af6",
+   "first_seen": "2026-10-28T15:41:23Z",
+   "last_seen": "2026-10-28T15:41:23Z",
+   "updated_at": null,
+   "also_in": [],
+   "history": []
+  },
+  {
+   "title": "IPLEXMED vence eAwards Portugal 2026 - Silicon Portugal",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80VjF0aTlFYnZxbXlCaExXNG5CQlVEMHU4YmNLVWJKRkNpc3RwLTBxelc0NlJvQ0dabkpQVS11NE1NVEIzaDBiQ0hPRFJBY2IyYU0wcG9FSzUxTk1ObWpVYnNaVHdmcTJHNHJYdHhoNFBnVkJpWU4zMDBDONIBgAFBVV95cUxQYlB0cWxaTFpHa2hNM3lxcWFqZWZXR2h1bGZmM0dLdnZCVWdoVHB2akh3emtORmNJMDFDXzhoa2k1X1JnLXZxN25VRXg0a01Ib19DTlI1bjlHd0pLQURCcmNzTUpydk1NNTdyQXM1cDN0RW92NjVOcVRhaFJ4ZmNQTg?oc=5",
+   "published": "2026-10-27T18:35:49Z",
+   "published_confirmed": true,
+   "source_id": "gnews-sap-mundo",
+   "source_name": "Google Notícias — Mundo SAP",
+   "source_authority": "journalistic",
+   "source_category": "sap",
+   "collected_at": "2026-10-28T15:40:02Z",
+   "publisher": "Silicon Portugal",
+   "clients": [],
+   "clients_unconfirmed": [],
+   "categories": [
+    "sap"
+   ],
+   "tags": [],
+   "sap_modules": [],
+   "nature": [],
+   "deadlines": [],
+   "relevance": {
+    "score": 30,
+    "level": "Informativa",
+    "justification": "Pontuação automática 30/100 (fonte 15, recência 15)."
+   },
+   "action_level": "Informativo",
+   "action_ai": "Informativo; sem ação aparente no momento.",
+   "impact_ai": "Evidências insuficientes para estimar impacto nos projetos.",
+   "content_kind": "Notícia jornalística",
+   "rt_status": null,
+   "confidence": "Média",
+   "analysis_origin": "Análise gerada automaticamente por regras; não é determinação da fonte.",
+   "id": "acd689784d4d3f9f",
+   "canonical_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80VjF0aTlFYnZxbXlCaExXNG5CQlVEMHU4YmNLVWJKRkNpc3RwLTBxelc0NlJvQ0dabkpQVS11NE1NVEIzaDBiQ0hPRFJBY2IyYU0wcG9FSzUxTk1ObWpVYnNaVHdmcTJHNHJYdHhoNFBnVkJpWU4zMDBDONIBgAFBVV95cUxQYlB0cWxaTFpHa2hNM3lxcWFqZWZXR2h1bGZmM0dLdnZCVWdoVHB2akh3emtORmNJMDFDXzhoa2k1X1JnLXZxN25VRXg0a01Ib19DTlI1bjlHd0pLQURCcmNzTUpydk1NNTdyQXM1cDN0RW92NjVOcVRhaFJ4ZmNQTg?oc=5",
+   "content_hash": "a42fde806f10",
+   "first_seen": "2026-10-28T15:41:23Z",
+   "last_seen": "2026-10-28T15:41:23Z",
+   "updated_at": null,
+   "also_in": [],
+   "history": []
+  },
+  {
+   "title": "Jiboia de 1,5 metro se esconde no motor de um carro em MG; entenda por que isso acontece - AutoPapo",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMy1zZkpUWXc4NGdFWGptTXFGZFVwUTdlOHB4T1lwQlhpbDVWSFpNX3ZEUWlRemhDSWtrOW83ak5fTUVsTVZnY3VFQ21ZRXpqZkJ4SWE1Q24zRVcyYkJVSEpUYnRDb1BReXNnc29TTnNIRUt4eld4NTBzTFdZWDlyX1BZVjFOZzdNblJWR0JPemlXMUZYWjlMNkNGb2VwRG1PM3FOSGZGenBaUzAtWnJLMkNYRDMwVHdY?oc=5",
+   "published": "2026-10-27T18:00:00Z",
+   "published_confirmed": true,
+   "source_id": "gnews-clientes",
+   "source_name": "Google Notícias — Carteira de clientes",
+   "source_authority": "journalistic",
+   "source_category": "clientes",
+   "collected_at": "2026-10-28T15:40:55Z",
+   "publisher": "AutoPapo",
+   "client_hint": "METRO",
+   "per_client_source": true,
+   "clients": [],
+   "clients_unconfirmed": [
+    "METRO"
+   ],
+   "categories": [
+    "clientes"
+   ],
+   "tags": [],
+   "sap_modules": [],
+   "nature": [
+    "Análise de especialista"
+   ],
+   "deadlines": [],
+   "relevance": {
+    "score": 30,
+    "level": "Informativa",
+    "justification": "Pontuação automática 30/100 (fonte 15, recência 15)."
+   },
+   "action_level": "Informativo",
+   "action_ai": "Informativo; sem ação aparente no momento.",
+   "impact_ai": "Natureza provável: Análise de especialista. O impacto real depende da versão, do ambiente e do escopo de cada projeto.",
+   "content_kind": "Análise de terceiros",
+   "rt_status": null,
+   "confidence": "Baixa",
+   "analysis_origin": "Análise gerada automaticamente por regras; não é determinação da fonte.",
+   "id": "c49392e664a271d9",
+   "canonical_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMy1zZkpUWXc4NGdFWGptTXFGZFVwUTdlOHB4T1lwQlhpbDVWSFpNX3ZEUWlRemhDSWtrOW83ak5fTUVsTVZnY3VFQ21ZRXpqZkJ4SWE1Q24zRVcyYkJVSEpUYnRDb1BReXNnc29TTnNIRUt4eld4NTBzTFdZWDlyX1BZVjFOZzdNblJWR0JPemlXMUZYWjlMNkNGb2VwRG1PM3FOSGZGenBaUzAtWnJLMkNYRDMwVHdY?oc=5",
+   "content_hash": "e66dbaf7718a",
+   "first_seen": "2026-10-28T15:41:23Z",
+   "last_seen": "2026-10-28T15:41:23Z",
+   "updated_at": null,
+   "also_in": [],
+   "history": []
+  },
+  {
+   "title": "Los Los redesenha portfólio e aposta em parcerias com Arcor, Cimed e Yogoberry - Money Report",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQem1HU2lSeVVXMlQyVjdxbERLVFN4OGZUNjhJbW0tVTBWOHRKZDVpNFV4alNPUzJqWm41X0V0WktwSEh5Rlk0eWlZdTZxNTI5TnJSbXBKcHE5X01OYjZKaEEtaFNIRE1sT21NQjFEdHdvZTBJVVBTMjRVMHZVNV9HTnhZZkdUTUstaEhtckRaVTJMSVIycXJvcmtKa3BhU3luSEZZblNn?oc=5",
+   "published": "2026-10-27T17:17:28Z",
+   "published_confirmed": true,
+   "source_id": "gnews-clientes",
+   "source_name": "Google Notícias — Carteira de clientes",
+   "source_authority": "journalistic",
+   "source_category": "clientes",
+   "collected_at": "2026-10-28T15:40:06Z",
+   "publisher": "Money Report",
+   "client_hint": "CIMED",
+   "per_client_source": true,
+   "clients": [
+    "CIMED"
+   ],
+   "clients_unconfirmed": [],
+   "categories": [
+    "clientes"
+   ],
+   "tags": [],
+   "sap_modules": [],
+   "nature": [],
+   "deadlines": [],
+   "relevance": {
+    "score": 45,
+    "level": "Média",
+    "justification": "Pontuação automática 45/100 (fonte 15, recência 15, cliente 15)."
+   },
+   "action_level": "Apenas acompanhamento",
+   "action_ai": "Acompanhar e considerar no planejamento.",
+   "impact_ai": "Evidências insuficientes para estimar impacto nos projetos.",
+   "content_kind": "Notícia jornalística",
+   "rt_status": null,
+   "confidence": "Média",
+   "analysis_origin": "Análise gerada automaticamente por regras; não é determinação da fonte.",
+   "id": "0f42eff53ff9cc2c",
+   "canonical_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQem1HU2lSeVVXMlQyVjdxbERLVFN4OGZUNjhJbW0tVTBWOHRKZDVpNFV4alNPUzJqWm41X0V0WktwSEh5Rlk0eWlZdTZxNTI5TnJSbXBKcHE5X01OYjZKaEEtaFNIRE1sT21NQjFEdHdvZTBJVVBTMjRVMHZVNV9HTnhZZkdUTUstaEhtckRaVTJMSVIycXJvcmtKa3BhU3luSEZZblNn?oc=5",
+   "content_hash": "a22428469e68",
+   "first_seen": "2026-10-28T15:41:23Z",
+   "last_seen": "2026-10-28T15:41:23Z",
+   "updated_at": null,
+   "also_in": [],
+   "history": []
+  },
+  {
+   "title": "Usina São João abre dez vagas de emprego em Araras - Porto Ferreira Hoje",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM0k3UFV5UWQ2VmJfUHo1SkcyNkhKTGRjaHFUMHNqeTJaLW80TVZpOUtoR0QzOTNUdk1La1ZxRVRfMnhRem1wWkk2dGNkZkxLNHBKZlo2WFBhdE44RTNMWlRQemdqV2EyUHFUZHpKOXVaNzk0amdRQXlWbDRlcDNWdDJMOFpmT1RWZkdOUG14VXVGSlRjdTBCQlRsT1VOd0M2bWs2OVI2c0pIdEU?oc=5",
+   "published": "2026-10-27T16:04:44Z",
+   "published_confirmed": true,
+   "source_id": "gnews-clientes",
+   "source_name": "Google Notícias — Carteira de clientes",
+   "source_authority": "journalistic",
+   "source_category": "clientes",
+   "collected_at": "2026-10-28T15:41:18Z",
+   "publisher": "Porto Ferreira Hoje",
+   "client_hint": "USINA SÃO JOÃO",
+   "per_client_source": true,
+   "clients": [
+    "USINA SÃO JOÃO"
+   ],
+   "clients_unconfirmed": [],
+   "categories": [
+    "clientes"
+   ],
+   "tags": [],
+   "sap_modules": [],
+   "nature": [],
+   "deadlines": [],
+   "relevance": {
+    "score": 45,
+    "level": "Média",
+    "justification": "Pontuação automática 45/100 (fonte 15, recência 15, cliente 15)."
+   },
+   "action_level": "Apenas acompanhamento",
+   "action_ai": "Acompanhar e considerar no planejamento.",
+   "impact_ai": "Evidências insuficientes para estimar impacto nos projetos.",
+   "content_kind": "Notícia jornalística",
+   "rt_status": null,
+   "confidence": "Média",
+   "analysis_origin": "Análise gerada automaticamente por regras; não é determinação da fonte.",
+   "id": "caf9c81334098a61",
+   "canonical_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM0k3UFV5UWQ2VmJfUHo1SkcyNkhKTGRjaHFUMHNqeTJaLW80TVZpOUtoR0QzOTNUdk1La1ZxRVRfMnhRem1wWkk2dGNkZkxLNHBKZlo2WFBhdE44RTNMWlRQemdqV2EyUHFUZHpKOXVaNzk0amdRQXlWbDRlcDNWdDJMOFpmT1RWZkdOUG14VXVGSlRjdTBCQlRsT1VOd0M2bWs2OVI2c0pIdEU?oc=5",
+   "content_hash": "5694b24288fe",
+   "first_seen": "2026-10-28T15:41:23Z",
+   "last_seen": "2026-10-28T15:41:23Z",
+   "updated_at": null,
+   "also_in": [],
+   "history": []
+  },
   {
    "title": "Publicada Nota Técnica 2023.002 v1.02",
    "summary": "",
@@ -43,7 +1832,7 @@
    "canonical_url": "https://www.nfe.fazenda.gov.br/portal/informe.aspx?ehCTG=false&Informe=ADlgg2xjMZI%3D",
    "content_hash": "eda09ee76eb8",
    "first_seen": "2026-10-27T15:38:39Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -89,7 +1878,7 @@
    "canonical_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQa1Baai1Tb0JnZEhmaFhHNExnX1hMTGp6WURXb0doWDBqWk1Fa1E4RWNLSVpKVHBKLTU1YWs1bTdnYWhKY0pDN1d2SjZsa0JPS3NrRXIyVnNLVGhjZnNyS25Sb0lWbGw4a01LOHY0RncxMTVTRE5tTkZpeHZwdzU3aHBqcDdzRmJCaUdzbDhYaGdMekdmUWVrLVUtV1ZOM0VzRU80?oc=5",
    "content_hash": "994489a14723",
    "first_seen": "2026-10-27T15:38:39Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -137,7 +1926,7 @@
    "canonical_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEX2pRdEtSLTRJQ3oxc21tR0tKQkRXYVNuajVYT0JTZEw4RENlUnhJMzRlUWlkbHAyS3pidHU4WkR2bmp5bl8taXU2RVhZT3NBM0E?oc=5",
    "content_hash": "dda809f4e6c2",
    "first_seen": "2026-10-27T15:38:39Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -183,7 +1972,7 @@
    "canonical_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeVJ4MTQ2Y2xEMGJGbmJEcF9zdl9JUWFJcG5oVnQ1OTlPV2RMeFd4TUgwU2I0NWdSUE9ISU8yQWpEZmloS0lodXJ6SlExXzZwQjVKLUJFcFNhSVlDcndvZ0xlelU0dGdranpjS1M4eTZrRGh4VWF3ZEFTdnFaLURjQ09mb0tTT2R5MTY0MlNvWkpvclBZV3RzbDVn?oc=5",
    "content_hash": "d2fbbd4b6b73",
    "first_seen": "2026-10-27T15:38:39Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -273,7 +2062,7 @@
    "canonical_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOTFmX2llbU83VU9uNjR1TDdVXzNoSnlNZm1rbFNjSlA5MDB3UVo4ZEt4aGIwX1FSN1hKN1FXdEFObC1mcDMzT3hoeW1tdnBxaE1BNkM1NFFFbl9YeUpZZlA5TXJsVUpwdklPMkl5SHhuQVNueC1XdEZNUnQ4SHptM0ktSWNqNVFkSjAtS2JyZmZkOGNHSFVqai1MNG5aVmNrTlQ1dk50NzdSM2FOSUVaSnRrWEdNMUlEWU5vZ001TDVjelRFWDloakUwMk9zNVNUX1hUeHNlc0E?oc=5",
    "content_hash": "1f63930cb28f",
    "first_seen": "2026-10-27T15:38:39Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -325,6 +2114,96 @@
    "history": []
   },
   {
+   "title": "Reforma Tributária 2027: atraso na adaptação amplia riscos operacionais - Contadores.cnt.br",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQlAwRGRGQnVLWmljTDJ2c1lsZzZCUG1DQXp1NW1pTXYzYnhDWjF6bjFGc3V0UlhfWmJwM2UxTWZIczlNQ3FUUFU4a3ZRdERhU3RLdXdEZUtTMk1lWURHdnJPRXZ4bUZFVVVJdWhJQnVNcm1FUEg4bTQ4N1VsOXVsQndNRnhTanV6ZXhxY2tjNkdpVGNJSWtxWlE0NkI1Z2NyQWVFcXNtbEc3ZDMwS0hpdUV6YXpDa3N0dy1sVkEzRG1aQ1RTOERvcUEwRHBmSHM?oc=5",
+   "published": "2026-10-27T12:46:00Z",
+   "published_confirmed": true,
+   "source_id": "gnews-sap-reforma",
+   "source_name": "Google Notícias — SAP e Reforma Tributária",
+   "source_authority": "journalistic",
+   "source_category": "reforma_tributaria",
+   "collected_at": "2026-10-28T15:40:00Z",
+   "publisher": "Contadores.cnt.br",
+   "clients": [],
+   "clients_unconfirmed": [],
+   "categories": [
+    "reforma_tributaria"
+   ],
+   "tags": [
+    "reforma tributária"
+   ],
+   "sap_modules": [],
+   "nature": [
+    "Risco ou limitação"
+   ],
+   "deadlines": [],
+   "relevance": {
+    "score": 35,
+    "level": "Informativa",
+    "justification": "Pontuação automática 35/100 (fonte 15, recência 15, tema 5)."
+   },
+   "action_level": "Informativo",
+   "action_ai": "Informativo; sem ação aparente no momento.",
+   "impact_ai": "Natureza provável: Risco ou limitação. O impacto real depende da versão, do ambiente e do escopo de cada projeto.",
+   "content_kind": "Notícia jornalística",
+   "rt_status": "Análise ou interpretação de terceiros",
+   "confidence": "Média",
+   "analysis_origin": "Análise gerada automaticamente por regras; não é determinação da fonte.",
+   "id": "ce247991013a6d03",
+   "canonical_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQlAwRGRGQnVLWmljTDJ2c1lsZzZCUG1DQXp1NW1pTXYzYnhDWjF6bjFGc3V0UlhfWmJwM2UxTWZIczlNQ3FUUFU4a3ZRdERhU3RLdXdEZUtTMk1lWURHdnJPRXZ4bUZFVVVJdWhJQnVNcm1FUEg4bTQ4N1VsOXVsQndNRnhTanV6ZXhxY2tjNkdpVGNJSWtxWlE0NkI1Z2NyQWVFcXNtbEc3ZDMwS0hpdUV6YXpDa3N0dy1sVkEzRG1aQ1RTOERvcUEwRHBmSHM?oc=5",
+   "content_hash": "c64a5414ba5b",
+   "first_seen": "2026-10-28T15:41:23Z",
+   "last_seen": "2026-10-28T15:41:23Z",
+   "updated_at": null,
+   "also_in": [],
+   "history": []
+  },
+  {
+   "title": "Split payment exige integração entre notas fiscais e pagamentos - Contadores.cnt.br",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbWhBeGg4TFk3eDFOcE5QN3kwVkJFS2t4TEpsUnhUSkRmU0VEZlNWSlI3MGJBSVVGeWdDby1LR0JmZ0ZNdi0xT3l3RDF4RFZwTlhDbThqcGlOYkxGZVI5bWladTZXbWtwXy16TTc1SzhvenhEcjlnZU1rN0czRlo3blFyWHVRdEZMT2taeVp0TVZfdjJCMWZIMzlsNnlXUFJRUi1Kdkh2YXFZWWsxWjJweVllM3Q2VVoyNFVmTTJwcmo5X3I3WXc?oc=5",
+   "published": "2026-10-27T12:41:00Z",
+   "published_confirmed": true,
+   "source_id": "gnews-sap-reforma",
+   "source_name": "Google Notícias — SAP e Reforma Tributária",
+   "source_authority": "journalistic",
+   "source_category": "reforma_tributaria",
+   "collected_at": "2026-10-28T15:39:59Z",
+   "publisher": "Contadores.cnt.br",
+   "clients": [],
+   "clients_unconfirmed": [],
+   "categories": [
+    "reforma_tributaria"
+   ],
+   "tags": [
+    "split payment"
+   ],
+   "sap_modules": [],
+   "nature": [],
+   "deadlines": [],
+   "relevance": {
+    "score": 35,
+    "level": "Informativa",
+    "justification": "Pontuação automática 35/100 (fonte 15, recência 15, tema 5)."
+   },
+   "action_level": "Informativo",
+   "action_ai": "Informativo; sem ação aparente no momento.",
+   "impact_ai": "Evidências insuficientes para estimar impacto nos projetos.",
+   "content_kind": "Notícia jornalística",
+   "rt_status": "Análise ou interpretação de terceiros",
+   "confidence": "Média",
+   "analysis_origin": "Análise gerada automaticamente por regras; não é determinação da fonte.",
+   "id": "b3ba5532420bb031",
+   "canonical_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbWhBeGg4TFk3eDFOcE5QN3kwVkJFS2t4TEpsUnhUSkRmU0VEZlNWSlI3MGJBSVVGeWdDby1LR0JmZ0ZNdi0xT3l3RDF4RFZwTlhDbThqcGlOYkxGZVI5bWladTZXbWtwXy16TTc1SzhvenhEcjlnZU1rN0czRlo3blFyWHVRdEZMT2taeVp0TVZfdjJCMWZIMzlsNnlXUFJRUi1Kdkh2YXFZWWsxWjJweVllM3Q2VVoyNFVmTTJwcmo5X3I3WXc?oc=5",
+   "content_hash": "1239cdeda09d",
+   "first_seen": "2026-10-28T15:41:23Z",
+   "last_seen": "2026-10-28T15:41:23Z",
+   "updated_at": null,
+   "also_in": [],
+   "history": []
+  },
+  {
    "title": "Nível do Rio Piracicaba tem redução de quase um metro após transbordar - G1",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOM21aM1duWmZJeW81TE5IVE9KenpBRmtBaXVzMDZDdTJ2TWFBaTcyUjVHSXBULXloOGVJV1BtZGhBQ1AzRmhvLUJORmdFSk5DUGZNZFdCNUtGTmhoM3JETnFobERsT3NJenZ2MzBINVJDR05YWUZWTXdfUzlaZkdSekQxNGZNVFNETXdNOE5VSXpIdnlGaVBNcEtNQ0N1SUNQREVlbjRDamdlTnRfWG9INlVCdkxtenpoMGl3RWF1anFIZXNfY09WYTJZbk1HSGkyZWdvTm0xenJyNkZnRTlkNlNGa3BUdmg1dkR1UGdEMHI4R0F2bTVvUkVxOEt3T1Zzek85TDgzQWJ0OXdDcFlHZExtbTPSAZQCQVVfeXFMTjNtWjNXblpmSXlvNUxOSFRPSnp6QUZrQWl1czA2Q3Uydk1hQWk3MlI1R0lwVC15aDhlSVdQbWRoQUNQM0Zoby1CTkZnRUpOQ1BmTWRXQjVLRk5oaDNyRE5xaGxEbE9zSXp2djMwSDVSQ0dOWFlGVk13X1M5WmZHUnpEMTRmTVRTRE13TThOVUl6SHZ5RmlQTXBLTUNDdUlDUERFZW40Q2pnZU50X1hvSDZVQnZMbXp6aDBpd0VhdWpxSGVzX2NPVmEyWW5NR0hpMmVnb05tMXpycjZGZ0U5ZDZTRmtwVHZoNXZEdVBnRDByOEdBdm01b1JFcThLd09Wc3pPOUw4M0FidDl3Q3BZR2RMbW0z?oc=5",
@@ -365,7 +2244,7 @@
    "canonical_url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOM21aM1duWmZJeW81TE5IVE9KenpBRmtBaXVzMDZDdTJ2TWFBaTcyUjVHSXBULXloOGVJV1BtZGhBQ1AzRmhvLUJORmdFSk5DUGZNZFdCNUtGTmhoM3JETnFobERsT3NJenZ2MzBINVJDR05YWUZWTXdfUzlaZkdSekQxNGZNVFNETXdNOE5VSXpIdnlGaVBNcEtNQ0N1SUNQREVlbjRDamdlTnRfWG9INlVCdkxtenpoMGl3RWF1anFIZXNfY09WYTJZbk1HSGkyZWdvTm0xenJyNkZnRTlkNlNGa3BUdmg1dkR1UGdEMHI4R0F2bTVvUkVxOEt3T1Zzek85TDgzQWJ0OXdDcFlHZExtbTPSAZQCQVVfeXFMTjNtWjNXblpmSXlvNUxOSFRPSnp6QUZrQWl1czA2Q3Uydk1hQWk3MlI1R0lwVC15aDhlSVdQbWRoQUNQM0Zoby1CTkZnRUpOQ1BmTWRXQjVLRk5oaDNyRE5xaGxEbE9zSXp2djMwSDVSQ0dOWFlGVk13X1M5WmZHUnpEMTRmTVRTRE13TThOVUl6SHZ5RmlQTXBLTUNDdUlDUERFZW40Q2pnZU50X1hvSDZVQnZMbXp6aDBpd0VhdWpxSGVzX2NPVmEyWW5NR0hpMmVnb05tMXpycjZGZ0U5ZDZTRmtwVHZoNXZEdVBnRDByOEdBdm01b1JFcThLd09Wc3pPOUw4M0FidDl3Q3BZR2RMbW0z?oc=5",
    "content_hash": "f9a59f3f8de1",
    "first_seen": "2026-10-27T15:38:39Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -506,7 +2385,7 @@
    "canonical_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOYkF0RnJlelo0ajNkdVQxa0JwZzYtQ0s5V3VCWUQ0TEhzWVcyOFNvX1dvNEw4MHVDSk1TQXdsb3VWNkdZcU1idE9DTTFqaWRFRkZ5dlkxV1NCUnlHelA3bnhTMmNOM2N3RUcyS2x6aXZoR0x0U3k2bUlfNHlVUHFSekZWYV8zTXlVRUswUWxLQlB5MnIxbzdxSmZmMnZ4MlZRMU1LX0VDZEVjWlAtZjR3R2xjZnNrRDNOQkI1MGt2RTM2WVZwdm45UEN3d050MG9PbDRnMGtJSXZWdFBMX3Vtc25sd0xpcnpSLUE?oc=5",
    "content_hash": "d872c652e95b",
    "first_seen": "2026-10-27T15:38:39Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -552,7 +2431,7 @@
    "canonical_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMHRCZi1lUkt1ZElEeGs0R2dyU3pfSnZNazZ5RTUyLW9aZFFCbzBEOGxOSjJxRl9jYlFxVHpfWkNtX012UzYyb3FKOWtXWWtXMHlFTlZTb1d3ZlZCQWNZazVwQ1NXUjFpLUx1NXc0dmNmd2R1VVN5YlhEMUN2VlJMRjFFSlhwS2kxSHRmNWpfaG5wbnA2T2NiejR4Y09ubWJWUDdrdTlqSzV3cHRPeXB2M0N3?oc=5",
    "content_hash": "539dc36b853a",
    "first_seen": "2026-10-27T15:38:39Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -646,7 +2525,7 @@
    "canonical_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeGJRS2dPNHRuNmhWeV9nc0FRTURQbUFwLWtDaU9LM1AwVkJZTV9XV1c0SjlieFo4Z3FIMnNPMzBVRzFValA4UGQyYzc1LVpGRWlaUjBZN3NvSXRwTmFJZDZ0MmtkLW9CSXZGT3Y2aVg2Y2syT2tsT2VNd1RrRWdiRHpEVUk3Uzh5enNoSVNPVnVJeWpjVGFtNUpTd3RjZ1hMZTFVd2IzeS1nNWEtdGZzNWM3UmI?oc=5",
    "content_hash": "974aa672324f",
    "first_seen": "2026-10-27T15:38:39Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -692,7 +2571,53 @@
    "canonical_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdF9IZDdMN2IzTUx6N09YQjRrYmxwdEZDVGdTTGNMU1prblhnaUpPSFZndVdlQnV3MWFmaFRMYWNXREdiUTlscXBPd1VQVDF5dmEzN2d6VVFGYmE4TGdNSFRKY0JCdHhhd05BQVBjWkJJQjFPWUpNVE9vX3g0OExQUHNRRGFVTVVhamdoOU85SzZMdnpzY0JrQ20wOGRKN09uRWZOaTdlZTB5Wm5vd09EbENLWnQ?oc=5",
    "content_hash": "df8fc3cc7c06",
    "first_seen": "2026-10-27T15:38:39Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
+   "updated_at": null,
+   "also_in": [],
+   "history": []
+  },
+  {
+   "title": "Relato - Johor Darul Ta'zim FC : Port FC - Transfermarkt",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xdmRRT0pMWURJOWJBbFQxZ3RjY2ZDby1HNzl3N0ZnUEc1UENNVkxKQ0VucHhhdkpzYTZEWEFnR0Q1X0tjRUEzdjJuYVpPUTg5WVVlT0xyVW03S3lSMFlNTzgzUGVrZUk2WkE?oc=5",
+   "published": "2026-10-27T08:58:46Z",
+   "published_confirmed": true,
+   "source_id": "gnews-clientes",
+   "source_name": "Google Notícias — Carteira de clientes",
+   "source_authority": "journalistic",
+   "source_category": "clientes",
+   "collected_at": "2026-10-28T15:40:39Z",
+   "publisher": "Transfermarkt",
+   "client_hint": "ZIM",
+   "per_client_source": true,
+   "clients": [],
+   "clients_unconfirmed": [
+    "ZIM"
+   ],
+   "categories": [
+    "clientes"
+   ],
+   "tags": [],
+   "sap_modules": [],
+   "nature": [],
+   "deadlines": [],
+   "relevance": {
+    "score": 30,
+    "level": "Informativa",
+    "justification": "Pontuação automática 30/100 (fonte 15, recência 15)."
+   },
+   "action_level": "Informativo",
+   "action_ai": "Informativo; sem ação aparente no momento.",
+   "impact_ai": "Evidências insuficientes para estimar impacto nos projetos.",
+   "content_kind": "Notícia jornalística",
+   "rt_status": null,
+   "confidence": "Baixa",
+   "analysis_origin": "Análise gerada automaticamente por regras; não é determinação da fonte.",
+   "id": "73f164f00cea9cc3",
+   "canonical_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xdmRRT0pMWURJOWJBbFQxZ3RjY2ZDby1HNzl3N0ZnUEc1UENNVkxKQ0VucHhhdkpzYTZEWEFnR0Q1X0tjRUEzdjJuYVpPUTg5WVVlT0xyVW03S3lSMFlNTzgzUGVrZUk2WkE?oc=5",
+   "content_hash": "85fdf7efd6be",
+   "first_seen": "2026-10-28T15:41:23Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -738,7 +2663,7 @@
    "canonical_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV19CUkJRNW5MM01zN01kZ3Y3YXlSek1MWjF6N1kyYWhRbVZPU3BsbkF1V3FhS3RjelVlYUxsZlYtZjctMFM4dE5IaVQxVmxBM3RfbXR3OUtKRnlRUUpza1RISXVUdzE2V0sxZWVHQmtWZkY1QWU3bDNIQ3VnaURndGFTX3VXd0VYRHhUeVo1Z1JYdmVIcWhISlVfNXNsTDNJMHRGaE5CZw?oc=5",
    "content_hash": "44b525574c2c",
    "first_seen": "2026-10-27T15:38:39Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -782,7 +2707,7 @@
    "canonical_url": "https://news.sap.com/2026/10/sap-teched-ai-developers-build-what-matters-autonomous-execution",
    "content_hash": "fffd507f21cd",
    "first_seen": "2026-10-27T15:38:39Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -824,7 +2749,7 @@
    "canonical_url": "https://www.sap.com/topics/events/teched/innovation-news-guide-2026",
    "content_hash": "bbbf970258ad",
    "first_seen": "2026-10-27T15:38:39Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -868,7 +2793,7 @@
    "canonical_url": "https://news.sap.com/2026/10/sap-hpe-orbit-to-enterprise-next-tabular-ai-frontier",
    "content_hash": "c45a4e0fbbfc",
    "first_seen": "2026-10-27T15:38:39Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -912,7 +2837,7 @@
    "canonical_url": "https://news.sap.com/2026/10/sap-unveils-physical-ai-extends-autonomous-enterprise-real-world-sap-teched",
    "content_hash": "edd284f667fd",
    "first_seen": "2026-10-27T15:38:39Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -958,7 +2883,7 @@
    "canonical_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcVhhYVZHaVdIOUowamxwbnVfYzUtcjM3YUJvTS1SS2ZqU0xPTE9kMVh4QW5qU2xSZ3o0aFc4a0E4V0c1LUdpQ0IyNTN6NU9QTWh4X19TVGhWTlgxNmthSVVnaHJ2WTV3Y0VCd2FBal8yZGZvS3h4SzdkM0lqSjFvVjY5OHRaNXpmTTdjWG5yLVZTRlJrZnY4WGhGV3JETkpGMkpGMzVNTUxST3ZreGI4dnBkb0Z4R29ZYTAxWmh3bkY4UjA?oc=5",
    "content_hash": "69976f8b5c50",
    "first_seen": "2026-10-27T15:38:39Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -1004,7 +2929,7 @@
    "canonical_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZy1qc1RHQ2VNWkp6YWlJdnZvb21UX1phejBZZmRFOG1GeTJyMWxVTlZFWDVFRVpBdldfOUkwTDluNjBCVWs0Um9KMnc0S0c2U01aNmpFUjJxejV3MjhyMW8tVzZBNFYzT3ZSb1kzNkxSYzlLcDNPYWF2SEUwQWVzNVVTZjl0QnVsdmh5dzljVkxhMEZKZDhPTUVSaC0td1d0aVI3RjFwdnU1eTlfTDA0cWZSc2hieVE0UHZ1Zk9zN1RuNW4yRkJrOUIwYzVUbWxr?oc=5",
    "content_hash": "2170b5d59caf",
    "first_seen": "2026-10-27T15:38:39Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -1046,7 +2971,7 @@
    "canonical_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaXM3ZU1JalJfU0V5d0FWelBBRU9xTlpTRmx0TlZSaFRycTNCZm43eVNaY2NUaXJXay1VVGVoUkJGVDB5dlQtN011WjU4czJkY0pfVkcyb2Q3cnBNcGVSeXJnM3JxSWFjdlozN01IRFdXSTE4MzlxTVlZcTdmRC1OSFlQN3U0bnp2T3RiT3ZSM1lGQ1dTNWZBM2N5TlI3aWlPWlczTFdZR0hiTE8tam1GY3JOMVk?oc=5",
    "content_hash": "b0e6213f68d2",
    "first_seen": "2026-10-27T15:38:39Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -1138,7 +3063,7 @@
    "canonical_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSnZMbGdsNUphNWFLWWNYZnlwT1hybFBWeW9qZWx1el9QeTQ5SFQ5aXJZNFFBLVRzSDhxdGtTUWNlQ0dkNUptQndOQVkzZlZGaWUxZVFkQmVPSjJBM0tGOVBVX3VaWUJUY2JYTE9kUExWUENpRjI1V3VvMVdBaHhiX0tIWTc0RUdJZUFIb21ZNHhtMXJaVFFVYXJMcjlyM2EtSDRlTDk3QkI2VTJRWVdJOTV1ZDg2aE0?oc=5",
    "content_hash": "30c1ab92018f",
    "first_seen": "2026-10-27T15:38:39Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -1182,7 +3107,7 @@
    "canonical_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ3RmRzZmUzgtTnBFdktUSkw1R1JTZ2tiaS1GblFKRkxCQ01PZUhfVmhETXNCZkgyRmdaSHZ4d2daYjRJdkJIQ2lQdjRybHBwVmlGYXpEdXBnNTEzdk5LQkpFUDBoSWFaTDBjVGtPNDFkWi1TRmFUQjh4Q0paVHJlQw?oc=5",
    "content_hash": "0a543e587193",
    "first_seen": "2026-10-27T15:38:39Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -1228,7 +3153,7 @@
    "canonical_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRjBxdzBxWENNc1dWNnV3ZGwxVWNQMkJuei1ld2tUeFR4M1ByT2MyZ1ktRHNqbUhZY0Ewb1RONEFJYUNDLUJZd0tkNGR6UUNwR1dxcUcxcnI2NUgxbHJlSEhNLXFLM01VR3pjR01mRkEyQ2xaNy0yUmM1UW1vOTdyWEw1d082c1BEaDdIRNIBjAFBVV95cUxPRjBxdzBxWENNc1dWNnV3ZGwxVWNQMkJuei1ld2tUeFR4M1ByT2MyZ1ktRHNqbUhZY0Ewb1RONEFJYUNDLUJZd0tkNGR6UUNwR1dxcUcxcnI2NUgxbHJlSEhNLXFLM01VR3pjR01mRkEyQ2xaNy0yUmM1UW1vOTdyWEw1d082c1BEaDdIRA?oc=5",
    "content_hash": "374ae7ca999a",
    "first_seen": "2026-10-27T15:38:39Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -1274,7 +3199,7 @@
    "canonical_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUjUwLXVTbmRRSl9tWWx2OTBwZWN3V0pjTzVRMUJVYlJoQkRPaGxMZmxyUEtSZ2U4aVFRWTN0QTVhUTJhczEwT2hGcHRMVm53aVdOUkx4MDVRRVY3d3NpNV9qRDZUS21JamEzTFd5SE9qdHhMZExPaFRUbXJkN1B3X3hQSThBY2lnN1JrbFVQSjAtTnVBS0o4VlRmVUhKU1kzelJGRzZhUTIzbmI2bUo3U21GLWRxNGJFOXBFbUZwMnVUczhNcTcxUkJfMGtLcldZWERLY0FaeldYRUN0SDRERmd5X2E?oc=5",
    "content_hash": "dc5d1b46cbc1",
    "first_seen": "2026-10-27T15:38:39Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -1317,7 +3242,7 @@
    "canonical_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNEZjNTIxR2JWalM1VDN3TlNEQ2NpMUszc2FPNjVxcXFNNkF2VWpWUGtFT1dNZTNPNFNRb0RQQ29POEVOWGtvRHByaUJydWYyaTBYcjBhbDNSUDAwQmtsMldQV19CQk9VT0huWXUyMTBfcGFzaGZSSXBHNUZlT1FUTGRYSWpxbHlxOUNJR1FMMVRydWdreGJ4azllSG43b2RObEdjSVdNaHlNRTNsMWdLeTc0cG1ySENBVTNRRVhpUkNJUWxEakxLVGN1ZDfSAdIBQVVfeXFMTnVsc2xZRXZhTjhmbjYxQmxYYkhzUDdhWUpZU1RiUUh6YkJHbk9yaWtsMHhzanBZRExUYl9sU2hUS3lfd2pyc1M1dGhsYWMwX05GQWRyWW9sUmxmd01ySVlZUzdOcXhaTVFIS1hvYmc5cWdoNmtIYXoxNnFJSVhSV0JhVE9tTlBNVDg0N1pkemJ6c0FrM09haUd6N0xjeV9Cd2FIMjBRR2U3SG11cXJyX3d5UkhGWmsyV1JEc2NfOHBTZHRtMjNQUFM3RW5obXVuZk1B?oc=5",
    "content_hash": "1469dfd75691",
    "first_seen": "2026-10-27T15:38:39Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -1361,7 +3286,7 @@
    "canonical_url": "https://news.sap.com/2026/10/ai-release-highlights-q3-2026",
    "content_hash": "eab7bf049eeb",
    "first_seen": "2026-10-27T15:38:39Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -1450,7 +3375,7 @@
    "canonical_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVmFMb09WNFBtazZacWVwdGxsVUJuYlljWi1HMHhJWkZsTWh4WUhrY3ZXZU5nQzhkZ3dpcGFxU0xHWERWdFB0N2tmNXdTaGZrZ2VMUXZMaFZEd1pRYTNoWFppX1ZZQTE2cG1fcE0zU1ZMWjJpT1h1dVdOT21ZVWZ0Z1BLd2x5ZWttcHVWamNmemFGeTEyeG9oLWZveGR2c0J4YUFwcFVMdk5lcmx1dUZrdXh4bC1xVlFYWmVNUU9PeFN5U2o3MF85SFVGMEI?oc=5",
    "content_hash": "380e665aaa5d",
    "first_seen": "2026-10-27T15:38:39Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -1496,9 +3421,14 @@
    "canonical_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORzlCYWFETDRuaXl3WUYyeXh3RDYtYzQtckMtSS1MQ0FqMEhuSUxZVmY1c1FGNG5BUm9IcExWV0VEblU3anpaLVFuZDFhOS1OWGdYa3ZwWU85SURzcFFjaE5YZGRBTUV3azVQVVFsU2xzdy1ZWWZFalhmYTNkTUR3MEZiZzlYdTl2V2hxRjR6M3R0RV9NMjNIWTV3VGZ3ZTFEd09ZanpaY2hlQmU2TzhQdnpPZw?oc=5",
    "content_hash": "bcc33e79e5b1",
    "first_seen": "2026-10-27T15:38:39Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
-   "also_in": [],
+   "also_in": [
+    {
+     "source_name": "Google Notícias — Carteira de clientes",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVEhCSi1mWnpRVWdrbjUwNEpobUNiSUExeXctNTNSWlVlYWtzSlBwdVZjdFBWTGc3TGF3RGZlX2x6MHdXNGJVQndZaldlVGNsbG1nRWJZaDVuQnpBbnFBelc0SmpmQlhYU0xiTlY5LWtHdFIxZ1U5V2tzV3Y0S19DcWtXMEV1cmtHcE9ISmpUeG1reF9iS1JZb3pTVXI4SmhIVnd4U2FaWDVIZw?oc=5"
+    }
+   ],
    "history": []
   },
   {
@@ -1542,7 +3472,7 @@
    "canonical_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU1Z5YkxxTy1xUHRSSk1mMkxFRDg0MWtEcjhYOU44NFFQZEp0NmJYX3VoSmlWVWpNbk9SU3ZoNGpiN3c2WHBEN0xDODhkRmNERGhRSkNZemV6djRiajU3WUVPX1NHRFpZZkFaTGlIejN2ZnVUTVZhcjZtekVWajZIQlhiMEFYbTItYi1rNm1yUEpfLVYwVG4xTHJ1MWRJZ1VYcl9Tc1hwX29mMEotUE9BdHdMUWRFVl8xY1E?oc=5",
    "content_hash": "3917cd95414f",
    "first_seen": "2026-10-27T15:38:39Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -1590,7 +3520,7 @@
    "canonical_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOclpMd3VsZ0lVUTRSTkN2czNBUFZyV0FLRHY0V25QYU1UaHBRNGNBdVVmWlFpZ19HYnlBYkxBMVlRc0p6dWFBbGhQRWRiOGMyYnhWNG9hYVdhMS1HQXJLbUR6MzZRcjFJckFqelMxT3lpbnpDRkN1a2h1a1J0ZDIwNmg4cnkyNVZWVE04WG1rcjZRcGY0LUJYX1FGNHZkMVpCRHVpRG96UWRUNU12RFg2WFlEaXlNNGJQOWhHYlB0S2Y?oc=5",
    "content_hash": "95b638b008b4",
    "first_seen": "2026-10-27T15:38:39Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -1729,6 +3659,48 @@
    "content_hash": "819f5161b4d8",
    "first_seen": "2026-10-27T15:38:39Z",
    "last_seen": "2026-10-27T15:38:39Z",
+   "updated_at": null,
+   "also_in": [],
+   "history": []
+  },
+  {
+   "title": "CPF de dependente no eSocial: onde corrigir erros antes de novembro - Portal Contabeis",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOV0VtdHFzM1cyUWFFZUt6V3k2cDRvdTBJVmx4TlFXM082UTRKWVBjeXlZMFhFOTR2bGhIR1U3WGxqSjdRNnRzdWdWWXBidWxESDY4SzVJaWdJSHJKQzZzRUcxaUJnTGh5c3owd0M0dkVfYV81MkVraGdEeTBPNmVfcF9fZUFnWUNRTGRQaHIxXzBHZnlaMnYyYlpqT3BidEFNRGJNNzRwRm03ZTZmTGNhRw?oc=5",
+   "published": "2026-10-26T18:15:02Z",
+   "published_confirmed": true,
+   "source_id": "gnews-sap-reforma",
+   "source_name": "Google Notícias — SAP e Reforma Tributária",
+   "source_authority": "journalistic",
+   "source_category": "reforma_tributaria",
+   "collected_at": "2026-10-28T15:39:59Z",
+   "publisher": "Portal Contabeis",
+   "clients": [],
+   "clients_unconfirmed": [],
+   "categories": [
+    "reforma_tributaria"
+   ],
+   "tags": [],
+   "sap_modules": [],
+   "nature": [],
+   "deadlines": [],
+   "relevance": {
+    "score": 30,
+    "level": "Informativa",
+    "justification": "Pontuação automática 30/100 (fonte 15, recência 15)."
+   },
+   "action_level": "Informativo",
+   "action_ai": "Informativo; sem ação aparente no momento.",
+   "impact_ai": "Evidências insuficientes para estimar impacto nos projetos.",
+   "content_kind": "Notícia jornalística",
+   "rt_status": "Análise ou interpretação de terceiros",
+   "confidence": "Média",
+   "analysis_origin": "Análise gerada automaticamente por regras; não é determinação da fonte.",
+   "id": "89e9fb056068b04e",
+   "canonical_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOV0VtdHFzM1cyUWFFZUt6V3k2cDRvdTBJVmx4TlFXM082UTRKWVBjeXlZMFhFOTR2bGhIR1U3WGxqSjdRNnRzdWdWWXBidWxESDY4SzVJaWdJSHJKQzZzRUcxaUJnTGh5c3owd0M0dkVfYV81MkVraGdEeTBPNmVfcF9fZUFnWUNRTGRQaHIxXzBHZnlaMnYyYlpqT3BidEFNRGJNNzRwRm03ZTZmTGNhRw?oc=5",
+   "content_hash": "08fc6f0e46e8",
+   "first_seen": "2026-10-28T15:41:23Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -1912,9 +3884,14 @@
    "canonical_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSZzNGRG9udm52TnRNOVRuazNxczRCS1ZVWExobXl3dXlMQnZ6NXoyaFN1dnd6eWJtSmJFMU5qZnlyREk2emhSNnlXOWJfQnZrUUxWakFGekFTWWpiT1ZjdDhMaS1ZWExPUXc?oc=5",
    "content_hash": "91c99fb95dd3",
    "first_seen": "2026-10-27T15:38:39Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
-   "also_in": [],
+   "also_in": [
+    {
+     "source_name": "Google Notícias — Carteira de clientes",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRW95OFZZQmJ6UGFhbFBvdG5tSWJ4S2Ixelc1NUFiUmtYb2lHZnY3bnBxV0VnNUNaMzBCMWdiMjRrdXFrLVcxa01ydk04RDBXbG1PLUNrY2V1czJhVEtZZGZ1S0NYbWY2T2Vncmsxd05iNGxfamVMN0FBbjVvdFM3bjFGZ1gzRmV4MEZv?oc=5"
+    }
+   ],
    "history": []
   },
   {
@@ -1956,7 +3933,7 @@
    "canonical_url": "https://www.gov.br/fazenda/pt-br/acesso-a-informacao/acoes-e-programas/regulamentacao-de-medidas-do-plano-brasil-soberano",
    "content_hash": "57133a528d2a",
    "first_seen": "2026-10-26T15:58:17Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -2000,7 +3977,7 @@
    "canonical_url": "https://www.gov.br/fazenda/pt-br/acesso-a-informacao/acoes-e-programas/reforma-tributaria/estudos",
    "content_hash": "85084cc0e60f",
    "first_seen": "2026-10-26T15:58:17Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -2092,7 +4069,7 @@
    "canonical_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRktHTWxCNTk1d3E0QlRlR2NZeE5GUkpYSGhXRm5tTnpXYmtTam9DeS1IV0dDWDlUdWFKWC13bzFBbmJFVEQ0N3VMbk9wRGpBQWh5UGdnNzhMUXpqS2hyM3lzQ0RrNFNJaGQ1anZCN0hURU5vZUZhSFJqZURrcmpYNzM2ZWRkWTVKeENPSG1nV1FycXNXMS1tLU5NNTdVaW9QZG40dFdyVmxodVFsUktIcVZaVjRmUEJYVG9XcU94NGs1ZEVIVnhoeFpkTGtzdnFNcEJpN3hkdVpvd2c?oc=5",
    "content_hash": "d192bf5ec901",
    "first_seen": "2026-10-27T15:38:39Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -2184,7 +4161,7 @@
    "canonical_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUzlfcjNscjlnNUxNYWZob0c1d2tHRHV6blVRZm9tWlk0QkJSQm9tMWhtUnlqNFFhSmRyYkx1TVJ1ZTNWRmYyUGxrNnlaRVplaUo2cHVfOXZhSkV2WkczZU56VmdERjQ2MUpiWEdzRlhIMUFCMHZOTU1aMmM2THRXb1NVY2E4THBfSDE5ZTdSdG5RYkEzSTl4dVk4ZE9mYndVbWx3dVdUOXJVMlFNWmU4bzhB?oc=5",
    "content_hash": "6f7e8229c290",
    "first_seen": "2026-10-27T15:38:39Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -2414,7 +4391,7 @@
    "canonical_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONUU2LXRQRVdFYm00UzJBbXpIUDMwX04zTENvODgydHl0NHpXWDRsbXU3dlhnUkotVXZpSlEtTHJMUENvSVdNOFNjZVR3Zkhwc0xCOW5WLS1WSlBXWEE1VVZYSGNGejVBZ3NxbWJhdmU5NEszWDJHYXVhNnRDVUhyS2RHaUJ1bXN4SUc4ZW05aElTZGpuNjU2bFloUEx3ZkpSc05DdEE2d2VVZFhwVlBESXBsTjZ4dw?oc=5",
    "content_hash": "248ba1c2f64d",
    "first_seen": "2026-10-26T15:58:17Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -2460,7 +4437,7 @@
    "canonical_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUmI2M2g4b1lxRTdmT3F4YVFsYmE4clN5MGhQVGF3Tk5hcWRzOUpDTXMzOExPZ1VVU3E5eFRldTBqc3ZDcWhUTmp0RHF3NXM4UzJkLXFLSUZzdkdHYU9UT293TTIxWUJhR0txYlRsdTlYakN6emFPQnBGY0J4WjU1RVE2OXZlZWxJMDV0enl4TnZmTVJLYjVuaHNzdmQ0amdGa3NQT3pzSGtYQUtYQWl1ZzJR0gG3AUFVX3lxTFBneEtUYkdTUUdQY3NKVnE0bXdOdHRReloydEc1ZlVEc2MzX1JCQkVNdF9Za1ljZFljdjZDbm9xYmtPa25QMm5RVXJrbmVzemJnU3FZeFJ0aGVXNTZlQWVxZjdoUTNzemVwQXNPVTVEZFJCc25pMzFNUkNQazBPWUZEN0djRWdYcEVuVEc5Z0s4RDZfVlJLc01vbW8yU2JaTjRmOFNSQW9CTm9vRnpfVHU3TktzVGNHbw?oc=5",
    "content_hash": "31b150943d67",
    "first_seen": "2026-10-27T15:38:39Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -2511,7 +4488,7 @@
    "canonical_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOWtoWTkwR01ieGdVbFlVY3JWM2lkUWY5WV95X3BmenpkVmhOM0w4UW5FVWZxSjZFYlVUZl9BdFdScTVocmpKWEY3WFJBc3VxVTdxd3VGVFduOW1PZUpnU1JjV1BENnVqeVVGcmF3X3VqeHZBZm96a2NKSWVwci1paTZoR0lDYlFw?oc=5",
    "content_hash": "27a1ea37b156",
    "first_seen": "2026-10-26T15:58:17Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -2557,7 +4534,7 @@
    "canonical_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVDc0UEZHRVgzb2RLVXBfSGFxTHd1VV9ZSURiU2VZVmc3ZVI3V3V2SVVpYWlBUk16WEZDcG5yNDlpMlVHdHV0cHdRdXJLU2JRd2NuMTQzTGpkZXk0R1gwM2FSN2V6R1JMdmpDX0dvVC1IYm9ZOVEybFVWYWktZUFUUzQ0SVlXOUk5NkRIemNaSzRTQQ?oc=5",
    "content_hash": "3e426ef2e97d",
    "first_seen": "2026-10-26T15:58:17Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -2603,7 +4580,7 @@
    "canonical_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOa2thT0RvQ0c0Q0RLVHAybnNITGhDUm44TlEzdzNpNmw0S1hpd2M5NDB6SDJwM0lVTnF1YXR6Q0tuTVdXTWpsdV9SdnZ2aFZsQjFWMzFUQnVSNko2RWRPSVpZMEwwdVJWV2d2OS0yMUtfcGZrQU11RW1GSUpESGljREp3XzI1RVJaRGd2Z29TZDhRd0lFVzl3STJNN0h2aENHWE14Q3FzNXBWak9OclA1ZEtRM2RQUVhMT3lyMDEyTlJDRkZmekZTMzhSY0pjOFNqaXRpcjJ2WGlWbEhzRjhVWWtkMzM?oc=5",
    "content_hash": "cbb24775caaa",
    "first_seen": "2026-10-26T15:58:17Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -2649,7 +4626,7 @@
    "canonical_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMWo4MjBWOWUxd3JFYWducUFtUlliRE5GMGlPWkQ2b1lSMW1zWjdKTW1HSS1VODU1MDZlcGtEM21BZkVWdnN0RUwxRkVsT3NXWFgwUDlyWHlsZnJIYWx0cTZEdmFEbzNIRE5ZdDBxMmtWdXNPTlAydGhtS2ZUeE9WcjRtOF8wVkh4RU91VGRGbmRpNVMxMjZ0bzBoLXFTZkE?oc=5",
    "content_hash": "c3d61e49b2f4",
    "first_seen": "2026-10-26T15:58:17Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -2698,7 +4675,7 @@
    "canonical_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWF81LTdCT0xXdXNYTnhxaUdyOHBLUkxQbVhUeTFpd0oyWnctY0dBejZMQ0JwQlVzcDVCRXlLbTl0Uko3RjFsRmxDS0ZBNjBWOUZGZzRSdmM0UjFzSy1GdllvUlVreUZkb284ekk4bmxiamc2V3pQTU84Y0FaTDI1cFVZY1hTYlBYTnczRnZUWnBfckx4Tmg3UXRnalRlMlVLRVZ4WWRWYm1lQ2w5S2c0OEkwSmdQUS1fRVRhZld0bGdaUnhSOEZ0YkZhckdEXzhu?oc=5",
    "content_hash": "26f8fc0e0084",
    "first_seen": "2026-10-27T15:38:39Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -2745,6 +4722,52 @@
    "content_hash": "bb7e6a999712",
    "first_seen": "2026-10-27T15:38:39Z",
    "last_seen": "2026-10-27T15:38:39Z",
+   "updated_at": null,
+   "also_in": [],
+   "history": []
+  },
+  {
+   "title": "Rodobens Seguros lança Novo Salto, plataforma para acelerar os negócios e a carreira de corretores de seguros - Gazeta da Semana",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNUl9BNWJuMXJadmNXTmhTOHIyX3VoQUdZb2p0N0hOZE9sTmVZenMycFpxSnhwYjNZaE9QRnJIY09fZWd4OFVLZTlXeXpYUGJ2OVhWVkZMWjBIOVF0NFlvUURnRHdXRGRnWGE2b2l2VE1xZmFkZloxdE1LLUx0cFJLRmwtVkNRbEhUbXJiU3pjMnZEcXJQVXJzRmxvWms3aEd4cTFRUGhwNUtkeDBWUFczbS1nZGtVdXB1YlRlcGc1UVEwY3VaLU9HN1hPS3BZYVRQbTBnRG9PMzBDUklzb0Jieldlb0FaakZQaXdfd1N3?oc=5",
+   "published": "2026-10-26T13:01:55Z",
+   "published_confirmed": true,
+   "source_id": "gnews-clientes",
+   "source_name": "Google Notícias — Carteira de clientes",
+   "source_authority": "journalistic",
+   "source_category": "clientes",
+   "collected_at": "2026-10-28T15:41:16Z",
+   "publisher": "Gazeta da Semana",
+   "client_hint": "RODOBENS",
+   "per_client_source": true,
+   "clients": [
+    "RODOBENS"
+   ],
+   "clients_unconfirmed": [],
+   "categories": [
+    "clientes"
+   ],
+   "tags": [],
+   "sap_modules": [],
+   "nature": [],
+   "deadlines": [],
+   "relevance": {
+    "score": 42,
+    "level": "Média",
+    "justification": "Pontuação automática 42/100 (fonte 15, recência 12, cliente 15)."
+   },
+   "action_level": "Apenas acompanhamento",
+   "action_ai": "Acompanhar e considerar no planejamento.",
+   "impact_ai": "Evidências insuficientes para estimar impacto nos projetos.",
+   "content_kind": "Notícia jornalística",
+   "rt_status": null,
+   "confidence": "Média",
+   "analysis_origin": "Análise gerada automaticamente por regras; não é determinação da fonte.",
+   "id": "5da6670e1b89fa25",
+   "canonical_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNUl9BNWJuMXJadmNXTmhTOHIyX3VoQUdZb2p0N0hOZE9sTmVZenMycFpxSnhwYjNZaE9QRnJIY09fZWd4OFVLZTlXeXpYUGJ2OVhWVkZMWjBIOVF0NFlvUURnRHdXRGRnWGE2b2l2VE1xZmFkZloxdE1LLUx0cFJLRmwtVkNRbEhUbXJiU3pjMnZEcXJQVXJzRmxvWms3aEd4cTFRUGhwNUtkeDBWUFczbS1nZGtVdXB1YlRlcGc1UVEwY3VaLU9HN1hPS3BZYVRQbTBnRG9PMzBDUklzb0Jieldlb0FaakZQaXdfd1N3?oc=5",
+   "content_hash": "cb2f045494fa",
+   "first_seen": "2026-10-28T15:41:23Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -2838,7 +4861,7 @@
    "canonical_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSXBvWS1IaFVmSnF0V0Jyai1jaUpFal9tbm5DcGUxTWpJSHdneDJtSkQ0NU1Wa1owbnZlc1MzcXVlRU1qV2MzSl9XTXlZOXAwN05rUHlkSER3VVVHcGpDZDYyZF9UeVhSaGxRTERJQVZaS2w2R3djZkNEOWptMTlrZWlpYXhMRFU0WmRaMzRMVk8wRko0M1VNcE9QaXRUeWhlTzZkajdRX2daUHZFbW9VYzBUUThLUURHY24tUV9xVVF0NG9TWVdINFRrUlZSWmdKZXZJ?oc=5",
    "content_hash": "708610663707",
    "first_seen": "2026-10-27T15:38:39Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -2880,7 +4903,7 @@
    "canonical_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWm5WQnRIakFJVzYwWXc1VU5OblhEaDhJak9VWHNaRUUxR1VkWElHUGtXXzVOcnkzLVVxNjg0N3FEV0EwVXZ2eUV6dHI5Vm15WllHeUxGZEUwajBtMVBkeVUtX1ZYX3dOMlVCQWhRUlhCTXdEcXE5bFI2LUtLN2pRc0t4UWhaaGk4ZXNMRkhKM0tFQ3lSd3puemo2N1dyRzJNUUFiWlg3QWRrdXpYZEwtQksxTFhBVERaTE5wVTZNVU5SZXR2YU5fb291a1hqMTRsWFRERExB?oc=5",
    "content_hash": "5a2ddd51008b",
    "first_seen": "2026-10-26T15:58:17Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -2928,7 +4951,7 @@
    "canonical_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQY1VwX291RG44VkFwV09LS1BnOG1tT05iQ2llNlB1ZDZfT01fczRKS0p5dUprLTgwQ3ppZXNaRWpHVFRZMW1UeGJfMzBKQTlOWm9QUVNjY1plYXlEUFQ3cTVPYXd4bXgtV1ptcFlNNGxkOFBRLUFYcl9Wam81emdPX1dDVm94ck5oWEZhTjVHS1p1SXdGR2xmamxLWXZJblBaUnlERGNuVXZhdGtlZkNlanFRQkJibm1xVW5BSFJMempmcHY4ZlFtZ3dXS1JxbEpmc1F4LVZRSG5Bc3NuMy1LM1A1NHlyWE9DN2pld1FvS1o?oc=5",
    "content_hash": "2a0db6cc1b17",
    "first_seen": "2026-10-26T15:58:17Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -2974,7 +4997,7 @@
    "canonical_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNclM0TTZIS3pUT2w4WFpuejh5dmctNTlkSnhfSlpURG8tR3JCZXJPM2pXTWdXTWktUmR6eldjalVHbm54LUp0TUdpZV9kXy1xZjE3bFZFWVRYT240TXdSQ243ZWZKVmR3cUFmSE1RWUQ0T2ZPaGNkc1ZXYWk1Rmk2MS0wcTQ5bGZZX3FlRTNpZ0VVeHJtTkJDMzAxV2psTVdiTWozbEFjS0YzNkQwZVVUT1U1QlV3cERNYzA2bUd0ZU85YnhTMjRPS1BTeUVON2FJV09jV29ibHhvUQ?oc=5",
    "content_hash": "9bf695ef9be6",
    "first_seen": "2026-10-27T15:38:39Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -3069,7 +5092,7 @@
    "canonical_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTk5rOXRwb2FXcFhSOXNSbDBjSVZBTkhVc1VPZjd6aEMyTURrQ05QRkJPdjBuYS1EMWZlYWQwaFBYR3JfLVZHeVBIRHUyeF9IRHZBcG9OSE9aSmZwM05mUHlmSlVYR20zNDN0YzhYWjFaNFlwUWxYaU9MUGJIRFN4aGpUbVE2bFozTjBJMnJGNXVTcmYzZWc?oc=5",
    "content_hash": "4c864b922ead",
    "first_seen": "2026-10-26T15:58:17Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -3117,7 +5140,7 @@
    "canonical_url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQVHJ3XzE5U2FCaFh5YkE3X3g2ekp3Ri1LNmgyOVUxdm5rQzlkVVRrOFRfZS1QcTM4UFY5ZS1INXRaZVo4eUhvQmpjRmxCNzA4dFRjeDZqOVhCd2JHR0l3RndZVmxiTlhaX3VuQlhEb25iLXpsSVpYeDNVZElmSkNXOWdFZUs3X01RbmRMODhMNlhObnVqVjFlYW1JMXE4LUQxeE9ISXllc1pYWlU0YmJtTmNnWVE3RDdjNnFMdTRBai1PWWExLVJmR004QkZ1djhRS1lKcmtRdHhjU2hNQzlnV2hpVzV5eGotcTVGR1FIdDJhWnd4ZHlhUmMwbFFFb25SMXpEMFIzQUVZQm1vcF9UQmZfT29La015TEHSAagCQVVfeXFMTldLcTVRRHJBQnM2Ym4zcjYyYWx3U2szUjJjbUNGU1NxSEdvcHZOaE1ZR2taUlJPcnkxSmoxWkJEc0Q4ZUkyeFJIWGZVbjZyNTlOanRGOFdrcmFNektCaC1uVzI1b1VJU01ubF92SldlLWQzOWhqb25HMGo0RFZfV1ZXZkVxRWtodWxld29abWdZcDI4bXhPVmtpcWtNX3pQUTM5U2NmTmQtRUtQZmQycE9ONjZSaEF0Rmt5X2c1Q0FvSlRjLTZnXzcwbmNwV2p5enlPZHVzQ0sweDktb2I4TWRLUURPdlBHNVFxbFFZdGtiQzJlSkFCTEtqQWduN25DQ1ZfSEVKYTI3S1VKY2h0LTA3SElVT01BMDd2ZlZnT2F3UGdfME9MX0Q?oc=5",
    "content_hash": "2e97452eae2a",
    "first_seen": "2026-10-26T15:58:17Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -3163,7 +5186,7 @@
    "canonical_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdTNaWTRMRWN4RnRzaElmV3FQdnM5ZE90UXA2OHBIUXNTel9aX1V2Znl2VmMzeVppSE1zQ2t2WHNuclR2bDJya2IycDNEYjNUeXBjMThNN1NIYTg0dnZqMzNVMjFBRTFlM0F0d3Nweld2UXl6dnd1enJOV3VZaE9QV0haN0hScWV6bm9FMVVjeWZZSVNhNHpscDBRMGpQN0xpUXZLZzN4T1ZUSy1QWVBXSGFPOWtsVk1KZzRUeHdBeE16NUM2alVwdmVKaV80b3ZlRjJSQ0NLdlFwWDg?oc=5",
    "content_hash": "9850f0b2f735",
    "first_seen": "2026-10-26T15:58:17Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -3211,7 +5234,7 @@
    "canonical_url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNT3RodEZkd1huRmx0YlkwQ3lKeE9xZVJ3VF9waHdJTGpJcDBTTmo0Qk9tR1hNaHNKUDY2ZHNySktiMlJ1RDFucjZiTXoxR0VsSDhSUzNFVEdWX0lnRGFNWW51NUhMRUxSSHAwVlhBMmtuZzczeFpJZ0RfWVczb0duY2NBQjJqS3hIUGtjWmtrT3lkdEZ5WElmZ05mb2k3UTUzRDgwb0FiUDNPeXB2dHNMRWVxWjFBUmE5U0djbzlrSk1taWdUSk9tT2J6dURua3VJUnVuVmc5TldWNUxucW5LZHlhcEZTVHZQWENDb3NkeHBMc3NJUm1ZemVBbHY4YndWdVBRUzdtSGp6RlZLOC000gGeAkFVX3lxTE1mRkE4Yzc4SDFnQ2pJTzdxek8wWFFmUDd6QVBjM3JHTUw0ZEl5UmZlVW1aWHhSeFRhdmZQTHpESUppUHFRUmk3MV82NjZLQ2F3V3NUWU9yOUJCb05nc0hwUlVjYnR4NTkzVjhuYmRBRGdpNlFfMWhpblpXc2tBeG44VHBXX29TWFg0eHRRY0d4TEVXOUx5YXBNZmNES2c1b3NmOU4xMVktWnZlZ3dSNEl5LTZpNVVKZzUtMXUwOC1IUDc1NW5STEJVR1dWM3l5cWlmel9GSEhRT1lZSV9rM19mU04wUnBrQVdIT1RNd0p2a1RtU2o0VTZPNHVadnhxdDViVk9mWGI3SUQ1b1lMN3h2N1M3Y3FQMWVZZV9MblE?oc=5",
    "content_hash": "93405410c820",
    "first_seen": "2026-10-26T15:58:17Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -3447,7 +5470,7 @@
    "canonical_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdlRXX3R1Wkx2cUljc0wtR1BMRVlBRVhsSV9CTGo0WjM1ZmFycHVtRlRTQ3E0MXF0VlA1X25OUEx2djNxZ2NLWFprb1V3RFdvdUpLU0VqLV84MzBpTVRMaDBDNE9zVExFNWk3RU5aRm9KR2xobEduMV80UmpaTnpfXzhSNTdTbGhNYXloVGhVRTlPcU5EU0h4WGE3TDlJVm5aUFNzYk9ISWVqY3pLbmpNUkVHM2NwWW9fS0ZGTmo0bXdGTHFxS1MwdjNNX2JQdFh3aG1KcjBEa1JadEl2VFY2Rl9vSmxkUdIB9AFBVV95cUxQcHB1T2R2bzZmTVBuV2I2eEZfNWRJdmNrYjBYaHFKZmVLcUpRM3dEbEdVeXMxZTZ5OE5vTFpxVWg5c0hNalFwTTVXRW5fVE5GUmt1RmtWZmxrbDdvU3g3N2NhbGpQakdHeHNQM0tuTlktY3Vka1dOeklIc2lNU25JV09Uei00YlR2SG41czlmamQtSGExRVl2OTdIMzNDMEpKeFpMdnZXS1phUnlmbnNGYnI4ZWVTck02bDhBRjJwNE1IWXVMaU1zUWp5THFKY2Rremtiel9QaFZXVmY4SUdJeE1SbWRKcHJKY2xSeVc3RVlnenls?oc=5",
    "content_hash": "8f8e91bfa405",
    "first_seen": "2026-10-27T15:38:39Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -3587,7 +5610,7 @@
    "canonical_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNT0E0ODYzaWwxd3Z3YWlQNHFyRlp5WF9SZ3lkNElDU2NXMUhmaGdLUzl5WTRsRzRNbzVId1Vua3dHMnpDei15NjVSNmZCLVdWVWFGUWVOaDNsc25SMTdWRWc2cVZ6VktiMkI1eUxwdjhNaFk5VnluWC1Ccl9NRXB1aGdPeld5RVlOM1E3a3BLWVBsUjgzRGRmLUF1eXhyVTVHei0yRWpua2dnVlNQNlNKWm5SQTg3b2x3d2pzTHM2RFdIakJCYUZraTA0V1NHdk1PV2c?oc=5",
    "content_hash": "3baed991dca7",
    "first_seen": "2026-10-26T15:58:17Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -3681,7 +5704,7 @@
    "canonical_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNb2JBcTItamF2UHVnbzhwWmwzeGw1WUlUU2F5TVBLN2JjMFNXaHdjaFlEcFBkc0ZGOHBwV3Y1ejRvd2RvV2tia0dmd0lVZzE0MGF0OUp5UFZYcERMMjB2TmZwanpFOGEyQU5Cc3YxUEdKMDN3THJEbmd1OEk2MmRSQVg2N0Zzay1TUllCLXNnUlNKS2N2OVNnUFBZTVcxQkZPbWk4NzBTTi1sR0xJdXlmaEVIZDN6bUozcUE?oc=5",
    "content_hash": "ba764b01818d",
    "first_seen": "2026-10-26T15:58:17Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [
     {
@@ -3692,7 +5715,7 @@
    "history": []
   },
   {
-   "title": "Santa Vitória: Lula tem 54,91% e vence o segundo turno - Congresso em Foco",
+   "title": "Santa Vitória (MG): Lula tem 54,91% e vence o segundo turno - Congresso em Foco",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeEsySmRrUXlsMTB1VzdPQkN5Zm41WjNrMUJMZzNta2Q4SHJjdTNrSmNYcWtpOHM1TWN0WFh4eC0xRzVINDhCSDJoTW84TFItZGwyLW5NMnQ0RXc5OVpaRDRwaDJ4dzJ0MG5ybWFEa3k4T1NmdlFDM3VZMVlvcnJrZ3ZLUnlOZUhndng4WGQtdGdLdW1tQ25ON3BQMFBJbVBlZ1UtYg?oc=5",
    "published": "2026-10-26T08:05:36Z",
@@ -3717,9 +5740,9 @@
    "nature": [],
    "deadlines": [],
    "relevance": {
-    "score": 30,
+    "score": 27,
     "level": "Informativa",
-    "justification": "Pontuação automática 30/100 (fonte 15, recência 15)."
+    "justification": "Pontuação automática 27/100 (fonte 15, recência 12)."
    },
    "action_level": "Informativo",
    "action_ai": "Informativo; sem ação aparente no momento.",
@@ -3730,12 +5753,18 @@
    "analysis_origin": "Análise gerada automaticamente por regras; não é determinação da fonte.",
    "id": "f21d998f707c7be6",
    "canonical_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeEsySmRrUXlsMTB1VzdPQkN5Zm41WjNrMUJMZzNta2Q4SHJjdTNrSmNYcWtpOHM1TWN0WFh4eC0xRzVINDhCSDJoTW84TFItZGwyLW5NMnQ0RXc5OVpaRDRwaDJ4dzJ0MG5ybWFEa3k4T1NmdlFDM3VZMVlvcnJrZ3ZLUnlOZUhndng4WGQtdGdLdW1tQ25ON3BQMFBJbVBlZ1UtYg?oc=5",
-   "content_hash": "1879e708570d",
+   "content_hash": "92ce51036f93",
    "first_seen": "2026-10-27T15:38:39Z",
-   "last_seen": "2026-10-27T15:38:39Z",
-   "updated_at": null,
+   "last_seen": "2026-10-28T15:41:23Z",
+   "updated_at": "2026-10-28T15:41:23Z",
    "also_in": [],
-   "history": []
+   "history": [
+    {
+     "at": "2026-10-28T15:41:23Z",
+     "change": "Conteúdo atualizado na fonte",
+     "previous_title": "Santa Vitória: Lula tem 54,91% e vence o segundo turno - Congresso em Foco"
+    }
+   ]
   },
   {
    "title": "E. E. B. Professor Arno Hubbe, 99ª zona eleitoral: resultado da votação em Tubarão (SC) no 2º turno - G1",
@@ -3780,7 +5809,7 @@
    "canonical_url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQd2RwZzBjTjJDQ3lVWTR6VlRNc1J3aGNYekZEeWV2SWdqRnJlSDhZVktFUG5leHZtMHl0VWdoYTRSWkN4N2l0MFlZeVlvZE16MTY0eFBCVFprUGJOSVB4VkktaTlKeV83cFJxZnZmRW9XdXlvT3hvWTNGMl9Hd3FkR3hxQXRMOXp6SnFjT2hqajBDNmJrcmwxRHMzcGp2d1dydEJDRlZqa0JWNi11LTB0ZFBYSmNmRlBVVUpaRjNtNUxydm9uVEpkLUNNd2NBYjRLLXR4V0NXbXAxRVliOVcybVlwakZIdi1kTVlVSGp1STVuSTJ5RGJvWHl3NjlVVVXSAY4CQVVfeXFMTnZfbTd1QkNweTFUc2k2bHc5MXk5bUNfR3RMM1JZVnQ5ZU8tZkUxR1lhS2RMQVowTVlVZldfTXVFX3hGMGNLd2s1eFR6VzRSOTVBTG1iUjdNRllYdFN0TFZPQnZMSGdHU19uRzc0c3QyMEdJOFVzMi1SMUxMLXBZSm1fckxYaXNvOHEtMWJYQ1FaZ01PWmItNnJRQ0MwMUZGUldjbU0zWlkyRFEyRF9ZVDlMYkxZMmJ6NVZNZXBTRzVnTmF2bUt0SllZaU9lV21FbXZOUzhYSzl5ZVNHVGpqLWt0MGtFUDI2VE5HZmZCZkFHcERLUkZIdk1PaUlEbGtmMDF5SzdpU0JpUG1ZWmZR?oc=5",
    "content_hash": "f09314183255",
    "first_seen": "2026-10-26T15:58:17Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -3828,7 +5857,7 @@
    "canonical_url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQM3YzOFcxN3VHMm1DbVdpeG1DZUJXXzdDY2thTVIxRk95R2NHLUx5ZGt0VFZJZlMzYjlKQVRBLTRFRTUySkpTZi1qenBZR2NDc0s4MFNJOXFtRTVHNTktbmhOdWxoY184WWxZUURxZ014Z1ZVaHowWTM1WEdaZVpZSnhEVVRoeGhiZ2RadE8zRjN0bUk2QjRDZkJPTkNOaUVYTDBfV3dNMjl1MFh6QXcycFhXZ0djaFZINVJmR19iMmhRZEZuTFI2VHpHNWw3bDhFZ3E4czFoaGZzRzJCQ3gzSWNNMjROT0RXYXE0UndNUXpKcXFaempGeGNacWY4RWdjbUxvR0ZnU0NFUzZRa1Q5N19jTkh3V3RG0gGnAkFVX3lxTE9JWUdNNDE0VngzcDZnY2dST295VDhGV19uajZzakdoSDNGT29UcFUyczhwTkdSRm9CdTBjNkZCZmZTRmZSVEIwQ2Z0ZENHQWJ5MFFZRUhUU1FORE5UYlkzYUdDZmlfVElmUHd1dlQ5Z1RoRmdPZmsydnRJWGhpVk82TXREczFPT0RPbzZ0TDZCZ01Tc053aWlSUTFpZlVLMFM4Vk1VY2o0WlFQZzE2eEFBb3A5MDFsYlJHek1UanJkQS1YR1N1eUw3WS1qQlpGLTRFeVBZLTIxbHl5TWFEVkhReDJHalJmMnBqcWQzbEZ4eVMtVjFhamlER0FoTk5GbDZjdG85ck11VmlicHNGeGZoQ0dldS1FNEJTdUpqeTMtME1SUTMzc2M?oc=5",
    "content_hash": "ac15da4f9b3c",
    "first_seen": "2026-10-27T15:38:39Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -3876,7 +5905,7 @@
    "canonical_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPX3g1WXJudnlOLTUzclFYeXktVFRJRVV1bHZaTDBuYXhyZEpubXRZVkc3eUVlbEFKVG1YUExocDY2Vm1kQ0RUdmVjWktzd1NMMHNnVjR5eHo2WW1HMkd6eFdQWE1IU25TN2RCb3ZVWkZ6RkNKVUNMaExBNEdrYTBNRElOQXlfRVFIUkZlVmJtMkZPSkZ4ZzJqSk1GM2xVZmJnNHEtZHlXQkpRUnE3ZXBmbWtMMHk5TTZ0VVJYVDJZa2c3bk1yVlYzWGFiY2owaUNubk1xSzJ2Y0NWSU94Z2NYMi1ObksydEUyS0HSAfgBQVVfeXFMTk5UTnphRV9yX1liVl9PcHR0d1dYaW9iWFRoUU85QnU5TEs2OUR5MmNJVDRhdEcteGxNRGtRNTNZNWpZZ24xb245bU9lbUpZQ2pnWmtpaHpRSVVBUlBzcDVTS1V3V2hfZElKOFJPR0RPRklLdnJYWG0ta2ptOG9ZY014SG9ERFpFNmdNdk1RU250aS1zaDNZYnJjd0pwa05nTFUwNlRnTE9VaDZMdGE0N1cwWTI2Q1pWQmRoUDk1SnlQRlFuQkFvZkpPRDVqRXdBRkhmclYyUTZRT3lSNk0wN2dqNUpWeDVDeWZFSl9rX1c4dzhIVDVKcG4?oc=5",
    "content_hash": "8b0659e26741",
    "first_seen": "2026-10-26T15:58:17Z",
-   "last_seen": "2026-10-26T15:58:17Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -3922,7 +5951,55 @@
    "canonical_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxORDBMSTZUbXp0SklDUmwyQl9HeEVqWWl5Wk5MTVhCdlZvaC00UG45Z1REcW5ZRF9ZUVRhRGlRQ2M2YXVTQWxHWlBOWF9LekttT0NIR0ktOUdJNkR2RlR2bTRxc0hwa1RiNUR4bFR0cS0yUlRkaFpxVGtqelB2VXRJNVZxeHoyMDNZRWZVVWQyWGRGWHEzSFFyQUhYaUQwcjRUaEtraGdqS0swbHE2ajZvMUFXbC1xU01teVc2YWFwY3RGQ0FrLTZlMWN6NXNkOXZKcHZSQVcyZ2RjMF9YbElYVThPMmpRUEnSAfYBQVVfeXFMUHdVNDBCM3pPNGlGRTEzYm1ZSThLNWJTaXozYkl5bHJKLXRNMUJXSjZ3aXZOVk8xaVdEVHJSQVNuaFZySWRwWHZXUHI5dnRSS0Ywd2ZuZV9GM3Q5MUdDTnh6YXd2al91d1pxeW9Wdm1jMVhRMkFkdlBTSFExbG5nb015Qk9tTUJ3eVlzb0JoS0hIUm5nV0NXRnA5a2VtZU9lNUhodUEyX19aZjlsX1hmQlBLLXBuOW5ocmRIblFlZGl2VjhTU25mRjRBYkxvaS1HVk9hRGFIODN6ZFRablRSaGNlaV8zdmFPQThwOWE5REhHRVltcmlR?oc=5",
    "content_hash": "21eeaba99368",
    "first_seen": "2026-10-26T15:58:17Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
+   "updated_at": null,
+   "also_in": [],
+   "history": []
+  },
+  {
+   "title": "EMEF Corina Lameira, 36ª zona eleitoral: resultado da votação em Santa Izabel do Pará (PA) no 2º turno - G1",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZlRJNTNRdkpsUnJuVElXOHRyUF82UHhnLVdvLXJSTWY1Wlp6ODNQS19YSVI1b0lUdk9FdUN6aUtuQTRDRi1pcE5Ed3owRkZLWFNiWVJKTWtPcndCYkNzeEtqWjJoTWdtNW9pLWlxdm5kVTROVHpNRDE2WG9QQUhhYnUzcHk3Nld5NnRPU2szTE5tLW9MVUF3d0RNR0J3Z3ZTQ0haQ1ZidzRYV1FmRWFZZmd6UkdPREl0ajRnajdXYjNnMHdsaTQzcjFLX0pnRGNvSVVZckMza2RDUU1wM21pX0xHYWpVX2lpT3BuV0R6UmVPVmVKREdkLW1n0gGIAkFVX3lxTE9yeExGX3Z5RVBhZVh0bWx6OS16MWxxRTdoRUM5ckQ2V3JEcWNIbjIxMUZlT1EtY3dhVUJiYUtkLW43VE9GcnlKRTdpSlBLdTMzcXRwTzI1Q3BXbzZnRUdYcFJreVRoYTNYa3VtZnNXWGViZXhLcENJS1lVMDJ0VHBQckhESGNsWW1NNjhNVjZzNmFKMGRTeDYtV1JWQ0MycVlmQkhFc3ZvbS0wVENZcUZCMkNBMlV0ekpDX0JfMXpMb2tqX0hwb1RNbDJFTWV1ZmdyY0JnVi05OWpYZU93RjhBcVNFWlczMlRYMzI0SWhDc05jYmJoSnk0TmJTS1dtbUxuMVY2NW8yRQ?oc=5",
+   "published": "2026-10-26T07:13:40Z",
+   "published_confirmed": true,
+   "source_id": "gnews-clientes",
+   "source_name": "Google Notícias — Carteira de clientes",
+   "source_authority": "journalistic",
+   "source_category": "clientes",
+   "collected_at": "2026-10-28T15:40:08Z",
+   "publisher": "G1",
+   "client_hint": "SANTA IZABEL",
+   "per_client_source": true,
+   "clients": [],
+   "clients_unconfirmed": [
+    "SANTA IZABEL"
+   ],
+   "categories": [
+    "clientes"
+   ],
+   "tags": [],
+   "sap_modules": [],
+   "nature": [
+    "Notícia corporativa"
+   ],
+   "deadlines": [],
+   "relevance": {
+    "score": 27,
+    "level": "Informativa",
+    "justification": "Pontuação automática 27/100 (fonte 15, recência 12)."
+   },
+   "action_level": "Informativo",
+   "action_ai": "Informativo; sem ação aparente no momento.",
+   "impact_ai": "Natureza provável: Notícia corporativa. O impacto real depende da versão, do ambiente e do escopo de cada projeto.",
+   "content_kind": "Notícia jornalística",
+   "rt_status": null,
+   "confidence": "Baixa",
+   "analysis_origin": "Análise gerada automaticamente por regras; não é determinação da fonte.",
+   "id": "264efd2ca617b1e7",
+   "canonical_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZlRJNTNRdkpsUnJuVElXOHRyUF82UHhnLVdvLXJSTWY1Wlp6ODNQS19YSVI1b0lUdk9FdUN6aUtuQTRDRi1pcE5Ed3owRkZLWFNiWVJKTWtPcndCYkNzeEtqWjJoTWdtNW9pLWlxdm5kVTROVHpNRDE2WG9QQUhhYnUzcHk3Nld5NnRPU2szTE5tLW9MVUF3d0RNR0J3Z3ZTQ0haQ1ZidzRYV1FmRWFZZmd6UkdPREl0ajRnajdXYjNnMHdsaTQzcjFLX0pnRGNvSVVZckMza2RDUU1wM21pX0xHYWpVX2lpT3BuV0R6UmVPVmVKREdkLW1n0gGIAkFVX3lxTE9yeExGX3Z5RVBhZVh0bWx6OS16MWxxRTdoRUM5ckQ2V3JEcWNIbjIxMUZlT1EtY3dhVUJiYUtkLW43VE9GcnlKRTdpSlBLdTMzcXRwTzI1Q3BXbzZnRUdYcFJreVRoYTNYa3VtZnNXWGViZXhLcENJS1lVMDJ0VHBQckhESGNsWW1NNjhNVjZzNmFKMGRTeDYtV1JWQ0MycVlmQkhFc3ZvbS0wVENZcUZCMkNBMlV0ekpDX0JfMXpMb2tqX0hwb1RNbDJFTWV1ZmdyY0JnVi05OWpYZU93RjhBcVNFWlczMlRYMzI0SWhDc05jYmJoSnk0TmJTS1dtbUxuMVY2NW8yRQ?oc=5",
+   "content_hash": "da02803285e2",
+   "first_seen": "2026-10-28T15:41:23Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -3976,6 +6053,102 @@
    "history": []
   },
   {
+   "title": "EMEIEF São José, 36ª zona eleitoral: resultado da votação em Santa Izabel do Pará (PA) no 2º turno - G1",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOQTFmNkxjOTRkUUdKOFQ4SC1sMXR6YVZtYVdNYnRkazVaamZjMi1RM2lOOWhsZ3lWTm4wVHFYZ2VWc3ZQQm1GWWdXQUxLMENCQXZBa0p5NVBxbTBiZU4yMVhpVkgzeGtqYU91RGI0cnZndXpoVWFrRVc2MzI5TmpDTEJkWUxXdjlpOVJ5RWoyZ3dKSFMwdU1lNmlGV3M3aXBEV1lZTU01V2FNa3FDejlvNTlyMnY2eTNmTzlid0VyWDI5QV9nY1JYenZXQ0d6eVB3SDRHd1l2Ui1ISlZLUldXWDk2UzltZ2dNUWZFZkZYWF9xVGJH0gGDAkFVX3lxTFB6bFRaWDZhS0I4emdRcjR0UG9SVldXZ0hTWEF3QmQtaGdodkN1aThXUGRlUDFYVGgwRno2dnU2MTViWDdRRGNHREhXTU1HaXZfb2FWdnJFSHRiWDhPWkVIcVR4TklpZENvM3BrWmtFY1Y4TzNVWFUwalNvV2tNdkxCb3JFZWgwSHQtemRFMTN6eHhtcE9TSWtSaHBHY2E4M21OSkdEN0RnX1hFd1Jtem1SRms0X2xfTGpId2ZCcE90eUxCaWJienpRNUFQajRvOWVUUmk5TnhPeUkwU2dEMllXZW5CdnhSSURKZUpZOW1FQ1prUFBJRThGakEzS1piYnNnSnM?oc=5",
+   "published": "2026-10-26T07:11:09Z",
+   "published_confirmed": true,
+   "source_id": "gnews-clientes",
+   "source_name": "Google Notícias — Carteira de clientes",
+   "source_authority": "journalistic",
+   "source_category": "clientes",
+   "collected_at": "2026-10-28T15:40:08Z",
+   "publisher": "G1",
+   "client_hint": "SANTA IZABEL",
+   "per_client_source": true,
+   "clients": [],
+   "clients_unconfirmed": [
+    "SANTA IZABEL"
+   ],
+   "categories": [
+    "clientes"
+   ],
+   "tags": [],
+   "sap_modules": [],
+   "nature": [
+    "Notícia corporativa"
+   ],
+   "deadlines": [],
+   "relevance": {
+    "score": 27,
+    "level": "Informativa",
+    "justification": "Pontuação automática 27/100 (fonte 15, recência 12)."
+   },
+   "action_level": "Informativo",
+   "action_ai": "Informativo; sem ação aparente no momento.",
+   "impact_ai": "Natureza provável: Notícia corporativa. O impacto real depende da versão, do ambiente e do escopo de cada projeto.",
+   "content_kind": "Notícia jornalística",
+   "rt_status": null,
+   "confidence": "Baixa",
+   "analysis_origin": "Análise gerada automaticamente por regras; não é determinação da fonte.",
+   "id": "5bb242d686c07825",
+   "canonical_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOQTFmNkxjOTRkUUdKOFQ4SC1sMXR6YVZtYVdNYnRkazVaamZjMi1RM2lOOWhsZ3lWTm4wVHFYZ2VWc3ZQQm1GWWdXQUxLMENCQXZBa0p5NVBxbTBiZU4yMVhpVkgzeGtqYU91RGI0cnZndXpoVWFrRVc2MzI5TmpDTEJkWUxXdjlpOVJ5RWoyZ3dKSFMwdU1lNmlGV3M3aXBEV1lZTU01V2FNa3FDejlvNTlyMnY2eTNmTzlid0VyWDI5QV9nY1JYenZXQ0d6eVB3SDRHd1l2Ui1ISlZLUldXWDk2UzltZ2dNUWZFZkZYWF9xVGJH0gGDAkFVX3lxTFB6bFRaWDZhS0I4emdRcjR0UG9SVldXZ0hTWEF3QmQtaGdodkN1aThXUGRlUDFYVGgwRno2dnU2MTViWDdRRGNHREhXTU1HaXZfb2FWdnJFSHRiWDhPWkVIcVR4TklpZENvM3BrWmtFY1Y4TzNVWFUwalNvV2tNdkxCb3JFZWgwSHQtemRFMTN6eHhtcE9TSWtSaHBHY2E4M21OSkdEN0RnX1hFd1Jtem1SRms0X2xfTGpId2ZCcE90eUxCaWJienpRNUFQajRvOWVUUmk5TnhPeUkwU2dEMllXZW5CdnhSSURKZUpZOW1FQ1prUFBJRThGakEzS1piYnNnSnM?oc=5",
+   "content_hash": "71994ad40084",
+   "first_seen": "2026-10-28T15:41:23Z",
+   "last_seen": "2026-10-28T15:41:23Z",
+   "updated_at": null,
+   "also_in": [],
+   "history": []
+  },
+  {
+   "title": "EMEIF Fernando Guilhon, 36ª zona eleitoral: resultado da votação em Santa Izabel do Pará (PA) no 2º turno - G1",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOOU93Y25WQ2liamRLVHdQd3ZqNWZFSHRDU3NMWmVHZ1Q0MDItT255em9MYUZQeFN2UW96THVRR3JUNnVlMWxuSUhTbkxYZjUtdHBWUDI3akdMYVJsTGVNbkRPd0NOWVlJYlBXMlR5X2pjUlFXZGpJY1BiXzRMYTZ3X25WZFI5bTl1YjV3UXd6b3lzc0dMX0RGQWI1eWYwTTR6UkNMNWhHUEdHT0RHbFcybm93aXRQRjJBYmtfdk1CQkFQUjlKSVhpdUtqell4bUdNRzRjOG1Uei01S3hKMXJIREZuMGVCaFZwZ1lsSDNDdllMRnNzUjV0cXlfV2QzTnJsbmV1YmZNNTRWVlE40gGMAkFVX3lxTE45T3djblZDaWJqZEtUd1B3dmo1ZkVIdENTc0xaZUdnVDQwMi1Pbnl6b0xhRlB4U3ZRb3pMdVFHclQ2dWUxbG5JSFNuTFhmNS10cFZQMjdqR0xhUmxMZU1uRE93Q05ZWUliUFcyVHlfamNSUVdkakljUGJfNExhNndfblZkUjltOXViNXdRd3pveXNzR0xfREZBYjV5ZjBNNHpSQ0w1aEdQR0dPREdsVzJub3dpdFBGMkFia192TUJCQVBSOUpJWGl1S2p6WXhtR01HNGM4bVR6LTVLeEoxckhERm4wZUJoVnBnWWxIM0N2WUxGc3NSNXRxeV9XZDNOcmxuZXViZk01NFZWUTg?oc=5",
+   "published": "2026-10-26T07:10:59Z",
+   "published_confirmed": true,
+   "source_id": "gnews-clientes",
+   "source_name": "Google Notícias — Carteira de clientes",
+   "source_authority": "journalistic",
+   "source_category": "clientes",
+   "collected_at": "2026-10-28T15:40:08Z",
+   "publisher": "G1",
+   "client_hint": "SANTA IZABEL",
+   "per_client_source": true,
+   "clients": [],
+   "clients_unconfirmed": [
+    "SANTA IZABEL"
+   ],
+   "categories": [
+    "clientes"
+   ],
+   "tags": [],
+   "sap_modules": [],
+   "nature": [
+    "Notícia corporativa"
+   ],
+   "deadlines": [],
+   "relevance": {
+    "score": 27,
+    "level": "Informativa",
+    "justification": "Pontuação automática 27/100 (fonte 15, recência 12)."
+   },
+   "action_level": "Informativo",
+   "action_ai": "Informativo; sem ação aparente no momento.",
+   "impact_ai": "Natureza provável: Notícia corporativa. O impacto real depende da versão, do ambiente e do escopo de cada projeto.",
+   "content_kind": "Notícia jornalística",
+   "rt_status": null,
+   "confidence": "Baixa",
+   "analysis_origin": "Análise gerada automaticamente por regras; não é determinação da fonte.",
+   "id": "c7ad0c60a5dd31ba",
+   "canonical_url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOOU93Y25WQ2liamRLVHdQd3ZqNWZFSHRDU3NMWmVHZ1Q0MDItT255em9MYUZQeFN2UW96THVRR3JUNnVlMWxuSUhTbkxYZjUtdHBWUDI3akdMYVJsTGVNbkRPd0NOWVlJYlBXMlR5X2pjUlFXZGpJY1BiXzRMYTZ3X25WZFI5bTl1YjV3UXd6b3lzc0dMX0RGQWI1eWYwTTR6UkNMNWhHUEdHT0RHbFcybm93aXRQRjJBYmtfdk1CQkFQUjlKSVhpdUtqell4bUdNRzRjOG1Uei01S3hKMXJIREZuMGVCaFZwZ1lsSDNDdllMRnNzUjV0cXlfV2QzTnJsbmV1YmZNNTRWVlE40gGMAkFVX3lxTE45T3djblZDaWJqZEtUd1B3dmo1ZkVIdENTc0xaZUdnVDQwMi1Pbnl6b0xhRlB4U3ZRb3pMdVFHclQ2dWUxbG5JSFNuTFhmNS10cFZQMjdqR0xhUmxMZU1uRE93Q05ZWUliUFcyVHlfamNSUVdkakljUGJfNExhNndfblZkUjltOXViNXdRd3pveXNzR0xfREZBYjV5ZjBNNHpSQ0w1aEdQR0dPREdsVzJub3dpdFBGMkFia192TUJCQVBSOUpJWGl1S2p6WXhtR01HNGM4bVR6LTVLeEoxckhERm4wZUJoVnBnWWxIM0N2WUxGc3NSNXRxeV9XZDNOcmxuZXViZk01NFZWUTg?oc=5",
+   "content_hash": "ad4c9ad268cc",
+   "first_seen": "2026-10-28T15:41:23Z",
+   "last_seen": "2026-10-28T15:41:23Z",
+   "updated_at": null,
+   "also_in": [],
+   "history": []
+  },
+  {
    "title": "EEEF Santa Izabel, 36ª zona eleitoral: resultado da votação em Santa Izabel do Pará (PA) no 2º turno - G1",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQLVhGQW9lTk1nQ0hBLVJUZFVGcng0QmhxUUlyaFBsZlo5eVBpZ0w5cGg2WC1iZUdNYkpCakhfTG11Z2NDakhvd0c1VTEwRzBad3dKUmlMX2Eta2tHMXdYNzR1b1A2bm5GUE1ZbGxKTWlIQVdfZnk5cjRXZUx5YUQ5U244UVJBM2lxUUtLMnRtbkNBTXhsM0VBdm5DSG9rVll5WUk2TlFwcWhmTFdYaG5ORjN1S0owcWFwYzhKZGlFaE94U3pxQkg3Ymlxb2oza0UtLVRDQnY3eFJzODRMUDlVQzR5SElNaW1BUDdOMDFIUmlHeTdHU0JB0gGGAkFVX3lxTE54eWhrVXlLdUE4V2swZGJMcnlRTmFYZGxQbnZ1ekhEbnVOVGFQOWVRaDhlTjBDTEhqQmUwVk5HZWpCTUppczFGZWdURUd6QzBZZ0lLNFZLekttWGctNzgyUlVMNnFoUlI4WGZMLUs3bmRPR01reG1oR1JUMk5xTmhxdDRTODBWWF9fUVhXRjNOdk1oMXBTUFl4S3Q3MEUxbXdnaW5fLS1XWWNOSkFzZkVRWGhXbDk0WU5mV2xGVHVFd2d3TzdkbnFpM2RWR21NT3FmY2hGU0hLZjdXaHNUYXVBV1FjQnFhQmRxOURJZFo5bnRSYzlmLXJBcEI3OGpha0tfeG1KV2c?oc=5",
@@ -4018,7 +6191,7 @@
    "canonical_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQLVhGQW9lTk1nQ0hBLVJUZFVGcng0QmhxUUlyaFBsZlo5eVBpZ0w5cGg2WC1iZUdNYkpCakhfTG11Z2NDakhvd0c1VTEwRzBad3dKUmlMX2Eta2tHMXdYNzR1b1A2bm5GUE1ZbGxKTWlIQVdfZnk5cjRXZUx5YUQ5U244UVJBM2lxUUtLMnRtbkNBTXhsM0VBdm5DSG9rVll5WUk2TlFwcWhmTFdYaG5ORjN1S0owcWFwYzhKZGlFaE94U3pxQkg3Ymlxb2oza0UtLVRDQnY3eFJzODRMUDlVQzR5SElNaW1BUDdOMDFIUmlHeTdHU0JB0gGGAkFVX3lxTE54eWhrVXlLdUE4V2swZGJMcnlRTmFYZGxQbnZ1ekhEbnVOVGFQOWVRaDhlTjBDTEhqQmUwVk5HZWpCTUppczFGZWdURUd6QzBZZ0lLNFZLekttWGctNzgyUlVMNnFoUlI4WGZMLUs3bmRPR01reG1oR1JUMk5xTmhxdDRTODBWWF9fUVhXRjNOdk1oMXBTUFl4S3Q3MEUxbXdnaW5fLS1XWWNOSkFzZkVRWGhXbDk0WU5mV2xGVHVFd2d3TzdkbnFpM2RWR21NT3FmY2hGU0hLZjdXaHNUYXVBV1FjQnFhQmRxOURJZFo5bnRSYzlmLXJBcEI3OGpha0tfeG1KV2c?oc=5",
    "content_hash": "edaf61d8e062",
    "first_seen": "2026-10-26T15:58:17Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -4408,6 +6581,52 @@
    "history": []
   },
   {
+   "title": "Vinicola Arno: Casamentos de destino e hospitalidade encantadora entre os vinhedos de Monferrato, Patrimônio Mundial da UNESCO - italiani.it",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPbUtpZU1PUVRDWnF3NXZ4dWVIZVBuYXFRbVJQM05nMmQ0X3FjQW9IRnVjYy1jMzZHTndaRFZNSzU0TjJCcE00dHR2ckFOdmJ6RURzNWQ2V1pNX3ZqMWFEU1I0MEJ3NGhmMmt6NnBsOHZyVU1kWlYtdUgxZ1pqa01idzlGUUY4N3dBWmZ2aUdBaHk5U0haaDRULThabUQxUWwtX3NQMlNDRG5CR0lQN1ExN3VpZXplazhLUzZEeldYelhSWWRrRm9ZUnM5d19reEs0d24yODFTM3EzbXJPeFBvM2NFVnBvR01Tc1hOSFVqVW9SNndH?oc=5",
+   "published": "2026-10-26T07:00:00Z",
+   "published_confirmed": true,
+   "source_id": "gnews-clientes",
+   "source_name": "Google Notícias — Carteira de clientes",
+   "source_authority": "journalistic",
+   "source_category": "clientes",
+   "collected_at": "2026-10-28T15:40:47Z",
+   "publisher": "italiani.it",
+   "client_hint": "ARNO",
+   "per_client_source": true,
+   "clients": [],
+   "clients_unconfirmed": [
+    "ARNO"
+   ],
+   "categories": [
+    "clientes"
+   ],
+   "tags": [],
+   "sap_modules": [],
+   "nature": [],
+   "deadlines": [],
+   "relevance": {
+    "score": 27,
+    "level": "Informativa",
+    "justification": "Pontuação automática 27/100 (fonte 15, recência 12)."
+   },
+   "action_level": "Informativo",
+   "action_ai": "Informativo; sem ação aparente no momento.",
+   "impact_ai": "Evidências insuficientes para estimar impacto nos projetos.",
+   "content_kind": "Notícia jornalística",
+   "rt_status": null,
+   "confidence": "Baixa",
+   "analysis_origin": "Análise gerada automaticamente por regras; não é determinação da fonte.",
+   "id": "0612cc0249b71eef",
+   "canonical_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPbUtpZU1PUVRDWnF3NXZ4dWVIZVBuYXFRbVJQM05nMmQ0X3FjQW9IRnVjYy1jMzZHTndaRFZNSzU0TjJCcE00dHR2ckFOdmJ6RURzNWQ2V1pNX3ZqMWFEU1I0MEJ3NGhmMmt6NnBsOHZyVU1kWlYtdUgxZ1pqa01idzlGUUY4N3dBWmZ2aUdBaHk5U0haaDRULThabUQxUWwtX3NQMlNDRG5CR0lQN1ExN3VpZXplazhLUzZEeldYelhSWWRrRm9ZUnM5d19reEs0d24yODFTM3EzbXJPeFBvM2NFVnBvR01Tc1hOSFVqVW9SNndH?oc=5",
+   "content_hash": "b6e9d3b1c363",
+   "first_seen": "2026-10-28T15:41:23Z",
+   "last_seen": "2026-10-28T15:41:23Z",
+   "updated_at": null,
+   "also_in": [],
+   "history": []
+  },
+  {
    "title": "Criadora aposta em vacas de apenas um metro de altura e encontra compradores que querem gado para pequenas propriedades - CompreRural",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOZDU2Y1VBME12SUJHQWlnTFl6OXB4TnVMSlpIWDFJWFY5OXlBQzNPUU1BZnhWcnA5UnJXdkZkb2NOZmU1eFRmdHgtNmlSZjhMeU5jbzZaVGJSWkFieUFzTks1alhoXzI2d1BTTnRHV3VFRGhzM3FUU2xIWl9WbVViaGhuMW52SUZaMlRiYTZuUzJwNEROY25mbWhrRWNCaXgxVzVzTkR0d3ZrOHRfZHEtaDdoZk1sQm0wZmIwcXdJV0ZNdVVRc3VVTWxfV2hhZ1VMQkh3UmZsYVV0YW1SYjB1MDhfck1RUm9JOWlGNnEyajdfN0pQVDdieVYwTXNremhqSGp5OGs2VlI0Zw?oc=5",
@@ -4449,6 +6668,54 @@
    "content_hash": "f54fcbd92d13",
    "first_seen": "2026-10-26T15:58:17Z",
    "last_seen": "2026-10-26T15:58:17Z",
+   "updated_at": null,
+   "also_in": [],
+   "history": []
+  },
+  {
+   "title": "Santa Vitória do Palmar (RS): resultado do local de votação por zonas eleitorais no 2º turno - G1",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNVmhOMHQtRmNoZW1QRWlnSVBJdmFFTUFiZXFwQTMzenF4Y1M1OTJxMW1uQ2IyQ0lzbDVvNDc4LU9LUTJZLTBaTGpCSWJRaWExMER2Q2RmdElHb2taLWJEdU1waDRxREtXai1USmtocXlCOTB0Z0lXQUI4bzU3SUhqY2RQYnZadjVXdWE1NmFqV1NoWnE2V1AxaVA2OTJ5ZkJmSERmdG91bXIzeEQ4aWlsdldxMEl1cUZTODV5QjY2MUdhSk5pdEZ3bURsOGhYaVVpcTFtZS04NHExOTNGMm1FVUZTZDhDNW5HSTJmcXJPalBfMG5qMWdNX29BMlJiVEHSAY4CQVVfeXFMT1NRRTFiaEtib3plUUx3eFE4MjN4VlExa1VVNEtnNXBZZE56TVdteWV4TEVfUjg4UlZpUGFlUXZlbkxzUlMyV2poVXVJWlRjVzBKN0VzR0dPc0RuVG5Md3VsQ1A5UG01aWhnNXpxWFlMQUpxUlVMWW5QNUVNY2dXb2RKVFRnYkJuT0l4U1hZd0FxblpOeG5tajdveXZKU0xyNzlCdHpYMnE1VkJITE4wZ3habU9WMDNiYVVzdTJyM21Nc3M0TnJBRnRaOWtSZ21JTTBUUTZhYVlMeGdQeWJjRmpINzNJeWVXdlk5U1JuR1VtOS1JRVQ3aDlNVDJhYk82TXJDZ0l2dnhqSDFDRGV3?oc=5",
+   "published": "2026-10-26T05:59:54Z",
+   "published_confirmed": true,
+   "source_id": "gnews-clientes",
+   "source_name": "Google Notícias — Carteira de clientes",
+   "source_authority": "journalistic",
+   "source_category": "clientes",
+   "collected_at": "2026-10-28T15:40:41Z",
+   "publisher": "G1",
+   "client_hint": "SANTA VITORIA",
+   "per_client_source": true,
+   "clients": [],
+   "clients_unconfirmed": [
+    "SANTA VITORIA"
+   ],
+   "categories": [
+    "clientes"
+   ],
+   "tags": [],
+   "sap_modules": [],
+   "nature": [
+    "Notícia corporativa"
+   ],
+   "deadlines": [],
+   "relevance": {
+    "score": 27,
+    "level": "Informativa",
+    "justification": "Pontuação automática 27/100 (fonte 15, recência 12)."
+   },
+   "action_level": "Informativo",
+   "action_ai": "Informativo; sem ação aparente no momento.",
+   "impact_ai": "Natureza provável: Notícia corporativa. O impacto real depende da versão, do ambiente e do escopo de cada projeto.",
+   "content_kind": "Notícia jornalística",
+   "rt_status": null,
+   "confidence": "Baixa",
+   "analysis_origin": "Análise gerada automaticamente por regras; não é determinação da fonte.",
+   "id": "960edd33fe26c8d5",
+   "canonical_url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNVmhOMHQtRmNoZW1QRWlnSVBJdmFFTUFiZXFwQTMzenF4Y1M1OTJxMW1uQ2IyQ0lzbDVvNDc4LU9LUTJZLTBaTGpCSWJRaWExMER2Q2RmdElHb2taLWJEdU1waDRxREtXai1USmtocXlCOTB0Z0lXQUI4bzU3SUhqY2RQYnZadjVXdWE1NmFqV1NoWnE2V1AxaVA2OTJ5ZkJmSERmdG91bXIzeEQ4aWlsdldxMEl1cUZTODV5QjY2MUdhSk5pdEZ3bURsOGhYaVVpcTFtZS04NHExOTNGMm1FVUZTZDhDNW5HSTJmcXJPalBfMG5qMWdNX29BMlJiVEHSAY4CQVVfeXFMT1NRRTFiaEtib3plUUx3eFE4MjN4VlExa1VVNEtnNXBZZE56TVdteWV4TEVfUjg4UlZpUGFlUXZlbkxzUlMyV2poVXVJWlRjVzBKN0VzR0dPc0RuVG5Md3VsQ1A5UG01aWhnNXpxWFlMQUpxUlVMWW5QNUVNY2dXb2RKVFRnYkJuT0l4U1hZd0FxblpOeG5tajdveXZKU0xyNzlCdHpYMnE1VkJITE4wZ3habU9WMDNiYVVzdTJyM21Nc3M0TnJBRnRaOWtSZ21JTTBUUTZhYVlMeGdQeWJjRmpINzNJeWVXdlk5U1JuR1VtOS1JRVQ3aDlNVDJhYk82TXJDZ0l2dnhqSDFDRGV3?oc=5",
+   "content_hash": "fc844809a35e",
+   "first_seen": "2026-10-28T15:41:23Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -4496,7 +6763,7 @@
    "canonical_url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNcFRlVmQ2MlNVVmUzSmVRcFI2QXNpYktrWG1iTDdPbEZwWWcwVFptUUFWMVlUV3I3TzN0dnpXdi12TzY5aFdxYl9Ia2otcndiWTR1M0NoN2Y5dUN4RnZPQzBSbkRYTnpYWE85MW1FdndrNUVoTDlXZkFJaGF4Vy1aR2Q2RWVJaEZGZ0hYRURveURnbEJkS1lUNjN2VWFPYjVDTDNzM0xPUXlkaGVUNGZwM2hvMzB5ZnJwYXNScXdITlhFOTg5TjlGWm1HVkJPa2t2Nk8wTXQwLVhrMU9ISW01WFlFUDREbFlwZlBGX21wLWJTbVNRMzJnd3EzRlZqMHhMd0Z6ckNiSWhnaHNtOG92X3dHSThRZ21LUV9UONIBqwJBVV95cUxQUlREZ3BTMFNaa2N1OXk1RVBDYk9BZG5UbHhzTVYzSzE4QVdfZEV2YVlISWJPRk5COThUbTRkcGZqSGVSZWpWSlhMaTc5dGtTNUh4S1pSSE1xLTNtTzg3WFFySkFLaEwycHZxYjh2SUxJLVZaNlBacWVVMVlfSHBLWHhyTDFBMzlvOXBwTFhXRjdsb3ZPdHNzNG5rU1FJQjNsanBzdVRGX0Z0NEktWmFaTkIwaG44VHVCa0VVc2h0U3l5QU5ndmNZX0MxZXB0enVVUlQyYkR4NjVBYzl2R3J4SEt4MENKTi1KMXhsXzd1Ym4tLTZ5cjNjcjN4YVJGUHdaZXBBRGVrc2g0YkFvRGl0QzBhQjRyeWRFc1VBUUlUMndYbG8tY1lxdDgtbw?oc=5",
    "content_hash": "65a2082f33aa",
    "first_seen": "2026-10-26T15:58:17Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -4592,7 +6859,7 @@
    "canonical_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPQlRSdkFrY0piV21wOEhoQkQ2VHBSenZjM2tDM29HLXJxTEQySEZlWUpNeGFhMzVzZ25YVVc3S1VEMlJTUmpjMVhGYUZfOGhSb2dJOF9YXzZLWkxmTEdFV0NScHYyalo4VUo3ZklDTkVfc3piTklrblBrMV9DRDZPaFlHOFBTb0F4eC0wMmNlbXRtTnVEYzhBUklYQjU3MHk0UjlSUnFqU3VZbnZLRUlCdWh3ckJnVjR6d1lFc0ZmVW5DeGF3RDRacGNZQ3N6X0hXTFI1N1N3UDJpWXpQanRNOTBHdl9UYm0tODRsTDVkNFdRa3RmLWpnMnFfcjXSAYsCQVVfeXFMTV9CQjZvQ2VKTWkyMG9qSkR2ODktakRDOU84MWtqODd4SEF1dGNNYmJSMWVucGZNTE0wVG9zOVVJcVdadmJjVTBjLTNuT2Q4bFJIYjJKSTlfTEpZdXJYWC1zemp5WXNoODRxc2dyQ1VlSUZyUUhzN1d4cllNcWhrbFlMYWhnVk5Cb08ycmpKM1poby1SaG00Qjd5cTNtZ1JGTThvb1dFVjdPR3pJMDEtVjVqWlp0N3R4WHdoWk42UWtJWTNPUzFJbHpuV0IzU0lpQnd1aFBJRkczMU8yUHhmQlBGb0oySnJFOFljTGxEc0pFTWltYjY1QTZEclZ6cTlzekdOWDlOVXowTWE0?oc=5",
    "content_hash": "1e217981b8bc",
    "first_seen": "2026-10-27T15:38:39Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -4692,7 +6959,7 @@
    "history": []
   },
   {
-   "title": "Lula ganha em Santa Vitória do Palmar; veja como a cidade votou - Congresso em Foco",
+   "title": "Lula ganha em Santa Vitória do Palmar (RS); veja como a cidade votou - Congresso em Foco",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ3RPUzlfdnFFSDNfLUtQVXRpeXliUnJ3Rm5VUnlZV0xpWHhaZXBkNnRheHNfSkJwdl9jTUNHLUFHZ2FFWXgzM1RTaGYtSS1fOURUMTRZdXVyNThHQkVPMnhtU0JlMEtfTUx6S095UHFCU2dZYXBqNkY5LXZQb24yS2t2a0JNMmhucUstQTlOR1E1Tmk3cW9KWU9QdUN3aHlWZkNHd3VOWXJ3b3gwdzJHd3ZR?oc=5",
    "published": "2026-10-26T05:44:09Z",
@@ -4717,9 +6984,9 @@
    "nature": [],
    "deadlines": [],
    "relevance": {
-    "score": 30,
+    "score": 27,
     "level": "Informativa",
-    "justification": "Pontuação automática 30/100 (fonte 15, recência 15)."
+    "justification": "Pontuação automática 27/100 (fonte 15, recência 12)."
    },
    "action_level": "Informativo",
    "action_ai": "Informativo; sem ação aparente no momento.",
@@ -4730,12 +6997,18 @@
    "analysis_origin": "Análise gerada automaticamente por regras; não é determinação da fonte.",
    "id": "6a239b42c5146ae1",
    "canonical_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ3RPUzlfdnFFSDNfLUtQVXRpeXliUnJ3Rm5VUnlZV0xpWHhaZXBkNnRheHNfSkJwdl9jTUNHLUFHZ2FFWXgzM1RTaGYtSS1fOURUMTRZdXVyNThHQkVPMnhtU0JlMEtfTUx6S095UHFCU2dZYXBqNkY5LXZQb24yS2t2a0JNMmhucUstQTlOR1E1Tmk3cW9KWU9QdUN3aHlWZkNHd3VOWXJ3b3gwdzJHd3ZR?oc=5",
-   "content_hash": "cc532e63a048",
+   "content_hash": "570dd3d1656f",
    "first_seen": "2026-10-27T15:38:39Z",
-   "last_seen": "2026-10-27T15:38:39Z",
-   "updated_at": null,
+   "last_seen": "2026-10-28T15:41:23Z",
+   "updated_at": "2026-10-28T15:41:23Z",
    "also_in": [],
-   "history": []
+   "history": [
+    {
+     "at": "2026-10-28T15:41:23Z",
+     "change": "Conteúdo atualizado na fonte",
+     "previous_title": "Lula ganha em Santa Vitória do Palmar; veja como a cidade votou - Congresso em Foco"
+    }
+   ]
   },
   {
    "title": "Escola Santa Izabel, 142ª zona eleitoral: resultado da votação em Candiota (RS) no 2º turno - G1",
@@ -4780,7 +7053,7 @@
    "canonical_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxONzFZYnZKRDkyRE1Ec2R5SHdtS0V6enFNWjU0SWFqclNqaDY0Wjd2cDR0d0ozcFlWOENYQ1hPQXV4NEkzcFpkVmlTOWoxeGFCazlJQzlleHNvaHFRUVk3Yk1fQVBTTWxvTWVEaFBQVVA0bzd1RGZsT3dFM3RGWldIX2l2NW04UkVEMmRieFNBdzNsVmxtUDhadUdENmNjYXd5UWFzVmNPSE1OaGpCTmVEYXhBcHJiWEtaQ1JmMUNfMmI4V1NXQmJKdHBqN2ttT3ZyZkhrSVVmZEMtWHpKMWtFWGl2NnNUWEhDcEozT3FpNW9SZF9YOWhvTklFc2XSAYsCQVVfeXFMTmtoOGduWjhjQXMxTUpYTXphNi1LaHFlcUUtcU5YV0loOTlOWWlxTVpFVjhWYV9CcTFCdEFJZDJkT0ZFajdjRldRTnlBd1M2YWg0M05wakRpSTVqUGZyTzRWS3JnSExWNzl3aV9vOWtRR3QxNmJfV05Kd1FfVkpfdERjTXpndURDRHQ0bXk1eG5mOFhiN1o2VVNBcjN5dnhQQV90RWVJbzB3aXg5bm4wM2JrWXVkX0phMmlDV3hWWktIdnI2NGp4azdDeGJUSVdPZDgyQ1ZKc3Rab0VpMWZvbnJGWkNJT21JUWZkOHU0c3VUNTJoOEpBalNRaExncGs3MXZhd0pnb05xa3R3?oc=5",
    "content_hash": "a1cf034b9a28",
    "first_seen": "2026-10-27T15:38:39Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -4924,13 +7197,13 @@
    "canonical_url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNR2tjV1RJQ0xlamlfOHF0NTZfQkdhc1ZaYzBnUkdpNC1Eeks4c25Vd1NGRWJlZXpLeTNYaFc4OXl4MU5jcG9hdmJ4ZmJka0ZzVXBoVGhHRkliNTlBUDNEeUJ4a2RVYjhPdGQzUjhtZVdmQVdXcWUtM2VuaTZqaVJXU1RIdkU1R3k2RTdYQVk1b2NfeENLZ3RBM2NYMXpyY0lHUWNydjJwYk1xQkFKMTV3c1pWdDBfX1RrcjVUbzhVWjVBcU90TGxQTG9EM1FfanQ4bjZFY2c0Qng4TjdCZDZGck5UWU5KM2VtdHhnY2dRMndYYl9HV3lmT0xLOXR1TXfSAY4CQVVfeXFMTnM0dGktWU91TFUxVGRueXhMNmNlVVNrdlhEN2NrRjFvazhTUTVLN25xSmhUQ2x4emN1QmhsNVZJRVFlQlhSLVRmZGxOdmF2T1dKdXM3UFEtNEluVVhibm5ROVVVTERQc1ZpYWNMY0M1blNMWkJrQkJ5R0NWQjRtX3BlYTFFUjNOb1lKYXpKSGNCVlhSNjJ0OFgwUVNUa1NjWkttTzJJRzhNcG5jdUowYkNnbjF1ZEJBUG93ZjduU2lZemJKT2hJSHJRai1nTkZTVU4xVURFbnpPTlVmbm1jeW9QUnRTQl9uUjZZT2l5TW0zLVFlTXR3SWkwMXhkQzRHa203VEQ5a2FEcktFRnRB?oc=5",
    "content_hash": "71b880489e84",
    "first_seen": "2026-10-26T15:58:17Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
   },
   {
-   "title": "Em Santa Izabel do Oeste, Flávio Bolsonaro vence com 56,14% - Congresso em Foco",
+   "title": "Em Santa Izabel do Oeste (PR), Flávio Bolsonaro vence com 56,14% - Congresso em Foco",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcXNKS1pGalZxa2hqZ1BaWGQ3VWV1M2kxa2pXOWthTnNINEliRVA5bXZTemt4NU50bUp5dkR5YW54ZTFoSGl2cWRFWlNKdmgzWllZWkY4QXBtNC1ETy1WcGtVQlhPVTdCVzZaS3Y5Tmx4bnhVZ3RtbjM0NzB6ZTY2VHpNa1BPNUVvZ0R5bUt5eGFvNy1kR2ZPeTlVUVRxOEM0U3o4SHlWbmZzUVk?oc=5",
    "published": "2026-10-26T04:22:31Z",
@@ -4955,9 +7228,9 @@
    "nature": [],
    "deadlines": [],
    "relevance": {
-    "score": 30,
+    "score": 27,
     "level": "Informativa",
-    "justification": "Pontuação automática 30/100 (fonte 15, recência 15)."
+    "justification": "Pontuação automática 27/100 (fonte 15, recência 12)."
    },
    "action_level": "Informativo",
    "action_ai": "Informativo; sem ação aparente no momento.",
@@ -4968,12 +7241,18 @@
    "analysis_origin": "Análise gerada automaticamente por regras; não é determinação da fonte.",
    "id": "95d3eb7d2b7f480f",
    "canonical_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcXNKS1pGalZxa2hqZ1BaWGQ3VWV1M2kxa2pXOWthTnNINEliRVA5bXZTemt4NU50bUp5dkR5YW54ZTFoSGl2cWRFWlNKdmgzWllZWkY4QXBtNC1ETy1WcGtVQlhPVTdCVzZaS3Y5Tmx4bnhVZ3RtbjM0NzB6ZTY2VHpNa1BPNUVvZ0R5bUt5eGFvNy1kR2ZPeTlVUVRxOEM0U3o4SHlWbmZzUVk?oc=5",
-   "content_hash": "aadcd8b9c642",
+   "content_hash": "930c3029fee2",
    "first_seen": "2026-10-27T15:38:39Z",
-   "last_seen": "2026-10-27T15:38:39Z",
-   "updated_at": null,
+   "last_seen": "2026-10-28T15:41:23Z",
+   "updated_at": "2026-10-28T15:41:23Z",
    "also_in": [],
-   "history": []
+   "history": [
+    {
+     "at": "2026-10-28T15:41:23Z",
+     "change": "Conteúdo atualizado na fonte",
+     "previous_title": "Em Santa Izabel do Oeste, Flávio Bolsonaro vence com 56,14% - Congresso em Foco"
+    }
+   ]
   },
   {
    "title": "Associação Comunitária de São Martinho, 252ª zona eleitoral: resultado da votação em São Francisco (MG) no 2º turno - G1",
@@ -5018,7 +7297,7 @@
    "canonical_url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOb2JxNWhUQURFVHZfbnJUQXVCTnBvbjZOb29sWF9EaGxGR2FMN0dYYzhIQ25NNjEwVWxlVkxGQVV5NjVwRlZoLXNSUHRRNzMtMWpyRkhkSGRVbzR0Tm1BeTNJNm9kM21DcS1DbWNKbmNvZ0FPXzA3ZTV3OGVfaEFLV1FEQ0ZxWFFjOHlES3NmX2REeDJUUUZzYlFCdFZUWkpoY2ZyVHB4aVVpYzVmUXdQOFFYalZuZW9ubWt1Z0paR2MyaF9Cd1RMVlJmcTVySm9BeUp5d2ZDUjliZGhYV2lGZWRCLV9na1dXMnplUDJ3YWhIODRYT3B1SEdwRlFCaTNlRGxBbkZmbGh5WGp6cDdfaF9DMGFtd9IBpAJBVV95cUxNdUwzZ3hqbXBLeU9ZbnlnZ3NRSjFQVnk2XzJfMW9MT2dIc2lDbkFoQzNhdVJKa2FzZVdwczNaTHkwUkF2U3d4TEFlbUhsanBKdWJpc2RBTHh0cTRoVG5hdzNUNG5URm5xeTE0Uy01c285NjhLS09fZ3RpcUVjYVI2cGxUTUFnRnZLcTRhT05nVXZHV2dlRmZTbFoxeEp1VHZQWFVhODRNVG9PZkc3Nll4R3gtQm95NXBmQnlPaERPQzlaQnM0N3pvZVJLS2hKZ3RQWlFHdzY1YWVjQ0xRaVRDZTA3YlFteU5hbWp6aG1iTmVKUEFQU0taRloxejcwTEcyTkMxQmxBa21OR1JCdVVYaGIyc1owOGpQWWU5Vl83amVGWGNh?oc=5",
    "content_hash": "4c514a32ffb6",
    "first_seen": "2026-10-27T15:38:39Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -5072,7 +7351,7 @@
    "history": []
   },
   {
-   "title": "São Martinho: Flávio Bolsonaro é o mais votado no segundo turno - Congresso em Foco",
+   "title": "São Martinho (RS): Flávio Bolsonaro é o mais votado no segundo turno - Congresso em Foco",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa0ttclA4WE1oYmJHVkxPVjVkSDdjOS1CakRJSVZEQ2VqX0hYYXVtTDhjUFVTN0F2TUJrLThoNWhrd3pmVEhlSUZDdE5DdFgxSmh5czRrRFpOQUVDU2dXMVo2dFlrZW01bTg4NzhMVHZNWXdkWkh3RWFsRnp1a2Q3LW5hSUJqeU1fZ0x1bjZzNUhsb19lN1p3U1VRRHZnQUF4UlFCTVhGaG1PeW8yWXVRcTdR?oc=5",
    "published": "2026-10-26T03:52:27Z",
@@ -5097,9 +7376,9 @@
    "nature": [],
    "deadlines": [],
    "relevance": {
-    "score": 45,
+    "score": 42,
     "level": "Média",
-    "justification": "Pontuação automática 45/100 (fonte 15, recência 15, cliente 15)."
+    "justification": "Pontuação automática 42/100 (fonte 15, recência 12, cliente 15)."
    },
    "action_level": "Apenas acompanhamento",
    "action_ai": "Acompanhar e considerar no planejamento.",
@@ -5110,12 +7389,18 @@
    "analysis_origin": "Análise gerada automaticamente por regras; não é determinação da fonte.",
    "id": "01f10e562fa98530",
    "canonical_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa0ttclA4WE1oYmJHVkxPVjVkSDdjOS1CakRJSVZEQ2VqX0hYYXVtTDhjUFVTN0F2TUJrLThoNWhrd3pmVEhlSUZDdE5DdFgxSmh5czRrRFpOQUVDU2dXMVo2dFlrZW01bTg4NzhMVHZNWXdkWkh3RWFsRnp1a2Q3LW5hSUJqeU1fZ0x1bjZzNUhsb19lN1p3U1VRRHZnQUF4UlFCTVhGaG1PeW8yWXVRcTdR?oc=5",
-   "content_hash": "57c7d08202cb",
+   "content_hash": "481d9dea7b4a",
    "first_seen": "2026-10-27T15:38:39Z",
-   "last_seen": "2026-10-27T15:38:39Z",
-   "updated_at": null,
+   "last_seen": "2026-10-28T15:41:23Z",
+   "updated_at": "2026-10-28T15:41:23Z",
    "also_in": [],
-   "history": []
+   "history": [
+    {
+     "at": "2026-10-28T15:41:23Z",
+     "change": "Conteúdo atualizado na fonte",
+     "previous_title": "São Martinho: Flávio Bolsonaro é o mais votado no segundo turno - Congresso em Foco"
+    }
+   ]
   },
   {
    "title": "Unidade Integrada de Saúde do Grupo Jacto (Antigo Colégio Shunji), 99ª zona eleitoral: resultado da votação em Pompéia (SP) no 2º turno - G1",
@@ -5160,7 +7445,7 @@
    "canonical_url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQX2lrN2drMmJJajktNkQzSVdIWFI4RV9HU01OZGhGb1Z1YWw2bl9WR2JJbDJfcUhxNExkUFNEdkpocmp4c0xZbUdUSENYTVl6M1ZpMTVJTzJsenhVaU43YnJTZmE0RDZmQS1hb1JEWGN1YUdCWVJQV3lsRzU0VF9HQU5kdDVaS2ZkZ3dfTTZESTVLRHNMOUNJYnFTbzY5U3VweVYtS3ZNUW1tTjRaeV9xakhpV1hrWWRUakNJR0I2WlNYZ2JCYmo0TXdTcF9ramw2OWtqOXVVY1BRMmt2NE9zd0hUMGFBUFRFR3hQc3J1YWtYNHNwdGN1ZEZzUE9sRFlUQzRnWUFGQW91MVVfek1heUtFbGdFNkR2akpQOHA5Y0ZXX1lVdE1lRkZB0gG4AkFVX3lxTFAwQ3pTTENHN0RRV2VOX3FfOFA3OGVDVjc5OGpRTUJXeVJ0MklaTElNbk5vdVZmZkFhWUJ0YVVWRVRtdUV3VXJfSFFydXpBM0ZRY1ZQWUw3cEVZM0lWdGVPbjlnOHQwUkZMSG9yT0RIV0N6T2ZnN2NGNUc0V1U1eTl4cnctSmx6OWtuVGh2aGVQRzFqX2ZCZTFEcU4yUFZEdDZ6Y2VfOHA2X2VDRkZtV1hGSG1rV2FKX2RvdHdaMzNzcHJfekpnck84U3lrZW5DSWpiaG5Zc1VSbzRjbjdrRERpTjQ0SVEzSVVUVzlpcFlEWi1BNlQ1djdvblI1TVNKZmY3djcxbWRjY05jLVJxTWd0YWdSNkdyQS1lSlNNaFdkYWtTeU44Y2FGMVJ5a1ZLUUxCTnV1WGVBMg?oc=5",
    "content_hash": "144344666033",
    "first_seen": "2026-10-27T15:38:39Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -5304,9 +7589,14 @@
    "canonical_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNOUlLX3FMMXQ4Y0JZd1NmOGZKU1VyQm13aTJsbERqUHFyaFpuTkNia05SeDZYYWxZRDZrVVkwNTU2WEtISEV0bkphTnk3Y2FiaTBRUUJfUEZ2LUUzWGtXSFZsVUNzNF9HaVBCV0ZiOEJGQVlFV3VJUTZWM1NibjBQaTBrRTdYY1A4REZsT1FVRGdGSzBuT3pSM2JkaGVBbDJiWWt1bkpJZVZLLTc1VWJja0NHMmxwMkQyUWNnUmlKZTMtU3QwalNScWI1cDJlOGRaX05MV0VRVy1lLTQ1MzV3MFZZSlJfeTA3QkIzLTl30gH8AUFVX3lxTFBBb0xwbGMwM0ZqamV1NFh1b1B5LWlRVFFadzdaRmpOSmZEMk5xTkQ4c2dNTHlab1NFNk5DNjQtWm53bEYxTE50ejZPbVFuV1h4MXNmNHQzREYzUkRtNmV0amJVTFhzR0c3cDN2NmRaVmhhamZFMXBycjZDY3VuTElmQVp2VEpfT2dCTnBJQXhiQVE1QWhVc1FFSVpBSm02T1NGTjB6elMwUnFsa1hMcFJVcnRfS2xpUmR5S1dfQzNmb19zQURrN0tPaDN3S0ZVdWRhWTlSY0xwRF82U2poWnNqT0w0QVo5WHgxanVZd3MydFlsNmM3RkgxMkVYNg?oc=5",
    "content_hash": "f222885a2850",
    "first_seen": "2026-10-26T15:58:17Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
-   "also_in": [],
+   "also_in": [
+    {
+     "source_name": "Google Notícias — Carteira de clientes",
+     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOMUd6MGpRUTNxcWp2UkhjWmo5Z2xpSGQySHYxSkFwc1RJQkQ1UjAtZkRSN0RRa3drUC1EY0p3emxQakh2Q2M0Q19LQm1QMXI1SDd3OTFWZWhhRkxSeV9ldVJLNndyM2s5dmlQckc4cHMwNzNJanJGS2tWbkVDYlpwREdPWU92eXFWZG90dGZ5TzFQTFF6Y2RoRkxJZnRRSFNob2RiWGE1aHdVLUFGNmJVeXF6WGJXQnI4eFdtQ3FvUVQ5aks0c0duQ0RQUFpqVW5pOElIRGpLRzFOOUl3cEk3LTg3c3VCbGpYWWd2YWE5elR3MjVIRHRZMUFtTlBGb0HSAf8BQVVfeXFMTjFHejBqUVEzcXFqdlJIY1pqOWdsaUhkMkh2MUpBcHNUSUJENVIwLWZEUjdEUWt3a1AtRGNKd3psUGpIdkNjNENfS0JtUDFyNUg3dzkxVmVoYUZMUnlfZXVSSzZ3cjNrOXZpUHJHOHBzMDczSWpyRktrVm5FQ2JacERHT1lPdnlxVmRvdHRmeU8xUExRemNkaEZMSWZ0UUhTaG9kYlhhNWh3VS1BRjZiVXlxelhiV0JyOHhXbUNxb1FUOWpLNHNHbkNEUFBaalVuaThJSERqS0cxTjlJd3BJNy04N3N1QmxqWFlndmFhOXpUdzI1SER0WTFBbU5QRm9B?oc=5"
+    }
+   ],
    "history": []
   },
   {
@@ -5400,7 +7690,7 @@
    "canonical_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRFdnLXZjZ2I2aFhtc2M0ZWtqZWY4R0RqUWY0RHRYRGlzUno4TEQ5TC1jRkpnTXBKT2ZaTk9Pc1NsMW5PT2EwaE1PV3FCZUk2eW9wQ3dTbXpTczdTZ0VaWjNEenRFRE4tVzhLaklJUENwZjdoRlFxV2J4bTlHYUNLU2RudFhfYzR3WTFlUUlaZ2hfYlFudTJjRnM5LXZtMXhOMkgwNk12UkV2RkRpYkI5LXh3?oc=5",
    "content_hash": "8c233fc4f87e",
    "first_seen": "2026-10-26T15:58:17Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -5590,7 +7880,7 @@
    "canonical_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNUUFISGk3QVEzYXRiVkZ5b0dzTTI0R1JKWUJBOS04SWc2V0l4Y0FhMHgyZ0JGbkF4bEdRNVljMmFnNm95eU5UWEVSOUFNRUpCMWcxV0ZwMS1UVUZkdHlyUXU2WHFjdGJ4TGI3SWVtTjNZU1gyb25ZaDRicnVrdi14X2tyeWVLN0ZuSmhiR1lsa0hBT2lrYmRnUHhZc1ZldnpHcnB4ZzlTTU9sYzdjQUVTOTh4V0hoVk5KXzB4YWk0d0U4Q1ZJZlA4Q1htR3ZjY0psblFFZGx5QVZORk1nSExHQkRvNzhXS05Z0gH3AUFVX3lxTE42VnNCOXg1eElURks4U2hqT2lCYU1uZ0JmRlBpQXNDT2dMbXFHVWFQLTJWSkh3RjJvckVCNEFNUW9JaGdjaEtoS0hJWWdGN2pON05kT2piUllVOFNjdXVEQTQtcmthejRJdmcwbktuaHJWYS1zZVkyX2Z6b2NxUGt0OWdjdmFoTzVMSTNsb0ZzQk0xeHBFc2ZxYjgtcUE2ZzVRTF82UG9iMllDb013bVpYeVpYWkczZ0dHSE5ud0dVSWE2cXV1eVhiMU51U0JsTG9FM3VvYlowUVo2b1lBSW1YZ2kxVm9NblZ5bVZ2Wm1yczBmUzhHSEE?oc=5",
    "content_hash": "8be84a5c867a",
    "first_seen": "2026-10-26T15:58:17Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -5638,7 +7928,7 @@
    "canonical_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPWDlQQXAzbXFOdVE2QnY4MWxWOVRsd1I0ZVpXdkNPMnAwcjg1ZkEzZmxuYVU0SWxSU0owQTVVQmtpMC1CenhaekFyME9hVDVhemJKQk5xS25BNVJWWklBTHFDOHJJN1dyanhSd1hoTVRiX1F6cldmcENSSUhxQVpWd2tnWmJxcmhfRDB1V3ZOWW5TbUtBcjRQYWNSZEJGZTdQU0p5SW9kMFRvMUNESGFvem9CY2o3YW8tNUI1UmJRcjAyWU04Mk1IQUwyNldJeWc5d01TSzQzNC1iQkMzTFg1VWFFQWJURGk4eXfSAfgBQVVfeXFMT1B3MjRJNlpCeER0S0hwQjQ4NXByREJvU0JmTmNhQ0xwdndoazNyTEY2SThKWWtFMFhEd1F6elo4OFE4dHhFbmV1cFdNcXFlaTR5dmctMFRYbVdCdjBGVHM5V0ptU001UFZKOHQwZ1Y0TlZTTnE4ZjdvcFRwOVM4cnBIa01RZVhDRVA3V3AzcEFaczZwWkJUbTB3MllFNE8takZZbDRpSFVYcGtGRks2dVhmbGFMaldOekZoZHRPVWNfNXRQMkZiYUVVT1hOM2xlUGh4QU94a3pzVXpaUjNsNGlxUmFZdkxyNzRHRnJ2bzFocjEtT0M2a3I?oc=5",
    "content_hash": "00b6dc80e060",
    "first_seen": "2026-10-26T15:58:17Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -5922,7 +8212,7 @@
    "canonical_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPcHRFSnpXZGQyWXU4bzNsMmxlTmdtRjRxZndjQzhfWk5PbzlaV3I2SUExV2g4UWR4WnVYcTdpZXpZaUVoaUxqb3drbEZQaUExZzVBQ280WW5NT0lGVVJNejQ5ZlZRYi1jbXFyLVpkN0pQSzd3NGZaVEhEc09wWXFrWVp5czZuQlJCcjJ0UWw1aUxpVUhLSk1mQ3E5REd4VHBUZjl2bFFTeFV1ZjBNSkdkYUh3a1piem84TzhGZjFWUGczRjdXNXJ2U2pfeWtqSXJ0QlZTUDhSR0pLdUs5V3VUVUpOWmdQZkRraXQ1Q9IB-wFBVV95cUxPd21sOS1Ed3F2aU1wVGY2SXAzNXRTcjYzcFl6R3JjTVFQZnl5dzR1WjkxZUw5eHNma1M2UzlwUHVjVWJyR3VGUVhXb3lkaVBMV0xJNG8yR3ZoN1NycE5uZGpDeWZxWVpIRlBfNkF2WkRCSl9hcDVuYjhuekhzY0wxdHo2WUJlRU0wMDQ0T2JGSlhMUHk2UThKNlJDSC1oV05jeFhoZW9ZWmM3YmFDMTM2b2U5cDFhZTVtYllqVXJmTnpJMWpHZHZmZW10dGd4NWJkTTVCSUVRREwzZUNTYk9NT2t2MzdBcVY5bmNuUXlQaHRRSmdhVzBkeGY2bw?oc=5",
    "content_hash": "e485d8ee92d3",
    "first_seen": "2026-10-26T15:58:17Z",
-   "last_seen": "2026-10-26T15:58:17Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -5970,7 +8260,7 @@
    "canonical_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNVVNmZzk4c0RKS1JXamN2YXg5TWJIWkd2alBUOW8wRm1tU3Rwb1NrbndyZzBGQy1aT0Y0QXR4eUcxSExkejktRW1ZZFVncHVYc3dmbjV2VTdHbUREd0lpQ1lBdHJRWll1QnUxX3RXRnk0Yy1qNTcxS01CSmZHUF9QY2RKOERGSl9ZNkdvOC0wNGFEdDRQajFNOFZreExleDctWEtCWVhOT3FBc25FcW4zMVZzVXBPemlqcE51bzgyYjFZZVJ3TmYtandwem1aT3JRencxd1U4RVNMLUF1eWk2bEtmS0RjUDFWSC1V0gH6AUFVX3lxTE5GTXFES2JKZktXRW1seWJIVHUxaHBXc2diYzVnSnhZVHhuWDZJLXp4aXBXNjVKUGVGalhnenVDd0Q2ejZ1WnMxakF3RWpDYkllWnZmdU10NkRMWURaaXNsWVJBMDY2V3Q4S3BqWUY5MDBBUUd3N2NTU3dpLW8wWEFBWS1sQUU1dDBYaTZaa05zNzFxcWJoY2hRbmg0alZBcjhfc3J4UHZoSE1haUlyRkVRcHdXRmUzYXQ5Q09Ma2UzTzg5cFd5QlU5RkJrazZjNjN5RTkzNFJYX0hUYUh5Vl9QRDItc29OMXNwUThDc0I3bjFRaEg5VHVJQ0E?oc=5",
    "content_hash": "26c4bbbca2c6",
    "first_seen": "2026-10-26T15:58:17Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -6108,7 +8398,7 @@
    "canonical_url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNZ09zdTBMeDdQTDh3emk0WVAyRmJNOGxCNVVJSVVYcUpJRm1XUmhmT0l5dTExX2pCNmVVVTV3OGFKSF81djNHLS1jWHpvRFNZM1hfUDB0Q245TDdaQm9VdnRLN3ZkWVR0VmJsU1pfRzBlUmkydS15bFdTMnFYUGdacVJCcWZGNU02ZE9LeGRja2I2NklRX2RzZUhkWEVvTWJlek5KT3pYaXBtcjY0cXNwbFE5NVFVQzMwLU12bFFISU12YWZpVk1vTFFwY1Brd0RIazFHZVd1QXFTY3ZGV3ZZdXp3UmJMQkNlWDlaYzhiZXFtUUYyMnBhRVNkZE8xRDJJVnNiTy1rSDJvc1pNQVE1Yk5XYmFDdUFvanc?oc=5",
    "content_hash": "cc08d34175b3",
    "first_seen": "2026-10-27T15:38:39Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -8838,7 +11128,7 @@
    "canonical_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/novas-medidas-simplificam-obrigacoes-da-reforma-tributaria-para-nanoempreendedores-e-meis",
    "content_hash": "712e1866fc08",
    "first_seen": "2026-10-23T15:26:55Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -9758,7 +12048,7 @@
    "canonical_url": "https://news.sap.com/2026/10/sap-a-leader-in-gartner-magic-quadrant-digital-commerce-platform-12th-time",
    "content_hash": "dbaae1fbd53d",
    "first_seen": "2026-10-23T15:26:55Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": "2026-10-24T15:18:10Z",
    "also_in": [],
    "history": [
@@ -13040,7 +15330,7 @@
    "canonical_url": "https://news.sap.com/2026/10/sap-announces-q3-2026-results",
    "content_hash": "f9ad5acfa333",
    "first_seen": "2026-10-22T15:27:04Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -13735,7 +16025,7 @@
    "canonical_url": "https://news.sap.com/2026/10/sap-leanix-six-time-leader-gartner-magic-quadrant-ea-tools",
    "content_hash": "1bb5e7543b4d",
    "first_seen": "2026-10-21T15:24:20Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -13781,7 +16071,7 @@
    "canonical_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOEVad0pBdDREVUJpNGpHMjFRcFhEbkl3NVRhMTlkQUJZZkVxODhWb2Q3cElEVHBYaDB0b241b0R6SDlmRTc5SHJSSXZkMGQ5eEJZQ0ZsR2RMTS03dWNaaHlHaFhxdHRIeDVVRDR2QXB6RU1ZSXhpY3BDX1J6Vk1lMw?oc=5",
    "content_hash": "b6e7ff05efb7",
    "first_seen": "2026-10-21T15:24:20Z",
-   "last_seen": "2026-10-21T15:24:20Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -13873,7 +16163,7 @@
    "canonical_url": "https://news.sap.com/2026/10/new-sap-cx-q3-2026-autonomous-cx-arrives",
    "content_hash": "70f0fed5a579",
    "first_seen": "2026-10-21T15:24:20Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -15464,7 +17754,7 @@
    "canonical_url": "https://news.sap.com/2026/10/sap-introduces-ai-powered-roleplays-learners-stay-certified",
    "content_hash": "a8f418736ee3",
    "first_seen": "2026-10-20T15:25:23Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -15594,7 +17884,7 @@
    "canonical_url": "https://news.sap.com/2026/10/suite-advantage-why-enterprises-do-not-evaluate-crm-in-isolation",
    "content_hash": "01eebe3d5b69",
    "first_seen": "2026-10-20T15:25:23Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -15640,7 +17930,7 @@
    "canonical_url": "https://news.sap.com/2026/10/back-to-the-future-30-years-of-sap-teched",
    "content_hash": "26ee5272b0dc",
    "first_seen": "2026-10-20T15:25:23Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -16766,7 +19056,7 @@
    "canonical_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/a-receita-federal-divulga-a-atualizacao-dos-numeros-referentes-as-solicitacoes-de-opcao-pelo-simples-nacional-e-pelo-regime-regular-do-ibs-e-da-cbs",
    "content_hash": "ed2359268560",
    "first_seen": "2026-10-19T15:28:08Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -17406,7 +19696,7 @@
    "canonical_url": "https://news.sap.com/2026/10/sap-recognized-leader-gartner-magic-quadrant-cloud-erp-finance",
    "content_hash": "45c71b8ac025",
    "first_seen": "2026-10-19T15:28:08Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -17448,7 +19738,7 @@
    "canonical_url": "https://news.sap.com/2026/10/gap-no-llm-can-close",
    "content_hash": "c5cc6f4ac366",
    "first_seen": "2026-10-19T15:28:08Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -19148,7 +21438,7 @@
    "canonical_url": "https://www.gov.br/receitafederal/pt-br/assuntos/reforma-tributaria",
    "content_hash": "da0453416957",
    "first_seen": "2026-10-16T15:25:01Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [
     {
@@ -19198,7 +21488,7 @@
    "canonical_url": "https://www.gov.br/pt-br/servicos/aderir-ao-piloto-da-cbs",
    "content_hash": "2a694ae09d3e",
    "first_seen": "2026-10-16T15:25:01Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -19242,7 +21532,7 @@
    "canonical_url": "https://www.gov.br/pt-br/servicos/emitir-nota-fiscal-de-servico-eletronica",
    "content_hash": "644d34f3f191",
    "first_seen": "2026-10-16T15:25:01Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -19286,7 +21576,7 @@
    "canonical_url": "https://www.gov.br/pt-br/servicos/consultar-nota-fiscal-de-servico-eletronica",
    "content_hash": "e2db5348a7c2",
    "first_seen": "2026-10-16T15:25:01Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -19331,7 +21621,7 @@
    "canonical_url": "https://www.gov.br/pt-br/servicos/escolher-regime-de-apuracao-de-bens-e-servicos-ibs-e-da-contribuicao-sobre-bens-e-servicos-cbs",
    "content_hash": "519faabdb53e",
    "first_seen": "2026-10-16T15:25:01Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -19375,7 +21665,7 @@
    "canonical_url": "https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/acoes-e-programas/reforma-tributaria-do-consumo",
    "content_hash": "7d77293a5ccf",
    "first_seen": "2026-10-16T15:25:01Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -19419,7 +21709,7 @@
    "canonical_url": "https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/perguntas-frequentes/piloto-da-reforma-tributaria-do-consumo",
    "content_hash": "54e8ee48444e",
    "first_seen": "2026-10-16T15:25:01Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -19463,7 +21753,7 @@
    "canonical_url": "https://www.gov.br/nfse/pt-br",
    "content_hash": "4034911c0ba4",
    "first_seen": "2026-10-16T15:25:01Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -19507,7 +21797,7 @@
    "canonical_url": "http://www.nfe.fazenda.gov.br/",
    "content_hash": "c82977963e6f",
    "first_seen": "2026-10-16T15:25:01Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -19553,7 +21843,7 @@
    "canonical_url": "https://www.gov.br/receitafederal/nfeouro",
    "content_hash": "b33020b9bed5",
    "first_seen": "2026-10-16T15:25:01Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -19600,7 +21890,7 @@
    "canonical_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/receita-federal-atualiza-o-balanco-de-solicitacoes-de-opcao-pelo-simples-nacional-e-pelo-regime-regular-do-ibs-e-da-cbs-3",
    "content_hash": "550744b9f1a3",
    "first_seen": "2026-10-16T15:25:01Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [
     {
@@ -19662,7 +21952,7 @@
    "canonical_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/reforma-tributaria-86-dos-documentos-fiscais-de-empresas-obrigadas-ja-trazem-destaque-da-cbs",
    "content_hash": "9c656bef58d5",
    "first_seen": "2026-10-16T15:25:01Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -19704,7 +21994,7 @@
    "canonical_url": "https://www.nfe.fazenda.gov.br/portal/listaConteudo.aspx?tipoConteudo=hXHrw4cadF8%3D",
    "content_hash": "5e86315ed35d",
    "first_seen": "2026-10-16T15:25:01Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -19746,7 +22036,7 @@
    "canonical_url": "https://www.nfe.fazenda.gov.br/portal/listaConteudo.aspx?tipoConteudo=hXzemuyNHW4%3D",
    "content_hash": "ad6ec489240c",
    "first_seen": "2026-10-16T15:25:01Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -19790,7 +22080,7 @@
    "canonical_url": "https://www.nfe.fazenda.gov.br/portal/informe.aspx?ehCTG=false&Informe=aG9hbbgK%2FJM%3D",
    "content_hash": "7c3cd6566506",
    "first_seen": "2026-10-16T15:25:01Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -20016,7 +22306,7 @@
    "canonical_url": "https://news.sap.com/2026/10/next-leap-public-services-behind-the-scenes-spublic-berlin",
    "content_hash": "01f130e47574",
    "first_seen": "2026-10-16T15:25:01Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -20239,7 +22529,7 @@
    "canonical_url": "https://news.sap.com/2026/10/10-questions-board-members-should-be-asking-about-security-compliance",
    "content_hash": "47c957dd0e86",
    "first_seen": "2026-10-16T15:25:01Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -20281,7 +22571,7 @@
    "canonical_url": "https://news.sap.com/2026/10/how-ericsson-is-reimagining-b2b-commerce-with-ai",
    "content_hash": "f59ade4151d5",
    "first_seen": "2026-10-16T15:25:01Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -20606,7 +22896,7 @@
    "canonical_url": "https://news.sap.com/2026/10/dachser-migrates-hcm-to-sap-s-4hana-cloud-rise-with-sap",
    "content_hash": "fee7ec3a4d95",
    "first_seen": "2026-10-16T15:25:01Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -20648,7 +22938,7 @@
    "canonical_url": "https://news.sap.com/2026/10/fast-growth-companies-biggest-ai-opportunity-few-capturing",
    "content_hash": "7efca3d45395",
    "first_seen": "2026-10-16T15:25:01Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -21013,7 +23303,7 @@
    "canonical_url": "https://news.sap.com/2026/10/sap-cloud-erp-private-2025-fps02-foundation-autonomous-enterprise",
    "content_hash": "5b642fa7524e",
    "first_seen": "2026-10-16T15:25:01Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -21246,7 +23536,7 @@
    "canonical_url": "https://news.sap.com/2026/10/industry-ai-deep-industry-knowledge-fde-measurable-value",
    "content_hash": "83d3a2c878c3",
    "first_seen": "2026-10-16T15:25:01Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -21431,7 +23721,7 @@
    "canonical_url": "https://news.sap.com/2026/10/next-chapter-spend-management-ai-innovations-sap-ariba-sap-fieldglass-sap-concur",
    "content_hash": "af3c53581659",
    "first_seen": "2026-10-16T15:25:01Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -21475,7 +23765,7 @@
    "canonical_url": "https://news.sap.com/2026/10/sap-advances-finance-operations-embedded-payments-new-consolidation-capabilities-expanded-ai",
    "content_hash": "55831aa039f9",
    "first_seen": "2026-10-16T15:25:01Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -21521,7 +23811,7 @@
    "canonical_url": "https://news.sap.com/2026/10/sap-successfactors-2h-2026-release",
    "content_hash": "7e477ec31501",
    "first_seen": "2026-10-16T15:25:01Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -22652,7 +24942,7 @@
    "canonical_url": "https://news.sap.com/2026/10/joule-work-sap-business-ai-platform-power-next-generation-business-ai",
    "content_hash": "b89c76d1b3ac",
    "first_seen": "2026-10-16T15:25:01Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -22699,7 +24989,7 @@
    "canonical_url": "https://news.sap.com/2026/10/joule-assistants-agents-advance-autonomous-scm",
    "content_hash": "2c505bb93fc4",
    "first_seen": "2026-10-16T15:25:01Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -22839,7 +25129,7 @@
    "canonical_url": "https://news.sap.com/2026/10/sap-connect-keynote-autonomous-enterprise-in-action",
    "content_hash": "4a4e884cc4f1",
    "first_seen": "2026-10-16T15:25:01Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -22883,7 +25173,7 @@
    "canonical_url": "https://news.sap.com/2026/10/sap-accelerates-autonomous-hcm",
    "content_hash": "d3ea8106aaa6",
    "first_seen": "2026-10-16T15:25:01Z",
-   "last_seen": "2026-10-27T15:38:39Z",
+   "last_seen": "2026-10-28T15:41:23Z",
    "updated_at": null,
    "also_in": [],
    "history": []
