@@ -1,6 +1,188 @@
 {
- "generated_at": "2026-11-25T23:30:02Z",
+ "generated_at": "2026-11-26T23:33:32Z",
  "items": [
+  {
+   "title": "Receita Federal realiza live sobre o novo PGDAS no contexto da Reforma Tributária",
+   "summary": "",
+   "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/receita-federal-realiza-live-sobre-o-novo-pgdas-no-contexto-da-reforma-tributaria",
+   "published": null,
+   "published_confirmed": false,
+   "source_id": "receita-noticias",
+   "source_name": "Receita Federal — Notícias",
+   "source_authority": "official",
+   "source_category": "reforma_tributaria",
+   "collected_at": "2026-11-26T23:25:02Z",
+   "publisher": null,
+   "clients": [],
+   "clients_unconfirmed": [],
+   "categories": [
+    "reforma_tributaria"
+   ],
+   "tags": [
+    "reforma tributária"
+   ],
+   "sap_modules": [],
+   "nature": [
+    "Notícia corporativa"
+   ],
+   "deadlines": [],
+   "relevance": {
+    "score": 35,
+    "level": "Informativa",
+    "justification": "Pontuação automática 35/100 (fonte 30, tema 5). Data de publicação não confirmada."
+   },
+   "action_level": "Informativo",
+   "action_ai": "Informativo; sem ação aparente no momento.",
+   "impact_ai": "Natureza provável: Notícia corporativa. O impacto real depende da versão, do ambiente e do escopo de cada projeto.",
+   "content_kind": "Conteúdo oficial",
+   "rt_status": "Comunicado ou previsão sujeita a confirmação",
+   "confidence": "Baixa",
+   "analysis_origin": "Análise gerada automaticamente por regras; não é determinação da fonte.",
+   "id": "6aeab86d9d12f38c",
+   "canonical_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/receita-federal-realiza-live-sobre-o-novo-pgdas-no-contexto-da-reforma-tributaria",
+   "content_hash": "b38256c97467",
+   "first_seen": "2026-11-26T23:33:32Z",
+   "last_seen": "2026-11-26T23:33:32Z",
+   "updated_at": null,
+   "also_in": [],
+   "history": []
+  },
+  {
+   "title": "Comitê Gestor do Simples Nacional publica novas regras para o Simples Nacional e para a transição da Reforma Tributária",
+   "summary": "",
+   "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/comite-gestor-do-simples-nacional-publica-novas-regras-para-o-simples-nacional-e-para-a-transicao-da-reforma-tributaria",
+   "published": null,
+   "published_confirmed": false,
+   "source_id": "receita-noticias",
+   "source_name": "Receita Federal — Notícias",
+   "source_authority": "official",
+   "source_category": "reforma_tributaria",
+   "collected_at": "2026-11-26T23:25:02Z",
+   "publisher": null,
+   "clients": [],
+   "clients_unconfirmed": [],
+   "categories": [
+    "reforma_tributaria"
+   ],
+   "tags": [
+    "comitê gestor",
+    "reforma tributária"
+   ],
+   "sap_modules": [],
+   "nature": [],
+   "deadlines": [],
+   "relevance": {
+    "score": 40,
+    "level": "Média",
+    "justification": "Pontuação automática 40/100 (fonte 30, tema 10). Data de publicação não confirmada."
+   },
+   "action_level": "Apenas acompanhamento",
+   "action_ai": "Acompanhar e considerar no planejamento.",
+   "impact_ai": "Evidências insuficientes para estimar impacto nos projetos.",
+   "content_kind": "Conteúdo oficial",
+   "rt_status": "Comunicado ou previsão sujeita a confirmação",
+   "confidence": "Baixa",
+   "analysis_origin": "Análise gerada automaticamente por regras; não é determinação da fonte.",
+   "id": "a012a1c1f397484c",
+   "canonical_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/comite-gestor-do-simples-nacional-publica-novas-regras-para-o-simples-nacional-e-para-a-transicao-da-reforma-tributaria",
+   "content_hash": "beea2c5289da",
+   "first_seen": "2026-11-26T23:33:32Z",
+   "last_seen": "2026-11-26T23:33:32Z",
+   "updated_at": null,
+   "also_in": [],
+   "history": []
+  },
+  {
+   "title": "Receita Federal amplia acesso ao Ambiente de Produção Restrita do Piloto da CBS",
+   "summary": "",
+   "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-amplia-acesso-ao-ambiente-de-producao-restrita-do-piloto-da-cbs",
+   "published": null,
+   "published_confirmed": false,
+   "source_id": "receita-noticias",
+   "source_name": "Receita Federal — Notícias",
+   "source_authority": "official",
+   "source_category": "reforma_tributaria",
+   "collected_at": "2026-11-26T23:25:02Z",
+   "publisher": null,
+   "clients": [],
+   "clients_unconfirmed": [],
+   "categories": [
+    "reforma_tributaria"
+   ],
+   "tags": [
+    "CBS"
+   ],
+   "sap_modules": [],
+   "nature": [
+    "Prazo ou cronograma",
+    "Notícia corporativa"
+   ],
+   "deadlines": [],
+   "relevance": {
+    "score": 35,
+    "level": "Informativa",
+    "justification": "Pontuação automática 35/100 (fonte 30, tema 5). Data de publicação não confirmada."
+   },
+   "action_level": "Informativo",
+   "action_ai": "Informativo; sem ação aparente no momento.",
+   "impact_ai": "Natureza provável: Prazo ou cronograma. O impacto real depende da versão, do ambiente e do escopo de cada projeto.",
+   "content_kind": "Conteúdo oficial",
+   "rt_status": "Comunicado ou previsão sujeita a confirmação",
+   "confidence": "Baixa",
+   "analysis_origin": "Análise gerada automaticamente por regras; não é determinação da fonte.",
+   "id": "d543e22e9603d06b",
+   "canonical_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-amplia-acesso-ao-ambiente-de-producao-restrita-do-piloto-da-cbs",
+   "content_hash": "645bcf846e4f",
+   "first_seen": "2026-11-26T23:33:32Z",
+   "last_seen": "2026-11-26T23:33:32Z",
+   "updated_at": null,
+   "also_in": [],
+   "history": []
+  },
+  {
+   "title": "SAP and planqc Bring Quantum Computing into Business Processes",
+   "summary": "MUNICH — With planqc, SAP can develop directly on real quantum hardware and shorten the path to real-world business applications.",
+   "url": "https://news.sap.com/2026/11/sap-planqc-bring-quantum-computing-business-processes/",
+   "published": "2026-11-26T12:30:00Z",
+   "published_confirmed": true,
+   "source_id": "sap-news-center",
+   "source_name": "SAP News Center",
+   "source_authority": "official",
+   "source_category": "sap",
+   "collected_at": "2026-11-26T23:25:01Z",
+   "publisher": null,
+   "clients": [],
+   "clients_unconfirmed": [],
+   "categories": [
+    "sap"
+   ],
+   "tags": [
+    "SAP"
+   ],
+   "sap_modules": [],
+   "nature": [],
+   "deadlines": [],
+   "relevance": {
+    "score": 50,
+    "level": "Média",
+    "justification": "Pontuação automática 50/100 (fonte 30, recência 15, tema 5)."
+   },
+   "action_level": "Apenas acompanhamento",
+   "action_ai": "Acompanhar e considerar no planejamento.",
+   "impact_ai": "Evidências insuficientes para estimar impacto nos projetos.",
+   "content_kind": "Conteúdo oficial",
+   "rt_status": null,
+   "confidence": "Média",
+   "analysis_origin": "Análise gerada automaticamente por regras; não é determinação da fonte.",
+   "id": "21698845d9d368e1",
+   "canonical_url": "https://news.sap.com/2026/11/sap-planqc-bring-quantum-computing-business-processes",
+   "content_hash": "a42b8e92022e",
+   "first_seen": "2026-11-26T23:33:32Z",
+   "last_seen": "2026-11-26T23:33:32Z",
+   "updated_at": null,
+   "also_in": [],
+   "history": []
+  },
   {
    "title": "Propostas para linha F do metrô de Buenos Aires superam US$1,5bi - BNamericas",
    "summary": "",
@@ -2098,7 +2280,7 @@
    "canonical_url": "https://news.sap.com/2026/11/ai-changing-first-job-youth-employment-business-agenda",
    "content_hash": "11401b998ad0",
    "first_seen": "2026-11-25T23:30:02Z",
-   "last_seen": "2026-11-25T23:30:02Z",
+   "last_seen": "2026-11-26T23:33:32Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -4157,7 +4339,7 @@
    "canonical_url": "https://news.sap.com/2026/11/how-atlas-copco-group-makes-skills-visible-throughout-organization",
    "content_hash": "09ce68c2b2aa",
    "first_seen": "2026-11-24T23:46:33Z",
-   "last_seen": "2026-11-25T23:30:02Z",
+   "last_seen": "2026-11-26T23:33:32Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -4383,7 +4565,7 @@
    "canonical_url": "https://news.sap.com/2026/11/less-code-more-context-how-ai-is-reshaping-developer-role",
    "content_hash": "83988b62ebe9",
    "first_seen": "2026-11-24T23:46:33Z",
-   "last_seen": "2026-11-25T23:30:02Z",
+   "last_seen": "2026-11-26T23:33:32Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -6853,7 +7035,7 @@
    "canonical_url": "https://news.sap.com/2026/11/how-sap-store-certification-turns-into-customer-trust-for-vertex",
    "content_hash": "18e81b465365",
    "first_seen": "2026-11-24T02:02:40Z",
-   "last_seen": "2026-11-25T23:30:02Z",
+   "last_seen": "2026-11-26T23:33:32Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -7127,7 +7309,7 @@
    "canonical_url": "https://news.sap.com/2026/11/interview-sindhu-gangadharan-sap-labs-india",
    "content_hash": "06b1ea065841",
    "first_seen": "2026-11-24T02:02:40Z",
-   "last_seen": "2026-11-25T23:30:02Z",
+   "last_seen": "2026-11-26T23:33:32Z",
    "updated_at": "2026-11-24T23:46:33Z",
    "also_in": [],
    "history": [
@@ -9207,7 +9389,7 @@
    "canonical_url": "https://news.sap.com/2026/11/how-sap-microsoft-innovate-deliver-ai-value-enterprise",
    "content_hash": "6e944f72aea1",
    "first_seen": "2026-11-20T22:08:46Z",
-   "last_seen": "2026-11-25T23:30:02Z",
+   "last_seen": "2026-11-26T23:33:32Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -9389,7 +9571,7 @@
    "canonical_url": "https://news.sap.com/2026/11/how-sap-concur-helps-san-francisco-49ers-take-game-global",
    "content_hash": "390fc22e0112",
    "first_seen": "2026-11-20T22:08:46Z",
-   "last_seen": "2026-11-25T23:30:02Z",
+   "last_seen": "2026-11-26T23:33:32Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -9482,7 +9664,7 @@
    "canonical_url": "https://news.sap.com/2026/11/takeda-turns-to-sap-erp-digital-transformation",
    "content_hash": "2d8d73479c8f",
    "first_seen": "2026-11-20T22:08:46Z",
-   "last_seen": "2026-11-25T23:30:02Z",
+   "last_seen": "2026-11-26T23:33:32Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -9524,7 +9706,7 @@
    "canonical_url": "https://news.sap.com/2026/11/why-enterprise-architecture-is-becoming-key-to-successful-ai",
    "content_hash": "30b94a11ba6a",
    "first_seen": "2026-11-20T22:08:46Z",
-   "last_seen": "2026-11-25T23:30:02Z",
+   "last_seen": "2026-11-26T23:33:32Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -10073,7 +10255,7 @@
    "canonical_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-cgibs-e-cfc-vao-orientar-mais-de-25-mil-profissionais-da-contabilidade-sobre-destaque-de-cbs-ibs-em-documentos-fiscais",
    "content_hash": "c2f5d30f663e",
    "first_seen": "2026-11-19T22:34:06Z",
-   "last_seen": "2026-11-19T22:34:06Z",
+   "last_seen": "2026-11-26T23:33:32Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -12483,7 +12665,7 @@
    "canonical_url": "https://news.sap.com/2026/11/five-rules-creating-supply-chains-that-can-take-a-hit",
    "content_hash": "9cb8ec9797c0",
    "first_seen": "2026-11-19T22:34:06Z",
-   "last_seen": "2026-11-25T23:30:02Z",
+   "last_seen": "2026-11-26T23:33:32Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -13596,7 +13778,7 @@
    "canonical_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/rfb-e-cgibs-alinham-proximos-passos-da-implementacao-da-reforma-e-reforcam-compromisso-com-a-conformidade-tributaria",
    "content_hash": "3a3dd4e57e5d",
    "first_seen": "2026-11-18T22:29:05Z",
-   "last_seen": "2026-11-19T22:34:06Z",
+   "last_seen": "2026-11-26T23:33:32Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -15354,7 +15536,7 @@
    "canonical_url": "https://news.sap.com/2026/11/bestseller-turned-fragmented-workforce-data-into-trusted-people-intelligence",
    "content_hash": "b4f9c01fa4b7",
    "first_seen": "2026-11-18T22:29:05Z",
-   "last_seen": "2026-11-25T23:30:02Z",
+   "last_seen": "2026-11-26T23:33:32Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -15590,7 +15772,7 @@
    "canonical_url": "https://news.sap.com/2026/11/sap-recognized-gartner-peer-insights-talent-acquisition",
    "content_hash": "5b17a2e23e82",
    "first_seen": "2026-11-18T22:29:05Z",
-   "last_seen": "2026-11-25T23:30:02Z",
+   "last_seen": "2026-11-26T23:33:32Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -17434,7 +17616,7 @@
    "canonical_url": "https://news.sap.com/2026/11/sap-named-leader-idc-marketscape-supply-chain-assessments",
    "content_hash": "d2d9d351f41a",
    "first_seen": "2026-11-17T22:47:12Z",
-   "last_seen": "2026-11-25T23:30:02Z",
+   "last_seen": "2026-11-26T23:33:32Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -17610,7 +17792,7 @@
    "canonical_url": "https://news.sap.com/2026/11/gxp-compliance-life-sciences-sap-raising-standard",
    "content_hash": "f8d6788ab406",
    "first_seen": "2026-11-17T22:47:12Z",
-   "last_seen": "2026-11-25T23:30:02Z",
+   "last_seen": "2026-11-26T23:33:32Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -17934,7 +18116,7 @@
    "canonical_url": "https://news.sap.com/2026/11/thomas-saueressig-to-leave-sap-executive-board",
    "content_hash": "0b8c8b01aaec",
    "first_seen": "2026-11-17T22:47:12Z",
-   "last_seen": "2026-11-25T23:30:02Z",
+   "last_seen": "2026-11-26T23:33:32Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -19657,7 +19839,7 @@
    "canonical_url": "https://news.sap.com/2026/11/sap-completes-acquisition-of-techwolf",
    "content_hash": "de7cf0b71c16",
    "first_seen": "2026-11-16T23:40:42Z",
-   "last_seen": "2026-11-25T23:30:02Z",
+   "last_seen": "2026-11-26T23:33:32Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -20475,7 +20657,7 @@
    "canonical_url": "https://news.sap.com/2026/11/order-management-built-straight-into-sap-dataxstream",
    "content_hash": "43bb1c817734",
    "first_seen": "2026-11-16T23:40:42Z",
-   "last_seen": "2026-11-25T23:30:02Z",
+   "last_seen": "2026-11-26T23:33:32Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -21310,7 +21492,7 @@
    "canonical_url": "https://news.sap.com/2026/11/india-promise-to-platform-global-growth",
    "content_hash": "e496eb41bb66",
    "first_seen": "2026-11-16T23:40:42Z",
-   "last_seen": "2026-11-25T23:30:02Z",
+   "last_seen": "2026-11-26T23:33:32Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -24612,7 +24794,7 @@
    "canonical_url": "https://www.nfe.fazenda.gov.br/portal/informe.aspx?ehCTG=false&Informe=AMQDYLGE6Is%3D",
    "content_hash": "3522bd66aa77",
    "first_seen": "2026-11-13T15:38:59Z",
-   "last_seen": "2026-11-25T23:30:02Z",
+   "last_seen": "2026-11-26T23:33:32Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -25203,7 +25385,7 @@
    "canonical_url": "https://news.sap.com/2026/11/sap-leader-idc-marketscapes-warehouse-management-manufacturing-retail",
    "content_hash": "d55a0da7cfd8",
    "first_seen": "2026-11-13T15:38:59Z",
-   "last_seen": "2026-11-25T23:30:02Z",
+   "last_seen": "2026-11-26T23:33:32Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -25247,7 +25429,7 @@
    "canonical_url": "https://news.sap.com/2026/11/successful-sap-transformation-business-processes",
    "content_hash": "0f16c37872a0",
    "first_seen": "2026-11-13T15:38:59Z",
-   "last_seen": "2026-11-25T23:30:02Z",
+   "last_seen": "2026-11-26T23:33:32Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -27202,7 +27384,7 @@
    "canonical_url": "https://news.sap.com/2026/11/sap-product-level-cloud-emissions-energy-data-customers",
    "content_hash": "92dde0b063a8",
    "first_seen": "2026-11-12T15:48:54Z",
-   "last_seen": "2026-11-25T23:30:02Z",
+   "last_seen": "2026-11-26T23:33:32Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -27570,7 +27752,7 @@
    "canonical_url": "https://news.sap.com/2026/11/a-smooth-ride-through-peak-season-with-trek-bikes",
    "content_hash": "9223d590c42a",
    "first_seen": "2026-11-12T15:48:54Z",
-   "last_seen": "2026-11-25T23:30:02Z",
+   "last_seen": "2026-11-26T23:33:32Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -27715,7 +27897,7 @@
    "canonical_url": "https://news.sap.com/2026/11/hybrid-ai-buyer-customer-experience-research-data-journey-progress",
    "content_hash": "8f0db2eb12cc",
    "first_seen": "2026-11-12T15:48:54Z",
-   "last_seen": "2026-11-25T23:30:02Z",
+   "last_seen": "2026-11-26T23:33:32Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -29943,7 +30125,7 @@
    "canonical_url": "https://news.sap.com/2026/11/sap-and-vf-corporation-open-intelligent-fashion-store",
    "content_hash": "5e2b49d7f38f",
    "first_seen": "2026-11-11T15:40:12Z",
-   "last_seen": "2026-11-25T23:30:02Z",
+   "last_seen": "2026-11-26T23:33:32Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -30580,7 +30762,7 @@
    "canonical_url": "https://news.sap.com/2026/11/abap-platform-becoming-enterprise-grade-execution-backbone-agentic-ai",
    "content_hash": "d0c7404c5870",
    "first_seen": "2026-11-11T15:40:12Z",
-   "last_seen": "2026-11-25T23:30:02Z",
+   "last_seen": "2026-11-26T23:33:32Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -33970,7 +34152,7 @@
    "canonical_url": "https://news.sap.com/2026/11/supply-chain-ai-must-do-more-than-inform-it-must-help-businesses-act",
    "content_hash": "4063bc3dd776",
    "first_seen": "2026-11-10T15:36:57Z",
-   "last_seen": "2026-11-25T23:30:02Z",
+   "last_seen": "2026-11-26T23:33:32Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -34439,7 +34621,7 @@
    "canonical_url": "https://news.sap.com/2026/11/sap-expands-collaboration-astrazeneca-rise-with-sap-business-ai",
    "content_hash": "d3b465d48640",
    "first_seen": "2026-11-10T15:36:57Z",
-   "last_seen": "2026-11-25T23:30:02Z",
+   "last_seen": "2026-11-26T23:33:32Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -36446,7 +36628,7 @@
    "canonical_url": "https://news.sap.com/2026/11/oliva-cigar-crafting-digital-legacy-for-next-century",
    "content_hash": "79494646374f",
    "first_seen": "2026-11-09T15:50:02Z",
-   "last_seen": "2026-11-25T23:30:02Z",
+   "last_seen": "2026-11-26T23:33:32Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -36805,7 +36987,7 @@
    "canonical_url": "https://news.sap.com/2026/11/sap-a-leader-2026-gartner-magic-quadrant-cloud-erp-service-centric-enterprises",
    "content_hash": "943464e4166f",
    "first_seen": "2026-11-09T15:50:02Z",
-   "last_seen": "2026-11-25T23:30:02Z",
+   "last_seen": "2026-11-26T23:33:32Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -54751,7 +54933,7 @@
    "canonical_url": "https://www.nfe.fazenda.gov.br/portal/informe.aspx?ehCTG=false&Informe=JSxhEY85vRU%3D",
    "content_hash": "4c4d17b169c9",
    "first_seen": "2026-10-31T15:24:47Z",
-   "last_seen": "2026-11-25T23:30:02Z",
+   "last_seen": "2026-11-26T23:33:32Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -65259,7 +65441,7 @@
    "canonical_url": "https://www.nfe.fazenda.gov.br/portal/informe.aspx?ehCTG=false&Informe=ADlgg2xjMZI%3D",
    "content_hash": "eda09ee76eb8",
    "first_seen": "2026-10-27T15:38:39Z",
-   "last_seen": "2026-11-25T23:30:02Z",
+   "last_seen": "2026-11-26T23:33:32Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -67505,7 +67687,7 @@
    "canonical_url": "https://www.gov.br/fazenda/pt-br/acesso-a-informacao/acoes-e-programas/regulamentacao-de-medidas-do-plano-brasil-soberano",
    "content_hash": "57133a528d2a",
    "first_seen": "2026-10-26T15:58:17Z",
-   "last_seen": "2026-11-19T22:34:06Z",
+   "last_seen": "2026-11-26T23:33:32Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -67549,7 +67731,7 @@
    "canonical_url": "https://www.gov.br/fazenda/pt-br/acesso-a-informacao/acoes-e-programas/reforma-tributaria/estudos",
    "content_hash": "85084cc0e60f",
    "first_seen": "2026-10-26T15:58:17Z",
-   "last_seen": "2026-11-19T22:34:06Z",
+   "last_seen": "2026-11-26T23:33:32Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -82657,7 +82839,7 @@
    "canonical_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/a-receita-federal-divulga-a-atualizacao-dos-numeros-referentes-as-solicitacoes-de-opcao-pelo-simples-nacional-e-pelo-regime-regular-do-ibs-e-da-cbs",
    "content_hash": "ed2359268560",
    "first_seen": "2026-10-19T15:28:08Z",
-   "last_seen": "2026-11-19T22:34:06Z",
+   "last_seen": "2026-11-26T23:33:32Z",
    "updated_at": null,
    "also_in": [
     {
@@ -85049,7 +85231,7 @@
    "canonical_url": "https://www.gov.br/receitafederal/pt-br/assuntos/reforma-tributaria",
    "content_hash": "da0453416957",
    "first_seen": "2026-10-16T15:25:01Z",
-   "last_seen": "2026-11-19T22:34:06Z",
+   "last_seen": "2026-11-26T23:33:32Z",
    "updated_at": null,
    "also_in": [
     {
@@ -85099,7 +85281,7 @@
    "canonical_url": "https://www.gov.br/pt-br/servicos/aderir-ao-piloto-da-cbs",
    "content_hash": "2a694ae09d3e",
    "first_seen": "2026-10-16T15:25:01Z",
-   "last_seen": "2026-11-19T22:34:06Z",
+   "last_seen": "2026-11-26T23:33:32Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -85143,7 +85325,7 @@
    "canonical_url": "https://www.gov.br/pt-br/servicos/emitir-nota-fiscal-de-servico-eletronica",
    "content_hash": "644d34f3f191",
    "first_seen": "2026-10-16T15:25:01Z",
-   "last_seen": "2026-11-19T22:34:06Z",
+   "last_seen": "2026-11-26T23:33:32Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -85187,7 +85369,7 @@
    "canonical_url": "https://www.gov.br/pt-br/servicos/consultar-nota-fiscal-de-servico-eletronica",
    "content_hash": "e2db5348a7c2",
    "first_seen": "2026-10-16T15:25:01Z",
-   "last_seen": "2026-11-19T22:34:06Z",
+   "last_seen": "2026-11-26T23:33:32Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -85232,7 +85414,7 @@
    "canonical_url": "https://www.gov.br/pt-br/servicos/escolher-regime-de-apuracao-de-bens-e-servicos-ibs-e-da-contribuicao-sobre-bens-e-servicos-cbs",
    "content_hash": "519faabdb53e",
    "first_seen": "2026-10-16T15:25:01Z",
-   "last_seen": "2026-11-19T22:34:06Z",
+   "last_seen": "2026-11-26T23:33:32Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -85276,7 +85458,7 @@
    "canonical_url": "https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/acoes-e-programas/reforma-tributaria-do-consumo",
    "content_hash": "7d77293a5ccf",
    "first_seen": "2026-10-16T15:25:01Z",
-   "last_seen": "2026-11-19T22:34:06Z",
+   "last_seen": "2026-11-26T23:33:32Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -85320,7 +85502,7 @@
    "canonical_url": "https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/perguntas-frequentes/piloto-da-reforma-tributaria-do-consumo",
    "content_hash": "54e8ee48444e",
    "first_seen": "2026-10-16T15:25:01Z",
-   "last_seen": "2026-11-19T22:34:06Z",
+   "last_seen": "2026-11-26T23:33:32Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -85364,7 +85546,7 @@
    "canonical_url": "https://www.gov.br/nfse/pt-br",
    "content_hash": "4034911c0ba4",
    "first_seen": "2026-10-16T15:25:01Z",
-   "last_seen": "2026-11-19T22:34:06Z",
+   "last_seen": "2026-11-26T23:33:32Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -85408,7 +85590,7 @@
    "canonical_url": "http://www.nfe.fazenda.gov.br/",
    "content_hash": "c82977963e6f",
    "first_seen": "2026-10-16T15:25:01Z",
-   "last_seen": "2026-11-19T22:34:06Z",
+   "last_seen": "2026-11-26T23:33:32Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -85454,7 +85636,7 @@
    "canonical_url": "https://www.gov.br/receitafederal/nfeouro",
    "content_hash": "b33020b9bed5",
    "first_seen": "2026-10-16T15:25:01Z",
-   "last_seen": "2026-11-19T22:34:06Z",
+   "last_seen": "2026-11-26T23:33:32Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -85605,7 +85787,7 @@
    "canonical_url": "https://www.nfe.fazenda.gov.br/portal/listaConteudo.aspx?tipoConteudo=hXHrw4cadF8%3D",
    "content_hash": "5e86315ed35d",
    "first_seen": "2026-10-16T15:25:01Z",
-   "last_seen": "2026-11-25T23:30:02Z",
+   "last_seen": "2026-11-26T23:33:32Z",
    "updated_at": null,
    "also_in": [],
    "history": []
@@ -85647,7 +85829,7 @@
    "canonical_url": "https://www.nfe.fazenda.gov.br/portal/listaConteudo.aspx?tipoConteudo=hXzemuyNHW4%3D",
    "content_hash": "ad6ec489240c",
    "first_seen": "2026-10-16T15:25:01Z",
-   "last_seen": "2026-11-25T23:30:02Z",
+   "last_seen": "2026-11-26T23:33:32Z",
    "updated_at": null,
    "also_in": [],
    "history": []

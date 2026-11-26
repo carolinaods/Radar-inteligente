@@ -5264,6 +5264,141 @@
      "duration_s": 78.0
     }
    ]
+  },
+  {
+   "started_at": "2026-11-26T23:25:00Z",
+   "finished_at": "2026-11-26T23:33:33Z",
+   "duration_s": 512.6,
+   "status": "parcial",
+   "first_run": false,
+   "sources_consulted": 8,
+   "items_found": 54,
+   "items_kept": 54,
+   "new": 4,
+   "duplicates": 50,
+   "updated": 0,
+   "sources": [
+    {
+     "id": "sap-news-center",
+     "name": "SAP News Center",
+     "kind": "rss",
+     "status": "ok",
+     "items": 30,
+     "error": null,
+     "note": "",
+     "duration_s": 0.6
+    },
+    {
+     "id": "sap-community-sap-brasil",
+     "name": "SAP Community (busca por tema)",
+     "kind": "manual",
+     "status": "manual",
+     "items": 0,
+     "error": null,
+     "note": "Sem feed confirmado. Incluir links relevantes manualmente em config/manual_items.yml.",
+     "duration_s": 0.0
+    },
+    {
+     "id": "sap-help-whatsnew",
+     "name": "SAP Help Portal",
+     "kind": "manual",
+     "status": "manual",
+     "items": 0,
+     "error": null,
+     "note": "Portal dinâmico; sem coleta automática confiável. Acompanhar manualmente 'What's New'.",
+     "duration_s": 0.0
+    },
+    {
+     "id": "receita-noticias",
+     "name": "Receita Federal — Notícias",
+     "kind": "html_links",
+     "status": "ok",
+     "items": 17,
+     "error": null,
+     "note": "",
+     "duration_s": 1.6
+    },
+    {
+     "id": "nfe-portal",
+     "name": "Portal Nacional da NF-e",
+     "kind": "html_links",
+     "status": "ok",
+     "items": 5,
+     "error": null,
+     "note": "",
+     "duration_s": 1.7
+    },
+    {
+     "id": "confaz",
+     "name": "CONFAZ",
+     "kind": "html_links",
+     "status": "erro",
+     "items": 0,
+     "error": "FetchError: ConnectTimeout: HTTPSConnectionPool(host='www.confaz.fazenda.gov.br', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.confaz.fazenda.gov.br', port após 3 tentativas",
+     "note": "",
+     "duration_s": 114.1
+    },
+    {
+     "id": "fazenda-reforma",
+     "name": "Ministério da Fazenda — Reforma Tributária",
+     "kind": "html_links",
+     "status": "ok",
+     "items": 2,
+     "error": null,
+     "note": "",
+     "duration_s": 1.8
+    },
+    {
+     "id": "dou",
+     "name": "Diário Oficial da União",
+     "kind": "manual",
+     "status": "manual",
+     "items": 0,
+     "error": null,
+     "note": "Busca dinâmica (JavaScript). Sem coleta automática; usar a busca do portal por 'CBS', 'IBS'.",
+     "duration_s": 0.0
+    },
+    {
+     "id": "comite-gestor-ibs",
+     "name": "Comitê Gestor do IBS",
+     "kind": "manual",
+     "status": "manual",
+     "items": 0,
+     "error": null,
+     "note": "Endereço oficial do Comitê Gestor a confirmar quando disponível; incluir quando houver feed/página.",
+     "duration_s": 0.0
+    },
+    {
+     "id": "gnews-sap-reforma",
+     "name": "Google Notícias — SAP e Reforma Tributária",
+     "kind": "google_news",
+     "status": "erro",
+     "items": 0,
+     "error": "3 consulta(s) falharam: \"reforma tributária\" SAP: HTTP 503 após 3 tentativas | \"reforma tributária\" (IBS OR CBS) \"nota técnica\": HTTP 503 após 3 tentativas | \"reforma tributária\" NF-e leiaute: HTTP 503 após 3 tentativas",
+     "note": "",
+     "duration_s": 99.9
+    },
+    {
+     "id": "gnews-sap-mundo",
+     "name": "Google Notícias — Mundo SAP",
+     "kind": "google_news",
+     "status": "erro",
+     "items": 0,
+     "error": "3 consulta(s) falharam: \"SAP S/4HANA\": HTTP 503 após 3 tentativas | \"SAP Brasil\": HTTP 503 após 3 tentativas | \"SAP Activate\" OR \"SAP BTP\" OR \"SAP Joule\": HTTP 503 após 3 tentativas",
+     "note": "",
+     "duration_s": 111.5
+    },
+    {
+     "id": "gnews-clientes",
+     "name": "Google Notícias — Carteira de clientes",
+     "kind": "google_news",
+     "status": "erro",
+     "items": 0,
+     "error": "6 consulta(s) falharam: CIMED: HTTP 503 após 3 tentativas | SANTA IZABEL: HTTP 503 após 3 tentativas | NARDINI: HTTP 503 após 3 tentativas",
+     "note": "",
+     "duration_s": 181.3
+    }
+   ]
   }
  ]
 }
